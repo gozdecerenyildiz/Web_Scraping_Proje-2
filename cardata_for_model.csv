@@ -1,0 +1,1662 @@
+Fiyat,Marka,Yıl,Kilometre,Vites Tipi,Yakıt Tipi,Kasa Tipi,Renk,Motor_Hacmi,Motor_Gucu,Çekiş,Ort_Yakit_Tuketimi,Yakit_Deposu,Agirlik,Silindir_Sayisi,Maksimum Hız
+1475000.0,Honda,2023,6100.0,Otomatik,Benzin,Sedan,Mavi,1498,129,Önden Çekiş,6.5,47,2050,4.0,248
+610000.0,Volkswagen,2008,210000.0,Düz,Benzin,Sedan,Lacivert,1598,115,Önden Çekiş,7.5,70,1548,4.0,180
+715000.0,Fiat,2020,69000.0,Düz,Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1548,4.0,180
+620000.0,Hyundai,2012,199000.0,Otomatik,Dizel,Sedan,Füme,1582,128,Önden Çekiş,5.6,43,1798,4.0,200
+618000.0,Citroen,2021,101000.0,Düz,Dizel,Sedan,Beyaz,1499,100,Önden Çekiş,3.9,50,1675,4.0,185
+460000.0,Renault,2011,254000.0,Yarı Otomatik,Dizel,Sedan,Füme,1461,110,Önden Çekiş,4.4,60,1545,4.0,163
+1265000.0,Mercedes - Benz,2017,88000.0,Otomatik,Dizel,Sedan,Beyaz,1461,109,Önden Çekiş,3.8,50,1810,4.0,188
+455000.0,Renault,2008,217000.0,Düz,LPG & Benzin,MPV,Füme,1598,115,Önden Çekiş,7.2,60,1650,4.0,190
+799000.0,Volkswagen,2013,194000.0,Düz,Benzin,Sedan,Siyah,1390,122,Önden Çekiş,5.9,70,1590,4.0,189
+965000.0,Honda,2017,120000.0,Otomatik,LPG & Benzin,Sedan,Siyah,1597,125,Önden Çekiş,6.7,47,1814,4.0,185
+607000.0,Toyota,2012,66000.0,Düz,Dizel,Hatchback/5,Füme,1364,90,Önden Çekiş,5.0,55,1955,4.0,205
+559000.0,Fiat,2021,101000.0,Düz,Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,6.4,45,2000,4.0,205
+1243000.0,Audi,2016,119000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1598,110,Önden Çekiş,3.7,50,1749,4.0,175
+555000.0,Renault,2011,198000.0,Düz,Dizel,Sedan,Siyah,1461,110,Önden Çekiş,5.0,66,1642,4.0,195
+707500.0,Renault,2017,99000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.7,45,1675,4.0,186
+310000.0,Fiat,2006,289000.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1370,95,Önden Çekiş,6.7,58,2020,4.0,182
+287000.0,Opel,2000,235000.0,Düz,Benzin,Hatchback/5,Gri (Gümüş),1199,65,Önden Çekiş,6.5,42,1555,4.0,180
+855000.0,Volkswagen,2016,113000.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1395,125,Önden Çekiş,5.0,55,1555,4.0,180
+310000.0,Renault,2013,249000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,1740,4.0,212
+605000.0,Kia,2016,144000.0,Düz,Dizel,Hatchback/5,Beyaz,1396,90,Önden Çekiş,3.9,43,1370,4.0,163
+715000.0,Renault,2018,168000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.7,45,1870,4.0,206
+1075000.0,Skoda,2018,135000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,110,Önden Çekiş,3.7,50,1609,4.0,167
+735000.0,Honda,2010,164000.0,Düz,LPG & Benzin,Sedan,Bej,1595,125,Önden Çekiş,6.7,50,1855,4.0,197
+639000.0,Renault,2017,149000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.7,45,1690,4.0,172
+699000.0,Dacia,2017,86000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.8,50,1708,4.0,176
+272000.0,Hyundai,2006,226000.0,Düz,Dizel,Sedan,Beyaz,1493,82,Önden Çekiş,5.5,45,1693,4.0,197
+615000.0,Volkswagen,2013,132000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,90,Önden Çekiş,4.3,45,1708,4.0,176
+380000.0,Renault,2010,225000.0,Düz,Dizel,Sedan,Gri (Gümüş),1461,85,Önden Çekiş,4.3,50,1620,4.0,166
+850000.0,Ford,2018,115000.0,Otomatik,Dizel,Bilinmiyor,Diğer,1500,120,Önden Çekiş,4.3,47,1535,4.0,177
+1180000.0,Volvo,2017,68000.0,Otomatik,Benzin,Sedan,Beyaz,1498,152,Önden Çekiş,5.8,67,1660,4.0,170
+435000.0,Renault,2009,153000.0,Düz,LPG & Benzin,Sedan,Gri,1390,75,Önden Çekiş,7.1,50,1850,4.0,194
+349500.0,Honda,2004,238000.0,Düz,LPG & Benzin,Hatchback/5,Mavi,1339,83,Önden Çekiş,5.8,42,2245,4.0,243
+705000.0,Renault,2016,145000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.7,45,1489,4.0,170
+570000.0,Volkswagen,2007,350000.0,Düz,Benzin,Sedan,Siyah,1598,115,Önden Çekiş,6.9,55,1470,4.0,170
+265000.0,Fiat,1998,265000.0,Düz,LPG & Benzin,Sedan,Gri,1581,103,Önden Çekiş,8.1,63,1945,4.0,210
+350000.0,Fiat,2004,274000.0,Düz,LPG & Benzin,Hatchback/5,Gri,1242,81,Önden Çekiş,7.2,51,1708,4.0,176
+909750.0,Volkswagen,2015,192000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,105,Önden Çekiş,4.7,55,1870,4.0,194
+699000.0,Dacia,2020,49900.0,Düz,Dizel,MPV,Beyaz,1461,95,Önden Çekiş,4.2,50,1708,4.0,176
+375000.0,Peugeot,2010,244000.0,Düz,Dizel,Hatchback/5,Siyah,1398,71,Önden Çekiş,4.2,50,1730,4.0,187
+455000.0,Hyundai,2012,208000.0,Düz,Dizel,Hatchback/5,Beyaz,1396,90,Önden Çekiş,4.3,45,1565,4.0,168
+576000.0,Peugeot,2009,186000.0,Otomatik,LPG & Benzin,Hatchback/5,Beyaz,1598,122,Önden Çekiş,7.3,60,1370,4.0,166
+435000.0,Volkswagen,2004,202000.0,Otomatik,Benzin,Hatchback/5,Gri (Gümüş),1595,102,Önden Çekiş,8.0,55,1920,4.0,190
+765000.0,Volkswagen,2018,205000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,95,Önden Çekiş,3.9,40,1476,4.0,166
+850000.0,Renault,2017,93000.0,Düz,Dizel,Hatchback/5,Mavi (metalik),1461,110,Önden Çekiş,3.7,47,1620,4.0,174
+549750.0,Volkswagen,2006,240000.0,Düz,LPG & Benzin,Sedan,Füme,1598,115,Önden Çekiş,6.9,55,1700,4.0,185
+555000.0,Volkswagen,2011,190000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1390,85,Önden Çekiş,5.9,45,1700,4.0,185
+699999.0,Volkswagen,2012,259000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,105,Önden Çekiş,4.7,55,1743,4.0,185
+419750.0,Volkswagen,2000,355000.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1595,105,Önden Çekiş,6.8,55,1841,4.0,187
+735000.0,Ford,2012,121000.0,Düz,Dizel,MPV,Beyaz,1560,115,Önden Çekiş,4.6,53,1841,4.0,187
+378000.0,Ford,2006,266000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1399,68,Önden Çekiş,4.3,45,1550,4.0,177
+640000.0,Audi,2005,172000.0,Düz,LPG & Benzin,Sedan,Gri (metalik),1595,102,Önden Çekiş,8.0,70,1684,4.0,192
+380000.0,Ford,2005,334000.0,Otomatik,LPG & Benzin,Sedan,Füme,1596,100,Önden Çekiş,7.8,55,1915,4.0,184
+865000.0,Toyota,2021,64270.0,Otomatik,Benzin,Sedan,Beyaz,1490,125,Önden Çekiş,5.8,50,1915,4.0,184
+580000.0,Fiat,2011,128000.0,Yarı Otomatik,Benzin,Hatchback/3,Beyaz,1242,69,Önden Çekiş,5.0,35,1660,4.0,170
+995000.0,Mercedes - Benz,2013,176000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1595,122,Önden Çekiş,5.8,50,1845,4.0,190
+539000.0,Peugeot,2008,216000.0,Düz,Dizel,Station wagon,Gri (Gümüş),1560,91,Önden Çekiş,4.7,50,1620,4.0,173
+1095000.0,Audi,2016,144000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,110,Önden Çekiş,3.9,50,1305,4.0,160
+455000.0,Honda,2002,255000.0,Otomatik,LPG & Benzin,Sedan,Yeşil (metalik),1590,110,Önden Çekiş,7.0,50,1720,4.0,192
+850000.0,Volkswagen,2016,177000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,110,Önden Çekiş,3.9,50,1570,3.0,173
+1150000.0,BMW,2015,66185.0,Otomatik,Dizel,Hatchback/5,Beyaz,1496,116,Arkadan İtiş,4.1,52,1680,3.0,187
+419750.0,Fiat,2008,194000.0,Düz,Dizel,Sedan,Siyah,1248,90,Önden Çekiş,4.9,45,1550,4.0,192
+650000.0,Fiat,2017,130000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1550,4.0,192
+1120000.0,Peugeot,2023,6100.0,Otomatik,Benzin,Hatchback/5,Sarı,1199,132,Önden Çekiş,4.5,44,2140,4.0,211
+775000.0,Honda,2012,174000.0,Düz,LPG & Benzin,Sedan,Beyaz,1595,125,Önden Çekiş,6.7,50,1820,4.0,195
+848000.0,Volkswagen,2014,165200.0,Yarı Otomatik,Dizel,Sedan,Siyah,1598,105,Önden Çekiş,4.7,55,1915,3.0,200
+410000.0,Volkswagen,2000,270000.0,Otomatik,LPG & Benzin,Hatchback/5,Gri (Gümüş),1595,102,Önden Çekiş,8.0,55,1685,4.0,170
+615500.0,Volkswagen,2010,237000.0,Yarı Otomatik,Benzin,Bilinmiyor,Diğer,1390,160,Önden Çekiş,6.3,55,1730,4.0,183
+544950.0,Dacia,2015,122000.0,Düz,Dizel,Hatchback/5,Bordo,1461,90,Önden Çekiş,4.0,50,1920,4.0,190
+309000.0,Renault,2005,251000.0,Düz,LPG & Benzin,Sedan,Bej,1390,98,Önden Çekiş,7.0,50,1700,4.0,185
+490000.0,Peugeot,2008,275000.0,Düz,Dizel,Sedan,Siyah,1560,112,Önden Çekiş,5.3,66,1730,4.0,218
+655000.0,Peugeot,2012,182000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1560,114,Önden Çekiş,4.4,72,1675,4.0,185
+718000.0,Volkswagen,2013,158000.0,Yarı Otomatik,Benzin,Sedan,Siyah,1197,105,Önden Çekiş,5.4,55,1642,4.0,195
+255000.0,Tofaş,2000,111111.0,Düz,LPG & Benzin,Sedan,Gri (metalik),1581,96,Arkadan İtiş,6.6,45,1500,4.0,186
+565000.0,Peugeot,2008,157500.0,Otomatik,LPG & Benzin,Hatchback/5,Siyah,1598,122,Önden Çekiş,7.0,50,2020,4.0,192
+869000.0,Hyundai,2019,127000.0,Düz,LPG & Benzin,Sedan,Beyaz,1591,127,Önden Çekiş,6.6,50,2005,4.0,197
+1350000.0,Volkswagen,2015,106000.0,Yarı Otomatik,Benzin,Sedan,Siyah,1395,125,Önden Çekiş,5.0,66,1800,4.0,190
+1150000.0,Honda,2020,146500.0,Otomatik,LPG & Benzin,Sedan,Gri,1597,125,Önden Çekiş,6.3,46,1450,4.0,180
+925000.0,Seat,2016,101500.0,Düz,Benzin,Hatchback/5,Beyaz,1395,150,Önden Çekiş,4.9,50,1605,4.0,195
+605000.0,Fiat,2017,103000.0,Düz,LPG & Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,2230,4.0,225
+744900.0,Fiat,2017,92620.0,Yarı Otomatik,Dizel,MPV,Kırmızı,1248,95,Önden Çekiş,3.9,50,2230,4.0,225
+569750.0,Hyundai,2015,195000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1368,100,Önden Çekiş,6.2,50,1675,4.0,185
+385000.0,Volkswagen,1998,325000.0,Otomatik,LPG & Benzin,Sedan,Gri (Gümüş),1781,150,Önden Çekiş,9.1,62,1704,3.0,178
+705000.0,Citroen,2021,60000.0,Düz,Dizel,Sedan,Beyaz,1499,100,Önden Çekiş,3.9,50,1845,4.0,171
+445000.0,Renault,2010,195000.0,Düz,Dizel,Sedan,Beyaz,1461,65,Önden Çekiş,4.5,50,1460,4.0,163
+405000.0,Renault,2007,275000.0,Düz,Dizel,Sedan,Gri (Gümüş),1461,106,Önden Çekiş,4.7,60,1584,4.0,170
+520000.0,Renault,2013,256000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,4.4,60,1870,4.0,217
+385000.0,Toyota,2009,260000.0,Düz,Dizel,Sedan,Gri (Gümüş),1364,90,Önden Çekiş,4.9,55,1590,4.0,189
+660000.0,Toyota,2012,192000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1364,90,Önden Çekiş,4.8,55,1535,4.0,160
+459000.0,Seat,2007,249000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1595,102,Önden Çekiş,7.6,55,1814,4.0,185
+740000.0,Ford,2015,208000.0,Yarı Otomatik,LPG & Benzin,Sedan,Lacivert,1596,125,Önden Çekiş,6.3,55,1749,4.0,175
+975000.0,Renault,2019,51000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,3.8,49,1579,4.0,162
+835000.0,Honda,2012,89000.0,Düz,Benzin,Sedan,Gri (Gümüş),1595,125,Önden Çekiş,6.7,50,1783,4.0,184
+570000.0,Renault,2017,148400.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.7,45,1375,4.0,160
+600000.0,Volkswagen,2005,106200.0,Otomatik,Benzin,Hatchback/3,Gri,1595,102,Önden Çekiş,7.4,55,1605,3.0,170
+569900.0,Ford,2011,197000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1596,100,Önden Çekiş,6.7,55,1693,4.0,197
+650000.0,Seat,2014,247000.0,Düz,Dizel,Hatchback/5,Beyaz,1598,105,Önden Çekiş,4.4,55,1708,4.0,176
+745000.0,Volkswagen,2012,147000.0,Yarı Otomatik,LPG & Benzin,Hatchback/5,Gri (Gümüş),1390,122,Önden Çekiş,6.0,55,1790,4.0,181
+825000.0,Renault,2020,50000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1332,130,Önden Çekiş,5.2,42,1750,4.0,182
+460000.0,Volkswagen,2004,295000.0,Otomatik,Dizel,Sedan,Diğer,1896,130,Önden Çekiş,7.0,62,2330,6.0,244
+455000.0,Kia,2006,155000.0,Düz,Dizel,Hatchback/5,Kahverengi,1493,102,Önden Çekiş,4.9,55,1241,4.0,200
+720000.0,Toyota,2015,138000.0,Otomatik,Benzin,Sedan,Beyaz,1598,132,Önden Çekiş,6.1,55,2000,4.0,203
+685000.0,Seat,2016,129000.0,Yarı Otomatik,Benzin,Hatchback/5,Kırmızı,1197,110,Önden Çekiş,4.9,50,1460,4.0,170
+439901.0,Opel,2004,198000.0,Düz,LPG & Benzin,MPV,Beyaz,1598,100,Önden Çekiş,7.5,53,1785,4.0,185
+1450000.0,Peugeot,2021,55000.0,Otomatik,Dizel,Sedan,Siyah,1499,130,Önden Çekiş,3.8,55,1770,4.0,190
+1445000.0,Peugeot,2021,55000.0,Otomatik,Dizel,Sedan,Siyah,1499,130,Önden Çekiş,3.8,55,1730,4.0,191
+595000.0,Hyundai,2013,55000.0,Düz,Benzin,Hatchback/5,Gri (Gümüş),1248,85,Önden Çekiş,4.9,45,1855,4.0,175
+525000.0,Renault,2010,143000.0,Düz,Benzin,Sedan,Beyaz,1598,110,Önden Çekiş,6.8,60,1609,4.0,167
+725500.0,Peugeot,2010,188000.0,Otomatik,Benzin,Bilinmiyor,Beyaz,1598,142,Önden Çekiş,8.1,60,1840,4.0,210
+419900.0,Ford,2006,202798.0,Düz,Dizel,Hatchback/5,Mavi (metalik),1399,68,Önden Çekiş,4.3,45,2020,4.0,208
+380000.0,Renault,2006,251000.0,Düz,Dizel,Sedan,Gri,1461,80,Önden Çekiş,4.7,50,2020,4.0,208
+719900.0,Opel,2011,148031.0,Otomatik,Benzin,Hatchback/5,Beyaz,1364,140,Önden Çekiş,7.0,56,1475,4.0,168
+285000.0,Tofaş,1998,222222.0,Düz,LPG & Benzin,Sedan,Mavi (metalik),1581,96,Arkadan İtiş,6.6,45,1745,4.0,197
+1645000.0,Skoda,2021,43000.0,Yarı Otomatik,Benzin,Hatchback/5,Gri,1498,150,Önden Çekiş,5.4,66,1710,4.0,193
+485000.0,Volkswagen,2005,240000.0,Düz,Benzin,Hatchback/5,Kırmızı,1598,115,Önden Çekiş,6.7,55,2055,4.0,205
+365000.0,Volkswagen,2001,108000.0,Düz,Benzin,Hatchback/5,Kırmızı,1390,100,Önden Çekiş,6.7,45,1535,4.0,164
+745000.0,Renault,2017,122000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,3.8,49,1500,4.0,162
+445000.0,Hyundai,2012,195000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1396,90,Önden Çekiş,4.3,45,1870,4.0,200
+669000.0,Renault,2018,156000.0,Yarı Otomatik,Dizel,Hatchback/5,Kırmızı,1461,90,Önden Çekiş,3.7,45,2075,4.0,219
+625901.0,Citroen,2017,77000.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.1,48,1770,4.0,192
+439500.0,Fiat,2013,175000.0,Düz,Dizel,Sedan,Gri,1248,95,Önden Çekiş,4.9,45,1500,4.0,188
+1059000.0,Honda,2019,47000.0,Otomatik,Benzin,Sedan,Beyaz,1597,125,Önden Çekiş,6.3,46,1620,4.0,174
+534750.0,Citroen,2017,168000.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.3,48,1620,4.0,174
+750000.0,Toyota,2017,148500.0,Düz,Dizel,Sedan,Beyaz,1364,90,Önden Çekiş,4.1,55,1708,4.0,176
+625000.0,Renault,2012,210500.0,Yarı Otomatik,Dizel,Sedan,Gri,1461,110,Önden Çekiş,4.4,60,1660,4.0,170
+985000.0,Renault,2019,130000.0,Yarı Otomatik,Dizel,Bilinmiyor,Diğer,1461,110,Önden Çekiş,3.8,49,1555,4.0,180
+540000.0,Renault,2010,138800.0,Otomatik,Benzin,Bilinmiyor,Diğer,1149,75,Önden Çekiş,5.6,55,1780,4.0,180
+735000.0,Ford,2013,155000.0,Düz,Dizel,Hatchback/5,Gri,1560,95,Önden Çekiş,4.2,53,1485,4.0,170
+712500.0,Ford,2016,100000.0,Düz,Benzin,Hatchback/5,Beyaz,1388,96,Önden Çekiş,5.7,42,2010,6.0,210
+509000.0,Fiat,2015,150500.0,Düz,Dizel,Sedan,Gri (metalik),1248,95,Önden Çekiş,4.9,45,1675,4.0,186
+540000.0,Honda,2009,340000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1339,100,Önden Çekiş,6.4,42,1580,4.0,171
+1100000.0,Toyota,2021,39000.0,Otomatik,Hibrit,Sedan,Gri,1798,98,Önden Çekiş,3.5,43,1900,4.0,180
+505950.0,Renault,2012,204000.0,Düz,Dizel,Sedan,Gri,1461,90,Önden Çekiş,4.4,60,1795,4.0,190
+860000.0,Toyota,2016,140200.0,Yarı Otomatik,Dizel,Sedan,Kahverengi,1364,90,Önden Çekiş,4.1,55,1530,4.0,175
+655000.0,Renault,2013,215000.0,Yarı Otomatik,Dizel,Sedan,Gri (Gümüş),1461,110,Önden Çekiş,4.4,60,1660,4.0,170
+1099000.0,Ford,2019,70000.0,Otomatik,Dizel,Sedan,Kahverengi,1500,120,Önden Çekiş,4.3,47,1771,4.0,180
+474950.0,Ford,2011,223000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1398,70,Önden Çekiş,4.2,45,1780,4.0,180
+639000.0,Fiat,2020,109421.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1814,4.0,185
+519500.0,Opel,2014,86000.0,Düz,Dizel,Hatchback/5,Beyaz,1248,75,Önden Çekiş,4.2,45,1699,4.0,178
+555000.0,Audi,2010,264000.0,Yarı Otomatik,Benzin,Hatchback/3,Siyah,1595,102,Önden Çekiş,6.7,55,1707,4.0,192
+929750.0,Ford,2018,45000.0,Düz,LPG & Benzin,Sedan,Beyaz,1596,125,Önden Çekiş,6.0,55,1579,4.0,162
+399000.0,Honda,2005,197000.0,Otomatik,Benzin,Hatchback/5,Mavi,1339,83,Önden Çekiş,5.9,42,1730,4.0,183
+405000.0,Renault,2008,310000.0,Otomatik,Dizel,Sedan,Gri (Gümüş),1461,100,Önden Çekiş,4.9,60,1565,4.0,163
+1750000.0,Volkswagen,2022,75000.0,Yarı Otomatik,Benzin,Sedan,Siyah,1498,150,Önden Çekiş,5.3,66,1780,4.0,185
+1100000.0,BMW,2016,78000.0,Otomatik,Dizel,MPV,Lacivert,1496,116,Önden Çekiş,4.0,51,2110,4.0,210
+985000.0,BMW,2010,95000.0,Otomatik,Benzin,Sedan,Siyah,1596,116,Arkadan İtiş,7.9,63,1900,4.0,192
+850000.0,Ford,2014,128000.0,Düz,Dizel,Sedan,Beyaz,1560,115,Önden Çekiş,4.2,53,1852,4.0,190
+850000.0,Ford,2017,69974.0,Yarı Otomatik,Dizel,Sedan,Gri,1499,120,Önden Çekiş,4.2,55,1725,4.0,182
+699000.0,Honda,2009,220000.0,Otomatik,LPG & Benzin,Sedan,Siyah,1595,125,Önden Çekiş,7.1,50,1920,3.0,195
+640000.0,Seat,2014,25000.0,Düz,Benzin,Hatchback/5,Beyaz,1390,85,Önden Çekiş,5.9,45,1860,4.0,203
+695000.0,Fiat,2016,90200.0,Düz,Dizel,MPV,Kırmızı,1598,120,Önden Çekiş,4.2,50,1880,4.0,209
+825000.0,Opel,2017,42600.0,Otomatik,Benzin,Hatchback/5,Mavi,1399,150,Önden Çekiş,5.5,52,1900,4.0,193
+320000.0,Renault,2001,255000.0,Düz,Benzin,Hatchback/5,Gri,1390,98,Önden Çekiş,6.7,50,1526,4.0,177
+1025000.0,Volkswagen,2015,88000.0,Düz,Benzin,Sedan,Beyaz,1395,125,Önden Çekiş,5.3,66,1550,4.0,177
+525000.0,Opel,2006,277000.0,Düz,LPG & Benzin,Sedan,Bej,1598,105,Önden Çekiş,6.9,61,1885,4.0,190
+347500.0,Peugeot,2001,155000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1587,109,Önden Çekiş,8.8,50,1545,4.0,185
+1048000.0,Ford,2019,95000.0,Otomatik,Dizel,Station wagon,Gri (titanyum),1500,120,Önden Çekiş,4.3,47,1609,4.0,167
+664750.0,Opel,2012,66000.0,Düz,Benzin,Sedan,Mavi (metalik),1598,115,Önden Çekiş,6.8,52,1609,4.0,167
+735000.0,Ford,2018,122500.0,Düz,Dizel,Sedan,Beyaz,1500,120,Önden Çekiş,3.4,47,1995,4.0,208
+737000.0,Renault,2018,78000.0,Düz,Dizel,Station wagon,Beyaz,1461,75,Önden Çekiş,3.6,45,1550,4.0,200
+575000.0,Renault,2016,145000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,1785,4.0,193
+955000.0,Ford,2020,66000.0,Otomatik,Dizel,Sedan,Beyaz,1500,120,Önden Çekiş,4.3,47,1996,4.0,196
+1049000.0,Peugeot,2019,162000.0,Otomatik,Dizel,Sedan,Füme,1499,130,Önden Çekiş,3.8,55,1647,4.0,168
+908000.0,Renault,2018,116000.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1461,110,Önden Çekiş,3.7,47,1609,4.0,167
+580000.0,Ford,2011,218345.0,Düz,Dizel,Sedan,Gri (Gümüş),1560,115,Önden Çekiş,4.2,53,1566,4.0,190
+860000.0,Volkswagen,2015,65000.0,Yarı Otomatik,Benzin,Hatchback/5,Kırmızı,1197,90,Önden Çekiş,4.7,45,1730,4.0,192
+3400000.0,BMW,2022,19600.0,Otomatik,Benzin,Bilinmiyor,Yeşil,1597,170,Arkadan İtiş,6.1,59,1951,4.0,187
+1760000.0,Audi,2017,98000.0,Yarı Otomatik,Benzin,Sedan,Gri,1395,150,Önden Çekiş,5.2,54,1900,4.0,193
+730000.0,Fiat,2023,11000.0,Düz,Benzin,Sedan,Füme,1368,95,Önden Çekiş,6.4,45,1727,4.0,184
+579900.0,Volkswagen,2014,325000.0,Yarı Otomatik,Dizel,Sedan,Gri,1598,105,Önden Çekiş,4.7,55,1970,4.0,230
+820000.0,Renault,2021,100000.0,Düz,Benzin,Sedan,Beyaz,1332,140,Önden Çekiş,5.7,50,2028,4.0,197
+310000.0,Volkswagen,1999,275000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1598,75,Önden Çekiş,6.9,45,1650,4.0,188
+390000.0,Ford,2006,319000.0,Düz,LPG & Benzin,Hatchback/5,Bordo,1596,100,Önden Çekiş,6.7,55,1341,4.0,197
+553000.0,Volkswagen,2012,185000.0,Düz,Dizel,Hatchback/5,Siyah,1199,75,Önden Çekiş,3.8,45,1920,4.0,190
+695000.0,Renault,2017,214000.0,Yarı Otomatik,Dizel,Sedan,Gri (titanyum),1461,110,Önden Çekiş,3.8,49,1903,4.0,205
+645000.0,Fiat,2018,82000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,3.9,45,1325,4.0,172
+650000.0,Renault,2016,250000.0,Düz,Dizel,Bilinmiyor,Diğer,1461,75,Önden Çekiş,3.6,45,1730,4.0,180
+1089000.0,BMW,2012,188500.0,Otomatik,Benzin,Sedan,Siyah,1598,136,Arkadan İtiş,5.8,60,1620,3.0,170
+417000.0,Renault,2013,206000.0,Düz,Dizel,Sedan,Beyaz,1461,75,Önden Çekiş,3.9,50,1820,4.0,200
+859000.0,Mercedes - Benz,2012,143500.0,Yarı Otomatik,Benzin,MPV,Beyaz,1595,122,Önden Çekiş,5.9,56,1820,4.0,200
+1150000.0,Volkswagen,2018,183000.0,Düz,Benzin,Sedan,Füme,1395,125,Önden Çekiş,5.3,66,1651,4.0,168
+625000.0,Peugeot,2018,167000.0,Düz,Dizel,Sedan,Gri,1560,102,Önden Çekiş,3.9,50,1980,4.0,210
+665000.0,Fiat,2020,156500.0,Yarı Otomatik,Dizel,Sedan,Bej,1598,120,Önden Çekiş,3.9,45,1525,4.0,166
+545000.0,Renault,2011,240000.0,Yarı Otomatik,Dizel,Sedan,Gri,1461,110,Önden Çekiş,4.4,60,1609,4.0,164
+460000.0,Fiat,2013,152000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1950,4.0,190
+895000.0,Hyundai,2018,46000.0,Otomatik,Benzin,Sedan,Beyaz,1591,128,Önden Çekiş,6.9,50,1920,4.0,190
+675000.0,Toyota,2016,32000.0,Düz,Benzin,Hatchback/5,Mavi,1329,99,Önden Çekiş,5.5,50,1585,4.0,183
+532000.0,Renault,2016,185000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,75,Önden Çekiş,3.6,45,1820,4.0,200
+475000.0,Renault,2004,120000.0,Otomatik,LPG & Benzin,MPV,Kırmızı,1598,115,Önden Çekiş,8.0,60,1814,4.0,185
+645000.0,Honda,2010,215000.0,Otomatik,LPG & Benzin,Sedan,Füme,1595,125,Önden Çekiş,6.7,50,1660,4.0,170
+610000.0,Audi,2008,280000.0,Düz,LPG & Benzin,Sedan,Füme,1595,102,Önden Çekiş,8.0,70,2310,4.0,225
+1445000.0,BMW,2015,170000.0,Otomatik,Benzin,Sedan,Mavi,1598,170,Arkadan İtiş,5.3,60,1650,4.0,175
+656750.0,Fiat,2020,64000.0,Düz,Benzin,Sedan,Mavi (metalik),1368,95,Önden Çekiş,5.7,45,1965,4.0,175
+605750.0,Fiat,2019,105500.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1693,4.0,192
+585000.0,Renault,2014,166500.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,4.4,60,1845,4.0,190
+690000.0,Opel,2017,132000.0,Düz,LPG & Benzin,Sedan,Kahverengi,1598,115,Önden Çekiş,6.5,56,1940,4.0,230
+549750.0,Toyota,2002,129000.0,Otomatik,Benzin,Hatchback/5,Gri (Gümüş),1598,110,Önden Çekiş,8.0,50,1940,4.0,230
+433500.0,Citroen,2013,248000.0,Düz,Benzin,Sedan,Beyaz,1199,73,Önden Çekiş,5.3,50,1675,4.0,185
+383500.0,Hyundai,2011,393000.0,Düz,Dizel,Sedan,Beyaz,1493,110,Önden Çekiş,4.6,45,1850,4.0,170
+369000.0,Citroen,2005,190000.0,Düz,Dizel,Hatchback/5,Mavi (metalik),1398,71,Önden Çekiş,4.2,45,1730,4.0,183
+525000.0,Opel,2013,137000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1248,75,Önden Çekiş,4.2,45,1580,4.0,175
+345000.0,Fiat,2012,318000.0,Düz,Dizel,Hatchback/5,Beyaz,1248,75,Önden Çekiş,4.1,45,1485,3.0,160
+805000.0,BMW,2012,159800.0,Otomatik,Benzin,Hatchback/5,Mavi (metalik),1598,136,Arkadan İtiş,5.6,52,1650,4.0,176
+610000.0,Opel,2013,189000.0,Düz,LPG & Benzin,Sedan,Beyaz,1598,115,Önden Çekiş,6.8,52,1580,4.0,167
+455000.0,Renault,2012,212000.0,Düz,Dizel,Sedan,Gri (metalik),1461,65,Önden Çekiş,4.5,50,1565,4.0,163
+909750.0,Renault,2016,180000.0,Yarı Otomatik,Dizel,Sedan,Gri,1598,160,Önden Çekiş,4.4,52,1665,4.0,165
+450000.0,Dacia,2012,103000.0,Düz,LPG & Benzin,Sedan,Beyaz,1149,75,Önden Çekiş,5.9,50,1840,4.0,210
+1020000.0,Volkswagen,2013,136000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,105,Önden Çekiş,4.7,70,2320,4.0,240
+890000.0,Renault,2021,47000.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1332,140,Önden Çekiş,5.3,50,1535,4.0,160
+670000.0,Opel,2015,203000.0,Düz,Dizel,Sedan,Beyaz,1598,110,Önden Çekiş,4.0,56,2119,4.0,193
+365000.0,Peugeot,2004,205000.0,Otomatik,LPG & Benzin,Hatchback/5,Kırmızı,1360,76,Önden Çekiş,6.4,50,1920,4.0,224
+390000.0,Fiat,2007,224000.0,Düz,Dizel,Hatchback/5,Mavi (metalik),1248,90,Önden Çekiş,4.6,45,1932,4.0,205
+799000.0,Kia,2019,63000.0,Otomatik,LPG & Benzin,Hatchback/5,Bordo,1368,100,Önden Çekiş,5.9,45,1945,4.0,190
+497500.0,Chevrolet,2010,164000.0,Otomatik,LPG & Benzin,Sedan,Siyah,1598,113,Önden Çekiş,7.8,60,1500,4.0,170
+505000.0,Renault,2014,160000.0,Düz,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,4.6,60,2025,4.0,184
+1099000.0,Seat,2019,51000.0,Yarı Otomatik,Benzin,Hatchback/5,Kırmızı,1498,150,Önden Çekiş,5.1,50,1705,4.0,175
+665000.0,Renault,2012,142000.0,Otomatik,LPG & Benzin,Hatchback/5,Beyaz,1598,105,Önden Çekiş,7.5,60,1785,4.0,185
+499000.0,Opel,2013,281000.0,Düz,Dizel,Hatchback/5,Mor,1248,75,Önden Çekiş,4.6,45,2140,4.0,211
+631500.0,Dacia,2015,85600.0,Düz,Dizel,Station wagon,Beyaz,1461,75,Önden Çekiş,3.9,50,1734,4.0,180
+690000.0,Skoda,2014,99950.0,Yarı Otomatik,Dizel,Hatchback/5,Kırmızı,1598,90,Önden Çekiş,4.6,55,1580,4.0,177
+995000.0,Renault,2020,99000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,115,Önden Çekiş,4.2,49,1760,3.0,206
+625000.0,Ford,2011,288000.0,Düz,Dizel,Sedan,Gri (titanyum),1560,115,Önden Çekiş,4.9,70,1565,4.0,163
+549000.0,Ford,2013,138000.0,Düz,Dizel,Hatchback/5,Bordo,1498,75,Önden Çekiş,3.7,42,1720,4.0,180
+640000.0,Audi,2008,160000.0,Otomatik,Benzin,Hatchback/5,Siyah,1595,102,Önden Çekiş,7.6,55,2028,4.0,197
+419000.0,Renault,2007,143000.0,Düz,LPG & Benzin,Sedan,Beyaz,1390,98,Önden Çekiş,7.3,50,2150,4.0,190
+749999.0,Hyundai,2015,35600.0,Düz,Benzin,Sedan,Beyaz,1396,108,Önden Çekiş,5.9,43,1870,4.0,195
+1130000.0,BMW,2015,175000.0,Otomatik,Benzin,Sedan,Gri,1598,170,Arkadan İtiş,5.3,60,1575,4.0,167
+875000.0,Renault,2019,175000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,3.8,49,1910,4.0,181
+320000.0,Peugeot,2003,260000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1360,76,Önden Çekiş,6.4,50,1800,4.0,210
+370000.0,Fiat,2004,270000.0,Düz,Benzin,Sedan,Beyaz,1242,80,Önden Çekiş,7.0,47,1940,4.0,230
+695000.0,Nissan,2018,37000.0,Otomatik,Benzin,Hatchback/5,Mavi,1198,80,Önden Çekiş,5.4,41,1771,4.0,173
+500000.0,Citroen,2017,182000.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.3,48,1440,4.0,162
+732000.0,Renault,2017,146000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.7,45,1660,4.0,170
+890000.0,Toyota,2016,104000.0,Düz,Dizel,MPV,Beyaz,1598,112,Önden Çekiş,4.7,55,1660,4.0,170
+549000.0,Volkswagen,2014,235000.0,Düz,Benzin,Hatchback/5,Beyaz,1197,90,Önden Çekiş,4.7,45,2100,4.0,235
+870000.0,Volkswagen,2013,150000.0,Yarı Otomatik,Dizel,Sedan,Gri (Gümüş),1598,105,Önden Çekiş,4.7,70,1708,4.0,176
+597500.0,Nissan,2015,105000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1198,80,Önden Çekiş,5.4,41,2310,4.0,185
+847500.0,Fiat,2022,45000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,50,2050,4.0,218
+750000.0,Fiat,2020,41400.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,3.9,45,1695,4.0,184
+515000.0,Peugeot,2018,175000.0,Düz,Dizel,Sedan,Beyaz,1560,102,Önden Çekiş,3.9,50,2119,4.0,193
+579900.0,Hyundai,2014,128000.0,Düz,Benzin,Hatchback/5,Beyaz,1248,85,Önden Çekiş,4.9,45,1820,4.0,200
+528000.0,Fiat,2017,179000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1585,4.0,183
+297000.0,Fiat,2002,225000.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1242,81,Önden Çekiş,7.2,51,1585,4.0,183
+510000.0,Renault,2016,84000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,2060,4.0,223
+675000.0,Nissan,2015,117510.0,Otomatik,Benzin,Hatchback/5,Mavi,1198,80,Önden Çekiş,5.4,41,1475,4.0,168
+535000.0,Ford,2012,237000.0,Otomatik,LPG & Benzin,Hatchback/5,Gri (metalik),1388,96,Önden Çekiş,6.5,42,1730,4.0,183
+725000.0,Opel,2016,145000.0,Otomatik,Dizel,Sedan,Füme,1598,136,Önden Çekiş,5.1,56,1609,4.0,167
+655000.0,Peugeot,2019,15000.0,Düz,Benzin,Sedan,Gri,1199,83,Önden Çekiş,4.9,50,1425,3.0,161
+759500.0,Dacia,2018,28200.0,Düz,Dizel,Hatchback/5,Bordo,1461,90,Önden Çekiş,4.0,50,1525,4.0,166
+2290000.0,Audi,2017,49000.0,Yarı Otomatik,Benzin,Hatchback/5,Füme,1395,150,Önden Çekiş,5.5,54,1730,4.0,182
+655000.0,Fiat,2019,186000.0,Yarı Otomatik,Dizel,Sedan,Bej,1598,120,Önden Çekiş,3.9,45,2072,4.0,200
+670000.0,Peugeot,2013,270000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1560,114,Önden Çekiş,4.4,72,1470,3.0,169
+485000.0,Opel,2012,182000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1248,75,Önden Çekiş,4.2,45,1600,4.0,167
+537000.0,Opel,2013,157500.0,Otomatik,Benzin,Hatchback/5,Gri (Gümüş),1364,140,Önden Çekiş,6.8,56,1600,4.0,167
+3790000.0,BMW,2023,12000.0,Otomatik,Benzin,Sedan,Siyah,1597,170,Arkadan İtiş,7.1,68,2040,4.0,210
+430000.0,Hyundai,2012,304000.0,Otomatik,Dizel,Sedan,Gri (Gümüş),1493,110,Önden Çekiş,5.9,45,1820,4.0,200
+875000.0,Renault,2017,110000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,3.8,49,2005,4.0,197
+535000.0,Volkswagen,2012,263000.0,Düz,Dizel,Hatchback/5,Beyaz,1199,75,Önden Çekiş,3.8,45,1565,4.0,163
+1020000.0,Volvo,2014,148000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1560,115,Önden Çekiş,4.1,67,1955,4.0,200
+987500.0,Renault,2017,106000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,3.8,49,2275,4.0,226
+848000.0,Renault,2018,57000.0,Yarı Otomatik,Dizel,Sedan,Lacivert,1461,110,Önden Çekiş,3.8,49,1650,4.0,182
+538000.0,Peugeot,2019,125500.0,Düz,Benzin,Sedan,Beyaz,1199,83,Önden Çekiş,4.9,50,1945,4.0,190
+565000.0,Fiat,2014,101000.0,Düz,Dizel,Sedan,Gri (Gümüş),1248,95,Önden Çekiş,4.9,45,2030,4.0,190
+459000.0,Hyundai,2011,125000.0,Düz,LPG & Benzin,Hatchback/5,Mavi (metalik),1399,97,Önden Çekiş,6.0,45,1945,4.0,190
+699950.0,Volkswagen,2016,124000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1422,90,Önden Çekiş,3.5,45,1945,4.0,190
+830000.0,Volkswagen,2018,83000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,95,Önden Çekiş,3.9,40,1470,3.0,169
+595000.0,Renault,2018,149000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,75,Önden Çekiş,3.6,45,1645,3.0,187
+322000.0,Mitsubishi,2008,220000.0,Otomatik,LPG & Benzin,Hatchback/5,Siyah,1332,95,Önden Çekiş,5.6,47,1743,4.0,185
+400000.0,Ford,2007,277000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1399,68,Önden Çekiş,4.3,45,1651,4.0,168
+1169000.0,BMW,2014,184000.0,Otomatik,Benzin,Sedan,Gri,1598,170,Arkadan İtiş,5.3,60,1535,3.0,168
+598750.0,Peugeot,2017,70000.0,Düz,Benzin,Hatchback/5,Beyaz,1199,83,Önden Çekiş,4.5,50,2165,4.0,222
+639000.0,Fiat,2019,30500.0,Düz,LPG & Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1460,4.0,180
+1015000.0,Volkswagen,2015,152000.0,Yarı Otomatik,LPG & Benzin,Sedan,Beyaz,1395,150,Önden Çekiş,5.1,66,1940,4.0,230
+828000.0,Renault,2017,160000.0,Yarı Otomatik,Dizel,Sedan,Gri,1461,110,Önden Çekiş,3.8,49,1546,3.0,178
+998500.0,Renault,2016,164000.0,Yarı Otomatik,Dizel,Sedan,Gri,1598,130,Önden Çekiş,4.2,51,2045,4.0,210
+790000.0,Volkswagen,2014,203000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri,1598,105,Önden Çekiş,3.9,50,1945,4.0,190
+495000.0,Renault,2011,210000.0,Düz,Dizel,Sedan,Gri (Gümüş),1461,105,Önden Çekiş,4.5,60,2099,4.0,205
+1397000.0,Mercedes - Benz,2016,131942.0,Otomatik,Dizel,Bilinmiyor,Diğer,1461,109,Önden Çekiş,3.8,50,2099,4.0,205
+887000.0,Volkswagen,2016,98221.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1197,105,Önden Çekiş,4.8,50,1595,4.0,195
+660000.0,Fiat,2019,68000.0,Düz,Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1570,3.0,173
+952000.0,Toyota,2021,35147.0,Otomatik,Benzin,Sedan,Gri,1490,125,Önden Çekiş,5.8,50,1793,4.0,192
+816900.0,Kia,2022,16846.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1368,100,Önden Çekiş,6.2,45,1780,4.0,186
+670000.0,Seat,2015,174500.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,90,Önden Çekiş,4.5,55,1955,4.0,205
+907000.0,Skoda,2019,163500.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1598,115,Önden Çekiş,3.9,50,1707,4.0,192
+1105000.0,BMW,2014,124500.0,Otomatik,Benzin,Sedan,Kahverengi,1598,170,Arkadan İtiş,5.3,60,1945,4.0,202
+407000.0,Fiat,2011,120750.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1242,69,Önden Çekiş,4.9,35,2320,6.0,210
+784000.0,Volkswagen,2008,114500.0,Yarı Otomatik,Benzin,Station wagon,Siyah,1598,115,Önden Çekiş,7.9,70,1405,3.0,155
+594900.0,Audi,2009,208000.0,Yarı Otomatik,Benzin,Hatchback/3,Siyah,1390,125,Önden Çekiş,5.7,55,1305,4.0,162
+655000.0,Toyota,2011,133000.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1364,90,Önden Çekiş,5.0,55,1180,3.0,157
+615000.0,Audi,2008,100000.0,Yarı Otomatik,Benzin,Hatchback/3,Füme,1390,125,Önden Çekiş,6.5,55,1890,4.0,192
+472000.0,Opel,2010,130000.0,Düz,LPG & Benzin,Hatchback/5,Mavi (metalik),1598,115,Önden Çekiş,6.5,52,2385,4.0,245
+430000.0,Fiat,2015,161000.0,Düz,Dizel,Bilinmiyor,Diğer,1248,95,Önden Çekiş,4.9,45,1749,4.0,175
+485000.0,Honda,2006,152560.0,Otomatik,Benzin,Sedan,Gri (Gümüş),1339,83,Önden Çekiş,5.6,42,2140,4.0,211
+445000.0,Peugeot,2004,276000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1587,110,Önden Çekiş,7.2,60,1820,4.0,203
+760000.0,Peugeot,2020,55000.0,Düz,Dizel,Sedan,Gri (titanyum),1499,102,Önden Çekiş,3.9,50,1740,4.0,191
+580000.0,Peugeot,2016,115000.0,Düz,Dizel,Sedan,Füme,1560,93,Önden Çekiş,4.3,50,1862,4.0,190
+535000.0,Chevrolet,2011,175000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1598,124,Önden Çekiş,6.5,60,1660,4.0,170
+1675000.0,Audi,2020,37000.0,Yarı Otomatik,Benzin,Sedan,Siyah,1498,150,Önden Çekiş,5.1,50,1059,4.0,167
+552000.0,Renault,2010,272000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1397,130,Önden Çekiş,6.5,60,1693,4.0,190
+722000.0,Renault,2015,119600.0,Yarı Otomatik,Dizel,Bilinmiyor,Diğer,1461,110,Önden Çekiş,4.4,60,1590,4.0,190
+399000.0,Opel,2001,227000.0,Düz,LPG & Benzin,Sedan,Beyaz,1598,100,Önden Çekiş,7.2,60,1548,4.0,180
+1280000.0,Volkswagen,2015,253000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1598,120,Önden Çekiş,4.0,66,1800,4.0,224
+750000.0,Skoda,2014,240000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,105,Önden Çekiş,3.9,50,1744,4.0,200
+735000.0,Hyundai,2016,99000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1368,100,Önden Çekiş,6.4,50,2180,4.0,192
+660000.0,Fiat,2019,94000.0,Düz,Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1888,4.0,194
+457500.0,Renault,2012,34000.0,Düz,Benzin,Bilinmiyor,Diğer,1149,75,Önden Çekiş,5.9,50,2045,4.0,210
+750000.0,Fiat,2015,41000.0,Düz,Dizel,Sedan,Gri,1598,120,Önden Çekiş,4.2,45,1609,4.0,167
+1215000.0,Volkswagen,2018,96000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,115,Önden Çekiş,4.2,50,2240,4.0,210
+915000.0,Volkswagen,2017,109000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,115,Önden Çekiş,4.2,50,1330,4.0,164
+560000.0,Fiat,2018,175000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1845,4.0,227
+1150000.0,Volkswagen,2019,40000.0,Yarı Otomatik,Dizel,Sedan,Füme,1598,120,Önden Çekiş,4.0,59,1454,4.0,167
+482750.0,Peugeot,2006,150000.0,Otomatik,LPG & Benzin,Hatchback/5,Gri (metalik),1587,110,Önden Çekiş,7.9,60,1730,4.0,183
+755000.0,Volkswagen,2017,83000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1422,90,Önden Çekiş,3.5,45,2073,4.0,206
+599000.0,Fiat,2020,145000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1695,4.0,188
+799750.0,Renault,2017,52000.0,Düz,Benzin,Bilinmiyor,Diğer,1598,115,Önden Çekiş,6.3,47,1788,4.0,190
+678750.0,Skoda,2015,124000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1197,110,Önden Çekiş,4.7,45,1725,4.0,186
+1150000.0,Honda,2020,65000.0,Otomatik,Benzin,Sedan,Füme,1597,125,Önden Çekiş,6.3,46,1759,3.0,184
+1022000.0,Audi,2015,115000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1395,125,Önden Çekiş,4.9,50,2120,4.0,225
+658000.0,Volkswagen,2010,201000.0,Yarı Otomatik,Benzin,Hatchback/5,Füme,1390,85,Önden Çekiş,5.8,45,1730,4.0,183
+610000.0,Volkswagen,2012,345000.0,Düz,Benzin,Sedan,Gri,1390,122,Önden Çekiş,5.9,70,1789,4.0,191
+587000.0,Fiat,2019,147000.0,Düz,LPG & Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1609,4.0,196
+625000.0,Renault,2013,181500.0,Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,4.4,60,1785,4.0,206
+642000.0,Peugeot,2009,56984.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1560,112,Önden Çekiş,4.9,60,2000,4.0,205
+558000.0,Fiat,2017,117000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1675,4.0,185
+748000.0,Hyundai,2018,165000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1582,136,Önden Çekiş,4.6,43,2073,4.0,206
+1449500.0,Skoda,2019,33000.0,Yarı Otomatik,Benzin,Hatchback/5,Gri (Gümüş),1498,150,Önden Çekiş,5.4,66,1814,4.0,185
+1100000.0,Renault,2016,126500.0,Yarı Otomatik,Dizel,Sedan,Kahverengi,1598,160,Önden Çekiş,4.4,52,1814,4.0,185
+408500.0,Volkswagen,2000,207000.0,Otomatik,LPG & Benzin,Hatchback/5,Mavi (metalik),1390,75,Önden Çekiş,7.5,45,1850,4.0,190
+900000.0,Skoda,2015,289500.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,105,Önden Çekiş,4.6,60,1695,4.0,190
+690000.0,Renault,2018,92254.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.7,45,2073,4.0,206
+550000.0,Renault,2013,200000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,4.5,60,2075,4.0,219
+1550000.0,Skoda,2020,118000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri (Gümüş),1598,120,Önden Çekiş,4.2,66,2122,4.0,215
+898000.0,Honda,2014,151000.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1598,125,Önden Çekiş,6.7,50,1510,4.0,168
+635000.0,Fiat,2019,95000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1368,95,Önden Çekiş,5.7,50,2082,4.0,193
+460000.0,Renault,2012,230000.0,Düz,Dizel,Sedan,Gri,1461,90,Önden Çekiş,4.4,60,1708,4.0,176
+595900.0,Ford,2011,159880.0,Otomatik,Benzin,Hatchback/5,Bordo,1388,96,Önden Çekiş,6.5,42,1450,4.0,170
+1005900.0,Skoda,2018,142500.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1598,120,Önden Çekiş,4.1,66,1771,4.0,180
+930000.0,Opel,2017,165000.0,Otomatik,Dizel,Sedan,Beyaz,1598,136,Önden Çekiş,5.1,56,2150,4.0,205
+805000.0,Honda,2015,150000.0,Otomatik,Benzin,Sedan,Siyah,1598,125,Önden Çekiş,6.7,50,1652,3.0,172
+655000.0,Dacia,2019,110000.0,Düz,Dizel,Hatchback/5,Füme,1461,95,Önden Çekiş,3.6,50,1755,4.0,185
+789000.0,Renault,2021,99500.0,Düz,Benzin,Sedan,Beyaz,1332,140,Önden Çekiş,5.7,50,1771,4.0,180
+1690000.0,Mercedes - Benz,2017,79000.0,Otomatik,Benzin,Bilinmiyor,Siyah,1595,156,Önden Çekiş,5.5,50,1525,4.0,166
+445000.0,Ford,2009,306000.0,Düz,Dizel,Hatchback/5,Gri,1560,90,Önden Çekiş,4.5,45,2100,4.0,206
+809000.0,Kia,2017,160000.0,Yarı Otomatik,Dizel,Hatchback/5,Füme,1582,136,Önden Çekiş,4.2,53,2072,4.0,200
+975000.0,Honda,2017,104000.0,Otomatik,LPG & Benzin,Sedan,Şampanya,1597,125,Önden Çekiş,6.7,47,1564,4.0,163
+329000.0,Hyundai,2001,282000.0,Otomatik,LPG & Benzin,Sedan,Gri,1495,102,Önden Çekiş,7.8,45,1600,4.0,179
+1600000.0,Mercedes - Benz,2015,212000.0,Otomatik,Benzin,Sedan,Beyaz,1595,156,Arkadan İtiş,5.8,41,1903,4.0,205
+1550000.0,BMW,2014,148000.0,Otomatik,Benzin,Sedan,Beyaz,1598,170,Arkadan İtiş,5.4,60,1920,4.0,230
+535000.0,Volkswagen,2006,136000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1390,75,Önden Çekiş,7.7,45,1891,4.0,200
+180000.0,Tofaş,1995,177000.0,Düz,LPG & Benzin,Sedan,Bordo,1581,83,Arkadan İtiş,6.5,50,1830,4.0,190
+625000.0,Toyota,2010,317000.0,Düz,Dizel,Sedan,Gri (metalik),1364,90,Önden Çekiş,4.7,55,1960,4.0,223
+655000.0,Fiat,2020,27000.0,Düz,Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1620,4.0,168
+1200000.0,Fiat,2022,7000.0,Otomatik,Hibrit,Sedan,Beyaz,1469,130,Önden Çekiş,5.0,50,1970,4.0,225
+770000.0,Toyota,2014,181000.0,Yarı Otomatik,Dizel,Sedan,Gri (Gümüş),1364,90,Önden Çekiş,4.1,55,1450,4.0,170
+242500.0,Fiat,2008,400000.0,Düz,Benzin,Sedan,Gri (Gümüş),1368,77,Önden Çekiş,6.1,45,1625,4.0,177
+415000.0,Citroen,2013,295000.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.3,48,1684,4.0,192
+538500.0,Toyota,2012,163000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1364,90,Önden Çekiş,5.0,55,1675,4.0,185
+675000.0,Hyundai,2017,130000.0,Düz,Dizel,Sedan,Beyaz,1582,136,Önden Çekiş,4.5,43,1650,4.0,190
+315000.0,Chevrolet,2004,240000.0,Düz,Benzin,Sedan,Mavi (metalik),1399,83,Önden Çekiş,7.5,45,1440,4.0,165
+599999.0,Fiat,2020,136000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1749,4.0,175
+775000.0,Toyota,2017,129000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1364,90,Önden Çekiş,4.1,55,1749,4.0,175
+450000.0,Hyundai,2010,240000.0,Düz,LPG & Benzin,Sedan,Beyaz,1399,97,Önden Çekiş,6.5,45,1650,4.0,190
+299500.0,Peugeot,2005,347500.0,Düz,Dizel,Hatchback/5,Kırmızı,1398,69,Önden Çekiş,4.5,60,1535,4.0,170
+360000.0,Dacia,2014,360000.0,Düz,Dizel,MPV,Beyaz,1461,90,Önden Çekiş,4.2,50,1730,4.0,183
+670000.0,Citroen,2018,140100.0,Düz,Dizel,Sedan,Beyaz,1560,100,Önden Çekiş,3.8,50,1870,4.0,169
+800000.0,Toyota,2016,69000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1329,99,Önden Çekiş,5.1,42,1885,3.0,202
+815000.0,Peugeot,2016,262000.0,Otomatik,Dizel,Sedan,Beyaz,1560,122,Önden Çekiş,3.9,72,1950,4.0,233
+635000.0,Hyundai,2018,99000.0,Düz,Dizel,Sedan,Beyaz,1582,136,Önden Çekiş,4.5,43,1660,4.0,170
+1375000.0,BMW,2015,184477.0,Otomatik,Benzin,Sedan,Beyaz,1592,170,Arkadan İtiş,6.7,70,1555,4.0,180
+610000.0,Volvo,2009,99500.0,Düz,LPG & Benzin,Hatchback/3,Bordo,1596,100,Önden Çekiş,7.0,55,1525,4.0,166
+438000.0,Opel,2006,216000.0,Düz,Dizel,Hatchback/5,Füme,1248,90,Önden Çekiş,4.8,52,1420,4.0,162
+270000.0,Fiat,2010,160000.0,Düz,Dizel,Sedan,Gri (metalik),1248,70,Önden Çekiş,4.7,48,1730,4.0,182
+410000.0,Renault,2013,235000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,4.5,60,1870,4.0,195
+355000.0,Hyundai,2005,210000.0,Düz,Dizel,Sedan,Gri,1493,82,Önden Çekiş,5.5,45,1870,4.0,195
+935000.0,Volkswagen,2017,204000.0,Yarı Otomatik,Dizel,Sedan,Lacivert,1598,120,Önden Çekiş,4.0,66,1575,4.0,156
+890000.0,Kia,2017,154000.0,Yarı Otomatik,Dizel,Sedan,Gri (Gümüş),1582,136,Önden Çekiş,4.6,50,2030,4.0,215
+500000.0,Renault,2013,228000.0,Düz,LPG & Benzin,Hatchback/5,Kırmızı,1149,75,Önden Çekiş,5.5,45,2030,4.0,215
+840000.0,Hyundai,2020,26000.0,Otomatik,Benzin,Hatchback/5,Füme,1368,100,Önden Çekiş,6.1,40,1825,4.0,174
+523000.0,Opel,2009,207469.0,Düz,Dizel,Sedan,Siyah,1248,90,Önden Çekiş,5.1,52,1900,4.0,180
+515000.0,Opel,2014,106201.0,Yarı Otomatik,Benzin,Hatchback/5,Gri,1229,85,Önden Çekiş,5.1,45,1659,3.0,174
+655000.0,Fiat,2023,20000.0,Düz,Benzin,Sedan,Gri,1368,95,Önden Çekiş,6.4,45,1814,4.0,185
+528950.0,Ford,2012,94000.0,Düz,Dizel,Hatchback/5,Bordo,1398,70,Önden Çekiş,4.2,45,1741,4.0,167
+539950.0,Hyundai,2014,59000.0,Düz,Benzin,Hatchback/5,Kahverengi,1248,85,Önden Çekiş,4.9,45,1763,4.0,175
+425950.0,Hyundai,2008,168000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1493,88,Önden Çekiş,4.5,45,1780,4.0,180
+350000.0,Fiat,2012,197000.0,Düz,Dizel,Sedan,Gri (Gümüş),1248,70,Önden Çekiş,4.7,48,1480,4.0,180
+855000.0,Volkswagen,2012,244000.0,Düz,Dizel,Sedan,Gri (metalik),1598,105,Önden Çekiş,4.3,70,1450,4.0,170
+600000.0,Hyundai,2015,83000.0,Düz,Dizel,Sedan,Gri,1582,136,Önden Çekiş,4.5,43,1548,4.0,183
+545000.0,Citroen,2016,201000.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.3,48,1550,4.0,175
+570000.0,Renault,2014,169700.0,Düz,Dizel,Bilinmiyor,Diğer,1461,75,Önden Çekiş,3.6,45,1680,3.0,187
+1125000.0,Volkswagen,2017,119000.0,Düz,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,4.0,66,1870,4.0,201
+685000.0,Volkswagen,2013,309000.0,Düz,Dizel,Hatchback/5,Beyaz,1598,90,Önden Çekiş,3.8,50,1870,4.0,201
+880000.0,Audi,2012,119000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,105,Önden Çekiş,4.2,55,1650,4.0,190
+655000.0,Citroen,2015,57000.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.1,48,2300,4.0,226
+525000.0,Renault,2011,231000.0,Düz,Dizel,Bilinmiyor,Beyaz,1461,105,Önden Çekiş,4.5,60,1720,4.0,215
+165000.0,Tofaş,1999,85000.0,Düz,LPG & Benzin,Sedan,Füme,1581,83,Arkadan İtiş,6.5,50,1720,4.0,215
+525000.0,Volkswagen,2011,310000.0,Düz,Dizel,Hatchback/5,Mavi (metalik),1199,75,Önden Çekiş,3.4,45,1485,4.0,160
+1175000.0,Skoda,2020,178000.0,Yarı Otomatik,LPG & Benzin,Hatchback/5,Gri (Gümüş),1498,150,Önden Çekiş,5.4,66,1490,4.0,175
+575000.0,Renault,2018,71000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,1771,4.0,180
+1299000.0,Volkswagen,2018,99000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1598,120,Önden Çekiş,4.0,66,1570,3.0,170
+758000.0,Opel,2016,170000.0,Otomatik,Dizel,Sedan,Beyaz,1598,136,Önden Çekiş,5.0,70,1460,4.0,145
+700000.0,Opel,2015,181000.0,Düz,Dizel,Sedan,Gri (titanyum),1598,136,Önden Çekiş,4.2,56,1860,4.0,190
+525000.0,Volkswagen,2011,265000.0,Düz,Dizel,Sedan,Gri (Gümüş),1598,105,Önden Çekiş,4.5,55,1563,4.0,164
+1200000.0,Skoda,2019,137000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,115,Önden Çekiş,3.9,50,1735,4.0,180
+855000.0,Fiat,2023,23000.0,Düz,Dizel,Sedan,Gri (Gümüş),1248,95,Önden Çekiş,4.1,50,1970,4.0,225
+500000.0,Hyundai,2013,235000.0,Düz,Dizel,Hatchback/5,Gri,1396,90,Önden Çekiş,4.3,45,1755,4.0,185
+805000.0,Renault,2018,120000.0,Yarı Otomatik,Dizel,Sedan,Gri (titanyum),1461,110,Önden Çekiş,3.8,49,1825,4.0,190
+495000.0,Toyota,2006,256000.0,Düz,LPG & Benzin,Sedan,Füme,1598,110,Önden Çekiş,6.5,55,1670,4.0,190
+605000.0,Citroen,2010,182000.0,Düz,Dizel,MPV,Yeşil (metalik),1560,91,Önden Çekiş,4.7,50,1730,4.0,172
+675053.0,Renault,2015,275000.0,Düz,Dizel,Sedan,Bej,1461,110,Önden Çekiş,4.6,60,1565,4.0,172
+590000.0,Volkswagen,2006,213000.0,Yarı Otomatik,Benzin,Hatchback/5,Mavi (metalik),1598,115,Önden Çekiş,8.0,55,1675,4.0,186
+285000.0,Fiat,2001,177000.0,Düz,LPG & Benzin,Hatchback/5,Kırmızı,1368,77,Önden Çekiş,6.1,51,1579,4.0,162
+339500.0,Peugeot,2003,275000.0,Düz,Dizel,Hatchback/5,Siyah,1398,69,Önden Çekiş,4.5,60,1475,4.0,168
+495000.0,Fiat,2012,190000.0,Düz,Dizel,Hatchback/5,Siyah,1248,75,Önden Çekiş,4.2,45,1475,4.0,168
+765000.0,Renault,2017,114000.0,Yarı Otomatik,Dizel,Sedan,Füme,1461,110,Önden Çekiş,3.8,49,1535,4.0,164
+940000.0,Honda,2016,86000.0,Otomatik,LPG & Benzin,Sedan,Siyah,1598,125,Önden Çekiş,6.7,50,1630,4.0,177
+760000.0,Ford,2013,99160.0,Yarı Otomatik,LPG & Benzin,Sedan,Gri (Gümüş),1596,125,Önden Çekiş,6.0,55,1485,4.0,160
+765000.0,Volkswagen,2013,190000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,105,Önden Çekiş,3.9,50,2000,4.0,195
+270000.0,Hyundai,2000,291000.0,Düz,LPG & Benzin,Sedan,Beyaz,1341,86,Önden Çekiş,6.1,45,1650,4.0,190
+530000.0,Chevrolet,2012,176000.0,Otomatik,Benzin,Sedan,Gri,1598,124,Önden Çekiş,7.4,60,1760,4.0,185
+770000.0,Volkswagen,2012,148000.0,Düz,Benzin,Sedan,Beyaz,1197,105,Önden Çekiş,5.7,55,2125,4.0,204
+785000.0,Peugeot,2017,230000.0,Otomatik,Dizel,Sedan,Siyah,1560,122,Önden Çekiş,3.9,72,1485,4.0,160
+845000.0,Peugeot,2017,183000.0,Otomatik,Dizel,Sedan,Siyah,1560,122,Önden Çekiş,3.9,72,1630,4.0,188
+213000.0,Hyundai,1997,320000.0,Düz,LPG & Benzin,Sedan,Mavi (metalik),1341,75,Önden Çekiş,7.4,45,1825,4.0,196
+725000.0,Opel,2020,51100.0,Düz,Benzin,Hatchback/5,Siyah,1199,75,Önden Çekiş,4.1,40,1500,4.0,166
+353000.0,Renault,2010,315000.0,Düz,Dizel,Sedan,Gri,1461,65,Önden Çekiş,4.5,50,1675,4.0,185
+420000.0,Volkswagen,2004,180000.0,Düz,Benzin,Hatchback/5,Mavi (metalik),1390,75,Önden Çekiş,6.4,45,1660,4.0,170
+395000.0,Opel,2004,223000.0,Düz,Dizel,Hatchback/5,Yeşil,1248,70,Önden Çekiş,4.5,44,1560,4.0,165
+710000.0,Ford,2013,126000.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1596,125,Önden Çekiş,6.0,55,1730,4.0,182
+325000.0,Fiat,2004,230000.0,Düz,LPG & Benzin,Sedan,Füme,1596,103,Önden Çekiş,8.1,63,1730,4.0,183
+690000.0,Toyota,2015,67000.0,Düz,LPG & Benzin,Sedan,Beyaz,1329,99,Önden Çekiş,5.8,55,1535,4.0,160
+375000.0,Dacia,2008,119000.0,Düz,Dizel,Sedan,Gri,1461,70,Önden Çekiş,5.1,50,1535,4.0,160
+465000.0,Ford,2010,166000.0,Otomatik,Benzin,Hatchback/5,Gri,1596,100,Önden Çekiş,6.7,55,1675,4.0,197
+525000.0,Fiat,2013,164500.0,Düz,Dizel,Sedan,Gri (metalik),1248,95,Önden Çekiş,4.9,45,1255,4.0,169
+710000.0,Skoda,2011,330000.0,Düz,Dizel,Sedan,Kahverengi,1598,105,Önden Çekiş,5.0,60,1879,4.0,215
+340000.0,Citroen,2006,385000.0,Düz,Dizel,Sedan,Altın,1560,111,Önden Çekiş,5.4,66,1950,6.0,205
+660000.0,Fiat,2016,60000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1825,4.0,196
+280000.0,Renault,2000,200000.0,Düz,LPG & Benzin,Bilinmiyor,Diğer,1598,107,Önden Çekiş,6.9,60,1945,4.0,190
+440000.0,Opel,2008,229000.0,Düz,Dizel,Hatchback/5,Gri,1248,90,Önden Çekiş,4.8,52,1595,4.0,195
+745000.0,Opel,2012,111000.0,Düz,LPG & Benzin,Sedan,Gri,1364,140,Önden Çekiş,5.6,70,1505,4.0,198
+620000.0,Hyundai,2012,196500.0,Otomatik,Dizel,Sedan,Beyaz,1493,110,Önden Çekiş,5.9,45,1535,4.0,160
+375000.0,Opel,2005,330000.0,Düz,Dizel,Hatchback/5,Gri,1248,90,Önden Çekiş,4.8,52,1762,4.0,197
+935000.0,Seat,2017,155500.0,Yarı Otomatik,Dizel,Hatchback/5,Füme,1598,115,Önden Çekiş,4.1,50,1775,4.0,172
+415000.0,Opel,2000,238000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1598,100,Önden Çekiş,7.4,52,1879,4.0,215
+340000.0,Hyundai,2000,185.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1495,99,Önden Çekiş,8.1,45,1944,4.0,190
+939000.0,Opel,2022,6200.0,Otomatik,Benzin,Hatchback/5,Mavi,1199,100,Önden Çekiş,4.3,44,1650,4.0,180
+250000.0,Fiat,2001,270000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1368,77,Önden Çekiş,6.1,51,1485,4.0,170
+710000.0,Fiat,2018,44000.0,Düz,Dizel,Sedan,Füme,1248,95,Önden Çekiş,4.1,45,1580,4.0,177
+785000.0,Ford,2016,182000.0,Düz,Dizel,Sedan,Beyaz,1560,95,Önden Çekiş,4.5,53,1550,4.0,177
+685000.0,Peugeot,2015,49500.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1199,83,Önden Çekiş,4.5,50,1945,4.0,202
+635000.0,Toyota,2012,90000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1364,90,Önden Çekiş,4.8,55,1620,4.0,215
+205000.0,Tofaş,1997,130900.0,Düz,LPG & Benzin,Station wagon,Füme,1581,83,Arkadan İtiş,6.6,52,1800,4.0,192
+750000.0,Ford,2013,176000.0,Yarı Otomatik,LPG & Benzin,Sedan,Beyaz,1596,125,Önden Çekiş,6.0,55,1600,4.0,167
+725000.0,Opel,2013,67000.0,Düz,Dizel,Hatchback/5,Beyaz,1248,95,Önden Çekiş,4.1,56,1600,4.0,167
+585000.0,Honda,2007,261000.0,Düz,LPG & Benzin,Sedan,Siyah,1595,125,Önden Çekiş,6.7,50,1945,4.0,190
+410000.0,Hyundai,2004,83500.0,Düz,Benzin,Sedan,Füme,1341,86,Önden Çekiş,6.7,45,1780,4.0,196
+1150000.0,Volkswagen,2017,170000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,4.0,66,1630,4.0,182
+699000.0,Fiat,2020,21000.0,Düz,Benzin,Sedan,Gri (metalik),1368,95,Önden Çekiş,5.7,45,1780,4.0,180
+290000.0,Hyundai,2003,400000.0,Düz,Dizel,Sedan,Gri,1493,82,Önden Çekiş,5.5,45,1975,4.0,193
+199000.0,Opel,1998,253000.0,Düz,LPG & Benzin,Bilinmiyor,Diğer,1598,106,Önden Çekiş,7.7,46,1500,4.0,166
+280000.0,Hyundai,2000,131000.0,Otomatik,Benzin,Sedan,Altın,1341,86,Önden Çekiş,6.1,45,1500,4.0,166
+405000.0,Renault,2006,115000.0,Düz,Benzin,Hatchback/5,Gri (Gümüş),1149,75,Önden Çekiş,5.9,55,1500,4.0,166
+405000.0,Citroen,2011,273000.0,Düz,Dizel,Hatchback/5,Beyaz,1560,93,Önden Çekiş,4.2,60,2035,4.0,192
+510000.0,Ford,2009,147350.0,Düz,Dizel,Hatchback/5,Bordo,1398,70,Önden Çekiş,4.2,45,1890,4.0,185
+330000.0,Ford,2005,266250.0,Düz,Dizel,Hatchback/5,Beyaz,1399,68,Önden Çekiş,4.3,45,1720,4.0,215
+568500.0,Dacia,2013,105000.0,Düz,Dizel,Hatchback/5,Siyah,1461,90,Önden Çekiş,4.0,50,1740,4.0,185
+510000.0,Renault,2013,189000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.6,45,1625,4.0,170
+450000.0,Ford,2006,300000.0,Otomatik,LPG & Benzin,Sedan,Gri,1596,100,Önden Çekiş,7.7,55,1580,4.0,184
+525000.0,Opel,2006,226000.0,Düz,LPG & Benzin,Sedan,Beyaz,1598,103,Önden Çekiş,7.1,52,1770,4.0,192
+455000.0,Renault,2008,199000.0,Düz,Dizel,Sedan,Gri (Gümüş),1461,86,Önden Çekiş,4.7,60,1800,4.0,190
+420500.0,Honda,2005,303000.0,Otomatik,LPG & Benzin,Sedan,Bordo,1590,110,Önden Çekiş,7.0,50,1480,4.0,163
+750000.0,Renault,2013,154000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1461,110,Önden Çekiş,4.7,66,1565,4.0,172
+1250000.0,Honda,2020,66000.0,Yarı Otomatik,LPG & Benzin,Sedan,Füme,1597,125,Önden Çekiş,6.3,46,1825,4.0,196
+325000.0,Citroen,2005,362500.0,Düz,Dizel,Hatchback/5,Siyah,1560,111,Önden Çekiş,4.8,60,1749,4.0,175
+380000.0,Renault,2002,203000.0,Düz,Benzin,Hatchback/5,Gri,1598,90,Önden Çekiş,7.2,60,1982,4.0,182
+555000.0,Renault,2013,43300.0,Düz,Benzin,Hatchback/5,Beyaz,1149,75,Önden Çekiş,5.5,45,1546,3.0,178
+430000.0,Skoda,2013,143000.0,Düz,LPG & Benzin,Hatchback/5,Gri (metalik),1198,70,Önden Çekiş,5.5,45,1600,4.0,155
+585000.0,Citroen,2018,133600.0,Düz,Dizel,Sedan,Beyaz,1560,100,Önden Çekiş,3.8,50,1555,4.0,169
+550000.0,Ford,2013,233000.0,Düz,Dizel,Hatchback/5,Beyaz,1498,75,Önden Çekiş,3.7,42,1693,4.0,197
+350000.0,Ford,2010,228000.0,Düz,LPG & Benzin,Hatchback/5,Gri (titanyum),1388,96,Önden Çekiş,5.7,42,1550,4.0,170
+276000.0,Fiat,2001,345000.0,Düz,Benzin,Hatchback/5,Gri,1581,103,Önden Çekiş,7.8,50,1450,4.0,170
+272000.0,Renault,2001,210000.0,Düz,LPG & Benzin,Hatchback/5,Gri,1598,107,Önden Çekiş,7.5,66,1450,4.0,170
+425000.0,Fiat,2012,237000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1770,4.0,200
+975000.0,Volkswagen,2016,68500.0,Düz,Benzin,Sedan,Beyaz,1395,125,Önden Çekiş,5.3,55,1945,4.0,176
+1350000.0,Peugeot,2020,58000.0,Otomatik,Dizel,Sedan,Gri,1499,130,Önden Çekiş,3.8,55,1895,4.0,190
+392000.0,Ford,2006,259000.0,Düz,Dizel,Sedan,Gri,1560,110,Önden Çekiş,4.8,55,1550,4.0,195
+368000.0,Renault,2005,131000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1390,75,Önden Çekiş,7.1,50,1693,4.0,192
+498500.0,Hyundai,2008,109200.0,Düz,LPG & Benzin,Sedan,Siyah,1399,97,Önden Çekiş,6.5,45,1579,4.0,162
+450000.0,Volkswagen,2004,233000.0,Düz,LPG & Benzin,Sedan,Siyah,1595,105,Önden Çekiş,6.9,55,1460,4.0,180
+425000.0,Fiat,2011,190000.0,Düz,Dizel,Sedan,Beyaz,1248,70,Önden Çekiş,4.7,48,1450,4.0,170
+275000.0,Hyundai,2005,310000.0,Düz,Dizel,Sedan,Beyaz,1493,82,Önden Çekiş,5.5,45,1790,4.0,194
+580000.0,Opel,2012,175400.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1598,115,Önden Çekiş,6.5,52,1670,4.0,190
+615000.0,Fiat,2017,155000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1546,3.0,178
+508750.0,Ford,2010,193000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1596,100,Önden Çekiş,6.7,55,1960,4.0,186
+740000.0,Nissan,2011,156000.0,Düz,Dizel,Hatchback/5,Diğer,1461,103,Önden Çekiş,5.1,46,1620,4.0,174
+435000.0,Fiat,2012,150000.0,Düz,Dizel,Sedan,Gri,1248,95,Önden Çekiş,4.9,45,1600,4.0,167
+610000.0,Seat,2014,112000.0,Düz,Benzin,Station wagon,Beyaz,1390,85,Önden Çekiş,5.9,45,1820,4.0,215
+415000.0,Opel,2000,261000.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1598,100,Önden Çekiş,7.4,52,1684,4.0,192
+430000.0,Hyundai,2008,212000.0,Düz,Dizel,Sedan,Gri (Gümüş),1493,110,Önden Çekiş,4.6,45,1646,3.0,176
+621000.0,Renault,2013,69400.0,Düz,Benzin,Hatchback/5,Beyaz,1149,75,Önden Çekiş,5.5,45,1555,4.0,175
+800000.0,Skoda,2013,140000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,105,Önden Çekiş,3.9,50,1670,4.0,175
+1250000.0,Volkswagen,2012,178000.0,Yarı Otomatik,Benzin,Bilinmiyor,Diğer,1390,160,Önden Çekiş,6.9,70,1684,4.0,192
+660000.0,Fiat,2020,4200.0,Düz,Benzin,Hatchback/5,Beyaz,1368,95,Önden Çekiş,5.7,50,2320,4.0,240
+320000.0,Fiat,2004,230000.0,Düz,LPG & Benzin,Sedan,Beyaz,1242,80,Önden Çekiş,7.0,47,1425,3.0,170
+557500.0,Chevrolet,2010,150000.0,Düz,LPG & Benzin,Sedan,Kırmızı,1598,124,Önden Çekiş,6.5,60,1550,4.0,161
+635000.0,Nissan,2013,92000.0,Otomatik,LPG & Benzin,Hatchback/5,Beyaz,1198,80,Önden Çekiş,5.4,41,2050,4.0,205
+855000.0,Opel,2017,49000.0,Düz,Dizel,Hatchback/5,Beyaz,1598,110,Önden Çekiş,3.7,52,1693,4.0,192
+705000.0,Honda,2011,257000.0,Otomatik,LPG & Benzin,Sedan,Siyah,1595,125,Önden Çekiş,7.1,50,1625,4.0,184
+345000.0,Geely,2012,145000.0,Düz,LPG & Benzin,Sedan,Beyaz,1498,105,Önden Çekiş,7.4,50,1815,4.0,175
+655000.0,Renault,2017,230000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.7,49,1530,4.0,165
+630000.0,Volkswagen,2007,255000.0,Düz,Benzin,Bilinmiyor,Gri,1598,115,Önden Çekiş,7.6,55,1530,4.0,165
+360000.0,Ford,2005,268000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1399,68,Önden Çekiş,4.3,45,1530,4.0,165
+270000.0,Nissan,2007,183000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1498,98,Önden Çekiş,6.6,60,1450,4.0,170
+1650000.0,BMW,2015,78000.0,Otomatik,Benzin,Sedan,Mavi (metalik),1598,170,Arkadan İtiş,5.3,60,1650,4.0,182
+465000.0,Kia,2012,227000.0,Düz,Dizel,Hatchback/5,Kırmızı,1396,90,Önden Çekiş,4.5,43,1450,4.0,170
+795000.0,Opel,2017,33700.0,Düz,Benzin,Sedan,Gri (Gümüş),1598,115,Önden Çekiş,6.5,56,1480,4.0,169
+600000.0,Honda,2004,322000.0,Düz,LPG & Benzin,Sedan,Lacivert,1590,110,Önden Çekiş,6.5,50,1489,4.0,170
+610000.0,Opel,2013,142000.0,Yarı Otomatik,LPG & Benzin,Hatchback/5,Gri,1598,115,Önden Çekiş,6.3,52,1895,4.0,190
+345000.0,Volkswagen,2001,313000.0,Düz,LPG & Benzin,Hatchback/5,Mavi,1595,105,Önden Çekiş,6.8,55,1280,4.0,165
+660000.0,Renault,2013,205000.0,Düz,Dizel,Sedan,Siyah,1461,110,Önden Çekiş,5.0,66,1730,4.0,182
+472000.0,Ford,2007,305000.0,Düz,Dizel,Sedan,Füme,1560,110,Önden Çekiş,4.8,55,1765,4.0,193
+903000.0,Mercedes - Benz,2008,206000.0,Otomatik,Benzin,Sedan,Lacivert,1796,184,Arkadan İtiş,8.7,66,1485,4.0,160
+700000.0,Fiat,2016,102000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1545,3.0,160
+790000.0,Renault,2017,181000.0,Düz,Dizel,Bilinmiyor,Diğer,1461,110,Önden Çekiş,3.7,47,1825,3.0,193
+728000.0,Volkswagen,2012,148000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1390,122,Önden Çekiş,6.0,55,2010,4.0,200
+485000.0,Ford,2007,120000.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1388,80,Önden Çekiş,6.2,45,1705,4.0,174
+720000.0,Ford,2012,174300.0,Otomatik,LPG & Benzin,Sedan,Gri (Gümüş),1596,100,Önden Çekiş,6.7,55,1800,4.0,190
+525000.0,Fiat,2018,159000.0,Düz,Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1730,4.0,192
+245000.0,Citroen,1997,215000.0,Düz,Benzin,Hatchback/3,Gri,1587,122,Önden Çekiş,8.1,45,1975,4.0,193
+310000.0,Toyota,1999,370000.0,Düz,LPG & Benzin,Sedan,Kırmızı,1332,86,Önden Çekiş,6.9,50,1595,4.0,195
+430000.0,Hyundai,2005,210000.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1341,82,Önden Çekiş,6.2,45,1555,4.0,182
+750000.0,Opel,2015,110000.0,Düz,Benzin,Hatchback/5,Mavi (metalik),1399,150,Önden Çekiş,5.5,52,1610,4.0,188
+750000.0,Honda,2008,140000.0,Otomatik,Benzin,Sedan,Gri (Gümüş),1595,125,Önden Çekiş,7.1,50,1570,3.0,170
+560000.0,Seat,2011,177450.0,Düz,Benzin,Hatchback/5,Beyaz,1197,105,Önden Çekiş,5.4,55,1651,4.0,168
+355000.0,Toyota,2005,360000.0,Düz,LPG & Benzin,Sedan,Gri,1598,110,Önden Çekiş,6.5,55,1535,4.0,164
+350000.0,Nissan,2006,324000.0,Düz,LPG & Benzin,Sedan,Siyah,1596,109,Önden Çekiş,7.2,62,1915,4.0,203
+1050000.0,Audi,2015,160000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1598,110,Önden Çekiş,3.9,50,1693,4.0,190
+650000.0,Fiat,2019,38000.0,Düz,LPG & Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1693,4.0,190
+630000.0,Volkswagen,2011,234000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1598,105,Önden Çekiş,4.7,55,1650,4.0,176
+850000.0,Opel,2017,114000.0,Düz,LPG & Benzin,Sedan,Siyah,1598,115,Önden Çekiş,6.5,56,1696,4.0,160
+475000.0,Fiat,2014,170000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1548,4.0,183
+625000.0,Renault,2018,145000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,1544,4.0,167
+580000.0,Fiat,2016,191000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1705,4.0,191
+445000.0,Renault,2006,271000.0,Düz,Dizel,Sedan,Füme,1461,80,Önden Çekiş,4.6,60,1693,4.0,197
+740000.0,Renault,2016,228000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,3.8,49,1693,4.0,197
+607500.0,Honda,2013,208000.0,Düz,Dizel,Hatchback/5,Beyaz,1597,120,Önden Çekiş,3.7,50,1730,4.0,187
+475000.0,Peugeot,2006,226000.0,Düz,Dizel,Sedan,Gri (metalik),1560,112,Önden Çekiş,5.3,66,1460,4.0,170
+385000.0,Ford,2007,193000.0,Düz,Dizel,Hatchback/5,Gri,1399,68,Önden Çekiş,4.3,45,1460,4.0,170
+665000.0,Volkswagen,2015,163500.0,Düz,Dizel,Hatchback/5,Beyaz,1422,75,Önden Çekiş,3.6,45,1770,4.0,188
+1950000.0,Mercedes - Benz,2016,70000.0,Otomatik,Benzin,Bilinmiyor,Diğer,1595,156,Arkadan İtiş,5.4,41,1655,4.0,174
+709000.0,Opel,2014,174000.0,Düz,Dizel,Hatchback/5,Beyaz,1598,136,Önden Çekiş,3.9,56,1505,4.0,165
+210000.0,Tofaş,1997,215000.0,Düz,LPG & Benzin,Sedan,Kırmızı,1581,96,Arkadan İtiş,6.6,45,1580,4.0,175
+280000.0,Dacia,2005,213.0,Düz,LPG & Benzin,Sedan,Bej,1390,75,Önden Çekiş,6.8,50,1730,4.0,183
+525000.0,Volkswagen,2014,186000.0,Düz,Dizel,Hatchback/5,Beyaz,1199,75,Önden Çekiş,3.8,45,1672,3.0,198
+715000.0,Hyundai,2016,90000.0,Düz,Dizel,Hatchback/5,Beyaz,1396,90,Önden Çekiş,4.1,45,1780,4.0,180
+883000.0,Renault,2018,71000.0,Düz,Benzin,Sedan,Beyaz,1598,115,Önden Çekiş,6.3,49,1885,4.0,175
+665000.0,Volkswagen,2013,114000.0,Yarı Otomatik,Benzin,Hatchback/5,Siyah,1390,85,Önden Çekiş,5.8,45,1560,4.0,172
+670000.0,Volkswagen,2010,156600.0,Düz,Benzin,Sedan,Gri (Gümüş),1390,122,Önden Çekiş,6.4,55,1693,4.0,197
+560000.0,Volkswagen,2012,224000.0,Düz,Benzin,Hatchback/5,Siyah,1198,70,Önden Çekiş,5.5,45,1535,4.0,164
+510000.0,Opel,2013,150000.0,Yarı Otomatik,LPG & Benzin,Hatchback/5,Gri (Gümüş),1229,80,Önden Çekiş,5.7,45,1748,3.0,178
+899999.0,Seat,2017,196000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,115,Önden Çekiş,4.1,50,1835,4.0,210
+875000.0,Fiat,2022,6001.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,50,2160,4.0,210
+329000.0,Peugeot,2006,239000.0,Otomatik,LPG & Benzin,Hatchback/5,Gri (Gümüş),1360,76,Önden Çekiş,6.9,50,1675,4.0,185
+235000.0,Tofaş,1994,280000.0,Düz,LPG & Benzin,Sedan,Beyaz,1581,83,Arkadan İtiş,6.5,50,1535,4.0,164
+645000.0,Nissan,2014,56000.0,Düz,Benzin,Hatchback/5,Kırmızı,1198,80,Önden Çekiş,5.0,41,1658,4.0,181
+760000.0,Citroen,2014,158000.0,Yarı Otomatik,Dizel,MPV,Beyaz,1560,117,Önden Çekiş,4.0,55,1565,4.0,163
+795000.0,Opel,2014,135000.0,Düz,Dizel,Hatchback/5,Siyah,1598,136,Önden Çekiş,3.9,56,2073,4.0,206
+430000.0,Fiat,2012,248000.0,Düz,LPG & Benzin,Hatchback/5,Gri,1368,77,Önden Çekiş,5.9,45,1840,4.0,189
+520000.0,Ford,2011,156500.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1398,70,Önden Çekiş,4.2,45,1888,4.0,194
+490000.0,Skoda,2011,239000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1390,85,Önden Çekiş,5.9,45,1730,4.0,172
+1150000.0,Ford,2018,62000.0,Otomatik,Dizel,Hatchback/5,Mavi,1500,120,Önden Çekiş,4.4,47,1525,4.0,166
+990000.0,Honda,2017,116000.0,Otomatik,LPG & Benzin,Sedan,Füme,1597,125,Önden Çekiş,6.7,47,1609,4.0,167
+640000.0,Nissan,2014,105000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1198,80,Önden Çekiş,5.4,41,1370,4.0,163
+560000.0,Renault,2016,132000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,4.4,60,1765,4.0,184
+545000.0,Peugeot,2013,168500.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.3,50,1765,4.0,184
+463000.0,Opel,2005,156000.0,Düz,LPG & Benzin,Hatchback/5,Mavi (metalik),1598,103,Önden Çekiş,6.6,52,1440,4.0,162
+750000.0,Toyota,2013,77000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1329,99,Önden Çekiş,5.0,42,1840,4.0,203
+355000.0,Ford,2006,235000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1399,68,Önden Çekiş,4.3,45,1720,4.0,215
+460000.0,Ford,2010,280000.0,Otomatik,LPG & Benzin,Hatchback/5,Mavi (metalik),1596,100,Önden Çekiş,6.7,55,1825,4.0,198
+495000.0,Toyota,2005,251000.0,Düz,LPG & Benzin,Sedan,Gri,1598,110,Önden Çekiş,6.5,55,1825,4.0,198
+370000.0,Opel,2000,206000.0,Düz,LPG & Benzin,Hatchback/5,Yeşil,1598,100,Önden Çekiş,7.4,52,1515,4.0,185
+495000.0,Opel,2004,272000.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1598,100,Önden Çekiş,7.5,61,1619,3.0,196
+1500000.0,Volvo,2018,78000.0,Otomatik,Benzin,Sedan,Gri,1498,152,Önden Çekiş,5.8,67,1600,4.0,173
+1065000.0,Volkswagen,2016,78500.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,110,Önden Çekiş,3.9,50,1545,4.0,167
+1080000.0,Hyundai,2022,15500.0,Düz,Benzin,Sedan,Beyaz,1598,123,Önden Çekiş,6.2,47,1475,4.0,165
+510000.0,Peugeot,2013,176000.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.3,50,1730,4.0,187
+185000.0,Tofaş,1994,200000.0,Düz,LPG & Benzin,Sedan,Bej,1581,83,Arkadan İtiş,6.5,50,1865,4.0,195
+690000.0,Citroen,2021,22500.0,Düz,Benzin,Hatchback/5,Beyaz,1199,110,Önden Çekiş,4.4,45,1548,4.0,180
+650000.0,Ford,2011,180000.0,Düz,Benzin,Sedan,Gri (titanyum),1596,115,Önden Çekiş,6.6,55,1745,3.0,173
+530000.0,Ford,2012,171800.0,Düz,Dizel,Hatchback/5,Beyaz,1398,70,Önden Çekiş,4.2,45,1520,3.0,163
+950000.0,Volkswagen,2014,84000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1395,122,Önden Çekiş,5.0,50,1630,4.0,180
+250000.0,Fiat,1998,317000.0,Düz,LPG & Benzin,Sedan,Yeşil,1581,103,Önden Çekiş,8.1,63,1820,4.0,185
+450000.0,Opel,2005,195000.0,Yarı Otomatik,LPG & Benzin,Hatchback/5,Gri,1598,105,Önden Çekiş,6.5,52,1485,4.0,160
+442500.0,Opel,2008,195000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1598,115,Önden Çekiş,6.7,52,1680,4.0,229
+510000.0,Opel,2013,185350.0,Düz,LPG & Benzin,Hatchback/5,Gri,1598,115,Önden Çekiş,6.5,52,1730,4.0,203
+550000.0,Renault,2017,223000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,75,Önden Çekiş,3.6,45,1630,4.0,182
+1270000.0,Peugeot,2019,59000.0,Otomatik,Dizel,Sedan,Mavi,1499,130,Önden Çekiş,3.8,55,1515,4.0,167
+935000.0,Volkswagen,2013,223000.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1598,105,Önden Çekiş,3.9,50,1660,4.0,170
+415000.0,Ford,2006,277000.0,Düz,Dizel,Hatchback/5,Gri,1399,68,Önden Çekiş,4.4,45,1955,4.0,200
+830000.0,BMW,2014,226000.0,Otomatik,Benzin,Hatchback/5,Siyah,1598,136,Arkadan İtiş,5.7,52,2050,4.0,218
+910000.0,Seat,2018,128800.0,Yarı Otomatik,Dizel,Hatchback/5,Gri,1598,115,Önden Çekiş,4.1,50,1730,4.0,183
+830000.0,Opel,2011,125000.0,Düz,Benzin,Sedan,Beyaz,1598,115,Önden Çekiş,7.5,70,1475,4.0,190
+484000.0,Skoda,2007,335000.0,Otomatik,Dizel,Sedan,Siyah,1896,131,Önden Çekiş,5.7,62,1850,4.0,206
+435000.0,Renault,2011,250000.0,Düz,Dizel,Sedan,Gri (Gümüş),1461,105,Önden Çekiş,4.5,60,1734,3.0,189
+580000.0,Volkswagen,2013,222500.0,Düz,Benzin,Sedan,Füme,1197,105,Önden Çekiş,5.7,55,1722,4.0,190
+873000.0,Mercedes - Benz,2013,103175.0,Düz,Benzin,Hatchback/5,Beyaz,1595,122,Önden Çekiş,5.8,50,1550,4.0,170
+650000.0,Ford,2011,195000.0,Düz,LPG & Benzin,Hatchback/5,Gri,1596,125,Önden Çekiş,5.9,55,1485,4.0,170
+358000.0,Renault,2005,290000.0,Düz,Dizel,Hatchback/3,Gri,1461,86,Önden Çekiş,4.4,55,2020,4.0,182
+365000.0,Seat,2004,230300.0,Düz,LPG & Benzin,Hatchback/5,Kahverengi,1390,100,Önden Çekiş,6.6,45,1675,4.0,185
+698000.0,Volkswagen,2011,115000.0,Düz,Benzin,Sedan,Gri (metalik),1197,105,Önden Çekiş,5.7,55,1380,4.0,195
+355000.0,Peugeot,2007,143000.0,Düz,LPG & Benzin,Sedan,Beyaz,1360,76,Önden Çekiş,6.5,50,1720,4.0,215
+570000.0,Fiat,2018,174000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1770,4.0,175
+620000.0,Renault,2018,121000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.7,49,1595,4.0,195
+620000.0,Volkswagen,2009,220000.0,Otomatik,Benzin,Sedan,Gri (Gümüş),1798,160,Önden Çekiş,8.2,70,1960,4.0,208
+330500.0,Peugeot,2006,292000.0,Düz,Dizel,Hatchback/5,Siyah,1560,112,Önden Çekiş,4.9,60,1641,4.0,180
+819000.0,Volkswagen,2014,250.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,105,Önden Çekiş,4.7,55,1579,4.0,162
+795500.0,Mercedes - Benz,2005,210000.0,Otomatik,LPG & Benzin,Sedan,Diğer,1796,143,Arkadan İtiş,8.4,62,1730,4.0,187
+499999.0,Volkswagen,2004,238500.0,Düz,Benzin,Hatchback/5,Siyah,1598,115,Önden Çekiş,6.7,55,1595,4.0,195
+370000.0,Renault,2007,249000.0,Düz,Dizel,Sedan,Gri,1461,80,Önden Çekiş,4.7,50,1810,4.0,172
+965000.0,Volkswagen,2016,86000.0,Düz,Benzin,Hatchback/5,Beyaz,1395,125,Önden Çekiş,5.2,50,1609,4.0,167
+590000.0,Ford,2013,244000.0,Düz,Dizel,Sedan,Gri,1560,95,Önden Çekiş,4.2,53,1440,4.0,174
+605000.0,Seat,2016,87000.0,Düz,Benzin,Hatchback/5,Beyaz,1197,90,Önden Çekiş,4.9,45,2150,4.0,189
+628000.0,Mitsubishi,2011,118000.0,Düz,LPG & Benzin,Sedan,Siyah,1499,109,Önden Çekiş,6.4,59,1480,4.0,160
+635000.0,Kia,2013,70000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1248,85,Önden Çekiş,5.6,35,1730,4.0,187
+420000.0,Fiat,2011,192125.0,Düz,Benzin,Hatchback/5,Gri,1368,77,Önden Çekiş,5.9,45,2010,4.0,200
+735000.0,Hyundai,2017,108000.0,Düz,Benzin,Hatchback/5,Beyaz,1248,84,Önden Çekiş,5.1,50,1755,4.0,185
+480000.0,Hyundai,2013,137200.0,Düz,Dizel,Hatchback/5,Beyaz,1396,90,Önden Çekiş,4.3,45,1480,4.0,175
+690000.0,Fiat,2016,122000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,120,Önden Çekiş,3.8,50,1460,4.0,170
+620000.0,Opel,2015,220019.0,Düz,Dizel,Sedan,Beyaz,1598,110,Önden Çekiş,3.7,56,1559,4.0,175
+525000.0,Honda,2006,347000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1595,125,Önden Çekiş,6.7,50,1800,4.0,192
+400000.0,Fiat,2004,71000.0,Düz,Benzin,Sedan,Gri,1242,80,Önden Çekiş,7.0,47,1645,4.0,193
+400000.0,Renault,2011,222717.0,Düz,Dizel,Sedan,Gri,1461,65,Önden Çekiş,4.5,50,1550,3.0,169
+480000.0,Opel,2008,212000.0,Düz,Dizel,Sedan,Gri (titanyum),1248,90,Önden Çekiş,5.1,52,1820,4.0,210
+565000.0,Renault,2017,184000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,1900,4.0,171
+605000.0,Mazda,2012,189000.0,Düz,Dizel,Sedan,Siyah,1560,109,Önden Çekiş,4.3,55,1670,4.0,190
+318000.0,Renault,2005,200000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1390,98,Önden Çekiş,7.0,50,1575,4.0,203
+662000.0,Renault,2013,61000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1598,115,Önden Çekiş,6.4,60,2160,4.0,235
+570000.0,Volkswagen,2004,88000.0,Düz,Benzin,Hatchback/3,Beyaz,1595,105,Önden Çekiş,6.8,55,2160,4.0,235
+670000.0,Ford,2013,196000.0,Düz,Dizel,Hatchback/5,Beyaz,1560,95,Önden Çekiş,4.2,53,1814,4.0,185
+293000.0,Suzuki,2001,163000.0,Otomatik,LPG & Benzin,Hatchback/5,Lacivert,1298,69,Önden Çekiş,5.9,40,1810,4.0,188
+445000.0,Hyundai,2009,203000.0,Düz,LPG & Benzin,Hatchback/5,Kırmızı,1248,78,Önden Çekiş,5.2,45,1640,4.0,158
+265000.0,Tofaş,1998,40.0,Düz,LPG & Benzin,Sedan,Bordo,1581,83,Arkadan İtiş,6.5,50,1665,4.0,165
+430000.0,Ford,2003,233000.0,Düz,LPG & Benzin,Hatchback/5,Gri,1596,100,Önden Çekiş,6.8,55,1693,4.0,197
+515000.0,Fiat,2017,135500.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1539,4.0,183
+500000.0,Renault,2009,255000.0,Düz,Dizel,Sedan,Gri (Gümüş),1461,105,Önden Çekiş,4.9,60,1535,4.0,164
+1065000.0,Volkswagen,2015,137000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,4.0,66,1820,4.0,192
+425000.0,Citroen,2006,307000.0,Düz,Dizel,Hatchback/5,Bej,1560,111,Önden Çekiş,4.8,60,2110,4.0,210
+460000.0,Ford,2006,222000.0,Düz,Dizel,Sedan,Mavi,1560,110,Önden Çekiş,4.8,55,1651,4.0,168
+592000.0,Hyundai,2017,228000.0,Düz,Dizel,Hatchback/5,Beyaz,1396,90,Önden Çekiş,3.9,45,1548,4.0,180
+685000.0,Audi,2011,151000.0,Yarı Otomatik,Benzin,Hatchback/3,Beyaz,1390,122,Önden Çekiş,5.2,45,1900,4.0,193
+600000.0,Opel,2010,170000.0,Yarı Otomatik,Dizel,Hatchback/5,Füme,1248,90,Önden Çekiş,5.0,52,1555,4.0,180
+490000.0,Chevrolet,2011,218000.0,Düz,LPG & Benzin,Sedan,Beyaz,1598,124,Önden Çekiş,6.5,60,1840,3.0,160
+298000.0,Hyundai,1998,228000.0,Otomatik,LPG & Benzin,Hatchback/5,Mavi,1495,92,Önden Çekiş,7.8,45,1550,4.0,192
+315000.0,Seat,2006,200000.0,Düz,Dizel,Hatchback/5,Füme,1422,80,Önden Çekiş,4.4,45,1980,4.0,190
+725000.0,Opel,2016,60800.0,Otomatik,Benzin,Hatchback/5,Mavi,1399,150,Önden Çekiş,5.5,52,1688,3.0,163
+720000.0,Renault,2012,178000.0,Yarı Otomatik,Dizel,Station wagon,Beyaz,1461,110,Önden Çekiş,4.2,60,2005,4.0,197
+280000.0,Tata,2006,130000.0,Düz,Dizel,Hatchback/5,Beyaz,1405,70,Önden Çekiş,8.0,37,1660,3.0,198
+625000.0,Renault,2014,186000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,4.5,60,2025,4.0,184
+1100000.0,Ford,2019,50000.0,Otomatik,Dizel,Hatchback/5,Gri (Gümüş),1500,120,Önden Çekiş,4.3,47,2000,4.0,195
+530000.0,Renault,2013,176000.0,Düz,Dizel,Hatchback/5,Gri,1461,75,Önden Çekiş,3.6,45,1490,4.0,172
+755000.0,Volkswagen,2016,66000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1197,90,Önden Çekiş,4.7,45,1490,4.0,172
+599000.0,Ford,2012,182000.0,Düz,Dizel,Station wagon,Kahverengi,1560,115,Önden Çekiş,5.3,53,2020,4.0,207
+1050000.0,Honda,2017,72000.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1597,125,Önden Çekiş,6.7,47,2119,4.0,193
+584000.0,Opel,2014,207000.0,Düz,Dizel,Hatchback/5,Beyaz,1598,110,Önden Çekiş,3.9,56,1900,4.0,180
+520000.0,Ford,2011,187000.0,Otomatik,LPG & Benzin,Hatchback/5,Gri (titanyum),1388,96,Önden Çekiş,6.5,42,1563,4.0,164
+620000.0,Peugeot,2012,231000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1560,114,Önden Çekiş,4.4,72,1757,4.0,172
+875000.0,Seat,2017,142000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,115,Önden Çekiş,4.1,50,1704,3.0,178
+770000.0,Volkswagen,2013,194600.0,Düz,Dizel,Sedan,Gri,1598,105,Önden Çekiş,4.3,70,1740,4.0,191
+355000.0,Volkswagen,2000,254000.0,Düz,LPG & Benzin,Hatchback/5,Mavi (metalik),1390,75,Önden Çekiş,6.2,45,1739,4.0,198
+288000.0,Opel,1999,288.0,Düz,LPG & Benzin,Hatchback/3,Füme,1598,100,Önden Çekiş,7.4,52,1785,4.0,175
+450000.0,Renault,2009,118000.0,Düz,LPG & Benzin,Hatchback/5,Kırmızı,1149,75,Önden Çekiş,5.9,55,1580,4.0,177
+310000.0,Volkswagen,1999,374000.0,Düz,LPG & Benzin,Hatchback/5,Kırmızı,1595,101,Önden Çekiş,7.6,55,1840,4.0,195
+335000.0,Hyundai,2009,166000.0,Düz,LPG & Benzin,Sedan,Sarı,1399,97,Önden Çekiş,6.5,45,1915,3.0,200
+915000.0,Volkswagen,2013,194500.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,105,Önden Çekiş,4.7,70,1900,4.0,205
+825000.0,Ford,2015,141000.0,Yarı Otomatik,LPG & Benzin,Sedan,Beyaz,1596,125,Önden Çekiş,6.3,55,1585,4.0,177
+508000.0,Toyota,2007,240000.0,Yarı Otomatik,Dizel,Sedan,Gri,1364,90,Önden Çekiş,4.9,55,1762,4.0,197
+435000.0,Renault,2009,202500.0,Düz,LPG & Benzin,Sedan,Gri (metalik),1390,75,Önden Çekiş,7.1,50,1762,4.0,197
+480000.0,Hyundai,2011,140000.0,Düz,Dizel,Hatchback/5,Gri,1493,88,Önden Çekiş,4.5,45,1670,4.0,175
+525000.0,Toyota,2009,193850.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1364,90,Önden Çekiş,5.0,55,1655,4.0,180
+585000.0,Hyundai,2012,140000.0,Otomatik,LPG & Benzin,Hatchback/5,Gri (Gümüş),1396,100,Önden Çekiş,5.8,45,1825,4.0,198
+658000.0,Hyundai,2012,151000.0,Düz,Dizel,Sedan,Gri (Gümüş),1582,128,Önden Çekiş,4.4,43,1825,4.0,198
+1350000.0,BMW,2017,105000.0,Otomatik,Benzin,Sedan,Siyah,1499,136,Arkadan İtiş,5.0,60,1535,4.0,160
+640000.0,Chevrolet,2012,71405.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1364,140,Önden Çekiş,5.6,60,1555,4.0,180
+610000.0,Peugeot,2017,177000.0,Düz,Dizel,Sedan,Gri,1560,93,Önden Çekiş,4.3,50,1750,4.0,193
+730000.0,Opel,2012,84000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1364,140,Önden Çekiş,6.8,56,1505,4.0,165
+680000.0,Ford,2014,100000.0,Düz,LPG & Benzin,Sedan,Beyaz,1596,125,Önden Çekiş,6.0,55,2020,4.0,192
+620000.0,Peugeot,2017,69000.0,Düz,Benzin,Hatchback/5,Kırmızı,1199,83,Önden Çekiş,4.5,50,1670,4.0,190
+720000.0,Toyota,2016,138000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1329,99,Önden Çekiş,5.8,50,1888,4.0,194
+645000.0,Volkswagen,2012,245000.0,Düz,Dizel,Hatchback/5,Siyah,1598,105,Önden Çekiş,4.5,55,2073,4.0,206
+395000.0,Renault,2003,309000.0,Düz,LPG & Benzin,Sedan,Bordo,1598,115,Önden Çekiş,6.9,60,1935,4.0,202
+518000.0,Hyundai,2011,111000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1399,97,Önden Çekiş,6.5,45,1575,4.0,167
+646000.0,Toyota,2006,153400.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1598,110,Önden Çekiş,6.5,55,2000,3.0,210
+560000.0,Citroen,2015,58000.0,Düz,Benzin,Hatchback/5,Beyaz,1397,96,Önden Çekiş,6.1,60,1568,4.0,191
+180000.0,Lada,2000,180000.0,Düz,LPG & Benzin,Sedan,Yeşil,1596,90,Önden Çekiş,6.8,43,1579,4.0,162
+960000.0,Toyota,2018,59500.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1364,90,Önden Çekiş,4.1,55,1885,3.0,210
+590000.0,Ford,2014,117800.0,Düz,Dizel,Hatchback/5,Beyaz,1498,75,Önden Çekiş,3.7,42,1660,4.0,170
+400000.0,Renault,2007,180000.0,Düz,Benzin,Sedan,Beyaz,1390,98,Önden Çekiş,7.3,50,1945,4.0,176
+1200000.0,BMW,2017,110000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1496,116,Arkadan İtiş,4.1,52,1945,4.0,176
+480000.0,Dacia,2012,180000.0,Düz,Dizel,Hatchback/5,Gri,1461,90,Önden Çekiş,5.0,50,1730,4.0,183
+620000.0,Hyundai,2012,71000.0,Düz,LPG & Benzin,Sedan,Gri,1396,108,Önden Çekiş,5.9,43,1548,4.0,180
+400000.0,Seat,2006,278000.0,Düz,Dizel,Sedan,Siyah,1422,80,Önden Çekiş,4.6,45,1800,4.0,190
+875000.0,Opel,2013,66000.0,Otomatik,Benzin,Sedan,Beyaz,1598,170,Önden Çekiş,6.6,70,1793,4.0,192
+600000.0,Volkswagen,2011,216000.0,Yarı Otomatik,Benzin,Hatchback/3,Siyah,1390,180,Önden Çekiş,5.8,45,1440,4.0,162
+810000.0,Volkswagen,2014,165000.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1197,105,Önden Çekiş,5.4,55,1762,4.0,197
+650000.0,Peugeot,2015,176000.0,Düz,Dizel,Hatchback/5,Beyaz,1560,93,Önden Çekiş,3.7,53,1690,4.0,172
+395000.0,Hyundai,2011,190000.0,Düz,Dizel,Sedan,Gri,1493,110,Önden Çekiş,4.6,45,1733,4.0,175
+302000.0,Peugeot,2004,266000.0,Düz,LPG & Benzin,Hatchback/5,Gri,1587,110,Önden Çekiş,7.2,60,2020,4.0,208
+495000.0,Opel,2011,160000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1364,100,Önden Çekiş,5.5,45,1535,4.0,160
+500000.0,Fiat,2018,125000.0,Düz,Dizel,Hatchback/5,Beyaz,1248,75,Önden Çekiş,4.2,45,1535,4.0,160
+1400000.0,Mercedes - Benz,2012,137000.0,Otomatik,Benzin,Sedan,Beyaz,1595,156,Arkadan İtiş,6.4,59,1535,4.0,160
+225000.0,Fiat,2007,245000.0,Düz,Dizel,Sedan,Beyaz,1248,70,Önden Çekiş,4.7,48,1730,4.0,172
+610000.0,Mazda,2012,268000.0,Düz,Dizel,Sedan,Beyaz,1560,115,Önden Çekiş,4.3,55,1745,4.0,188
+487000.0,Renault,2012,153000.0,Düz,Dizel,Hatchback/5,Kırmızı,1461,90,Önden Çekiş,3.6,45,1750,4.0,191
+619000.0,Honda,2011,149000.0,Otomatik,LPG & Benzin,Sedan,Siyah,1595,125,Önden Çekiş,6.7,50,1740,4.0,192
+465000.0,Renault,2007,221000.0,Düz,Dizel,Hatchback/5,Mavi (metalik),1461,80,Önden Çekiş,4.6,60,1820,4.0,215
+695000.0,Toyota,2011,131000.0,Düz,LPG & Benzin,Sedan,Beyaz,1598,132,Önden Çekiş,6.6,60,1500,4.0,162
+459000.0,Mitsubishi,2009,172000.0,Otomatik,Benzin,Hatchback/5,Bordo,1332,95,Önden Çekiş,5.6,47,1985,4.0,225
+360000.0,Fiat,2004,210000.0,Düz,Dizel,Hatchback/5,Yeşil,1251,70,Önden Çekiş,4.5,47,1585,4.0,170
+645000.0,Hyundai,2016,220000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1248,84,Önden Çekiş,5.1,50,1595,4.0,195
+760000.0,Toyota,2014,113300.0,Düz,Benzin,Sedan,Beyaz,1329,99,Önden Çekiş,5.8,55,1595,4.0,195
+490000.0,Volkswagen,2013,311000.0,Düz,Dizel,Hatchback/5,Beyaz,1199,75,Önden Çekiş,3.8,45,1805,4.0,171
+780000.0,Hyundai,2013,99800.0,Otomatik,Benzin,Hatchback/5,Gri (metalik),1591,135,Önden Çekiş,6.7,53,1565,4.0,168
+939000.0,Audi,2015,129000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,110,Önden Çekiş,3.9,50,1730,4.0,204
+440000.0,Fiat,2012,260000.0,Düz,Dizel,Hatchback/5,Beyaz,1248,75,Önden Çekiş,4.1,45,1650,4.0,190
+310000.0,Ford,2005,318000.0,Düz,Dizel,Hatchback/5,Gri,1399,68,Önden Çekiş,4.3,45,1440,4.0,168
+565000.0,Citroen,2015,127000.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.3,48,1930,4.0,195
+439000.0,Fiat,2010,193000.0,Düz,LPG & Benzin,Sedan,Gri,1368,77,Önden Çekiş,6.3,45,1788,4.0,190
+1100000.0,Toyota,2020,55000.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1598,132,Önden Çekiş,5.5,50,1955,4.0,225
+890000.0,Honda,2021,33000.0,Otomatik,Benzin,Sedan,Beyaz,1498,121,Önden Çekiş,6.2,40,1658,4.0,181
+450000.0,Fiat,2014,160000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1580,4.0,175
+935000.0,Opel,2018,95000.0,Otomatik,Dizel,Hatchback/5,Bordo,1598,136,Önden Çekiş,4.6,52,1965,4.0,220
+382500.0,Fiat,2004,299000.0,Düz,LPG & Benzin,Sedan,Beyaz,1596,103,Önden Çekiş,8.1,63,1930,4.0,192
+650000.0,Dacia,2014,102000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1461,90,Önden Çekiş,4.0,50,1450,4.0,170
+1080000.0,BMW,2015,112000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1499,136,Arkadan İtiş,5.2,52,1771,4.0,180
+336000.0,Volkswagen,2001,246000.0,Düz,LPG & Benzin,Hatchback/5,Kırmızı,1390,75,Önden Çekiş,6.4,45,1241,4.0,200
+543000.0,Ford,2011,144100.0,Otomatik,Benzin,Hatchback/5,Beyaz,1388,96,Önden Çekiş,6.5,42,1745,4.0,170
+595000.0,Opel,2009,205000.0,Düz,LPG & Benzin,Sedan,Gri,1598,115,Önden Çekiş,6.8,52,1727,4.0,184
+409000.0,Skoda,2004,196500.0,Düz,LPG & Benzin,Hatchback/5,Gri,1595,102,Önden Çekiş,7.1,55,1920,4.0,190
+695000.0,Fiat,2022,38000.0,Düz,Benzin,Sedan,Mavi,1368,95,Önden Çekiş,6.4,45,1788,4.0,190
+865000.0,Volkswagen,2015,195000.0,Yarı Otomatik,Benzin,Sedan,Gri,1395,125,Önden Çekiş,5.0,55,1788,4.0,190
+1700000.0,Honda,2023,6150.0,Otomatik,Benzin,Sedan,Beyaz,1498,182,Önden Çekiş,6.7,47,1580,4.0,167
+530000.0,Renault,2015,289000.0,Düz,Dizel,Station wagon,Beyaz,1461,75,Önden Çekiş,4.0,45,1872,4.0,190
+300000.0,Chevrolet,2012,140000.0,Düz,LPG & Benzin,Sedan,Siyah,1598,124,Önden Çekiş,6.5,60,1495,4.0,164
+515000.0,Dacia,2014,252000.0,Düz,Dizel,Station wagon,Beyaz,1461,75,Önden Çekiş,3.9,50,1740,4.0,191
+1154500.0,Opel,2017,97000.0,Otomatik,Dizel,Sedan,Beyaz,1598,136,Önden Çekiş,5.0,70,1620,3.0,170
+749500.0,Fiat,2021,43000.0,Düz,Benzin,Sedan,Füme,1368,95,Önden Çekiş,6.4,45,1810,4.0,188
+1430000.0,BMW,2018,118000.0,Otomatik,Benzin,Sedan,Altın,1499,136,Arkadan İtiş,5.0,60,1990,4.0,235
+375000.0,Hyundai,2000,270000.0,Düz,LPG & Benzin,Sedan,Beyaz,1495,102,Önden Çekiş,6.9,45,1840,4.0,200
+555000.0,Volkswagen,2004,209000.0,Düz,LPG & Benzin,Hatchback/5,Mavi,1595,105,Önden Çekiş,6.8,55,1725,4.0,182
+609000.0,Fiat,2019,165000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1850,4.0,192
+644900.0,Fiat,2013,139492.0,Yarı Otomatik,Dizel,Hatchback/3,Beyaz,1242,69,Önden Çekiş,4.9,35,1850,4.0,192
+699900.0,Hyundai,2017,108828.0,Otomatik,Dizel,Sedan,Beyaz,1582,128,Önden Çekiş,5.6,43,1780,4.0,200
+395000.0,Kia,2010,242000.0,Düz,Dizel,Hatchback/5,Beyaz,1493,110,Önden Çekiş,4.7,45,1735,4.0,180
+505000.0,Opel,2008,106000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1598,115,Önden Çekiş,6.7,52,1565,4.0,180
+565000.0,Renault,2010,173000.0,Düz,Dizel,Hatchback/5,Füme,1461,105,Önden Çekiş,4.5,60,1775,4.0,185
+672000.0,Peugeot,2015,37000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1199,83,Önden Çekiş,4.5,50,1790,4.0,190
+620000.0,Opel,2010,199000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1598,180,Önden Çekiş,7.7,70,1660,4.0,170
+650000.0,Renault,2012,192000.0,Düz,Dizel,Hatchback/5,Füme,1461,105,Önden Çekiş,4.5,60,1490,4.0,175
+595000.0,Renault,2016,100200.0,Düz,Dizel,Hatchback/5,Beyaz,1461,75,Önden Çekiş,3.6,45,1895,4.0,199
+440000.0,Fiat,2007,156000.0,Yarı Otomatik,LPG & Benzin,Hatchback/5,Gri,1242,81,Önden Çekiş,7.2,51,1620,3.0,170
+749000.0,Skoda,2015,72500.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1197,110,Önden Çekiş,4.7,45,1660,4.0,170
+220000.0,Dacia,2005,175000.0,Düz,LPG & Benzin,Sedan,Beyaz,1390,75,Önden Çekiş,6.7,50,1600,4.0,167
+655000.0,Fiat,2020,60000.0,Düz,LPG & Benzin,Sedan,Gri (titanyum),1368,95,Önden Çekiş,5.7,45,1500,4.0,166
+385000.0,Nissan,2001,312000.0,Düz,LPG & Benzin,Hatchback/5,Gri (metalik),1497,90,Önden Çekiş,6.6,60,1920,4.0,190
+765000.0,Volkswagen,2012,148000.0,Yarı Otomatik,Benzin,Bilinmiyor,Diğer,1390,160,Önden Çekiş,6.9,70,1693,4.0,192
+784950.0,Opel,2020,50000.0,Otomatik,Benzin,Sedan,Beyaz,1364,140,Önden Çekiş,6.7,56,1600,4.0,165
+1270500.0,Volkswagen,2016,149000.0,Yarı Otomatik,Benzin,Bilinmiyor,Diğer,1395,150,Önden Çekiş,5.6,70,1500,4.0,170
+747500.0,Seat,2017,230000.0,Düz,Dizel,Hatchback/5,Kırmızı,1598,115,Önden Çekiş,4.0,50,1710,4.0,177
+352500.0,Ford,2005,328000.0,Düz,Dizel,Hatchback/5,Gri (metalik),1399,68,Önden Çekiş,4.3,45,1750,4.0,182
+635500.0,Peugeot,2015,138000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1199,83,Önden Çekiş,4.5,50,1500,4.0,186
+1205500.0,Volkswagen,2014,130000.0,Yarı Otomatik,Benzin,Sedan,Siyah,1395,150,Önden Çekiş,5.1,66,1634,4.0,170
+917500.0,Renault,2020,49000.0,Düz,Benzin,Sedan,Lacivert,1332,140,Önden Çekiş,5.5,50,1740,4.0,183
+845500.0,Volkswagen,2015,228000.0,Düz,Dizel,Hatchback/5,Kahverengi,1598,110,Önden Çekiş,3.8,50,1560,4.0,172
+789500.0,Ford,2015,250000.0,Düz,Benzin,Sedan,Siyah,1596,125,Önden Çekiş,6.0,55,1430,3.0,157
+275000.0,Renault,1999,410000.0,Düz,LPG & Benzin,Sedan,Gri,1598,107,Önden Çekiş,7.0,60,1940,4.0,230
+426500.0,Honda,2003,280000.0,Düz,LPG & Benzin,Sedan,Kahverengi,1590,110,Önden Çekiş,6.5,50,1730,4.0,191
+765000.0,Hyundai,2016,80000.0,Düz,Benzin,Hatchback/5,Beyaz,1248,84,Önden Çekiş,5.0,50,1730,4.0,191
+749000.0,Renault,2020,130000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,115,Önden Çekiş,3.6,39,1450,4.0,170
+595000.0,Renault,2014,225000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,4.4,60,1585,4.0,165
+445000.0,Ford,2006,139000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1596,100,Önden Çekiş,7.4,45,1450,4.0,170
+730000.0,Opel,2016,206000.0,Otomatik,Dizel,Sedan,Füme,1598,136,Önden Çekiş,5.0,70,1500,4.0,186
+765000.0,Fiat,2020,12000.0,Düz,Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1555,4.0,180
+639000.0,Honda,2010,201000.0,Otomatik,LPG & Benzin,Sedan,Kahverengi,1595,125,Önden Çekiş,7.1,50,1651,4.0,168
+620000.0,Volkswagen,2009,69000.0,Düz,Benzin,Hatchback/5,Beyaz,1390,80,Önden Çekiş,6.3,45,2064,4.0,206
+1065000.0,Audi,2016,97000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,110,Önden Çekiş,3.8,50,1760,4.0,185
+315000.0,Opel,2006,270000.0,Düz,Dizel,Hatchback/3,Beyaz,1248,75,Önden Çekiş,4.6,45,1935,4.0,194
+350000.0,Peugeot,2005,340000.0,Düz,Dizel,Hatchback/5,Beyaz,1398,69,Önden Çekiş,4.5,60,1705,4.0,190
+935000.0,Honda,2013,112000.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1595,125,Önden Çekiş,6.7,50,1450,4.0,170
+649999.0,Renault,2016,165000.0,Düz,Dizel,Sedan,Siyah,1461,90,Önden Çekiş,4.5,60,1990,6.0,207
+460000.0,Chevrolet,2010,47000.0,Otomatik,Benzin,Sedan,Kırmızı,1399,100,Önden Çekiş,6.8,45,1590,3.0,173
+460000.0,Toyota,2005,267000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1598,110,Önden Çekiş,7.2,60,2075,4.0,219
+850000.0,Skoda,2015,46500.0,Yarı Otomatik,LPG & Benzin,Hatchback/5,Kırmızı,1197,90,Önden Çekiş,4.7,55,1609,4.0,167
+369000.0,Ford,2006,290000.0,Otomatik,LPG & Benzin,Hatchback/5,Gri (Gümüş),1596,100,Önden Çekiş,7.6,45,2155,4.0,200
+615000.0,Fiat,2017,88000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,2025,4.0,205
+1305000.0,Volkswagen,2020,38000.0,Yarı Otomatik,Benzin,Sedan,Füme,1498,150,Önden Çekiş,5.3,66,1900,4.0,190
+754000.0,Opel,2017,95447.0,Otomatik,Benzin,Sedan,Beyaz,1364,140,Önden Çekiş,6.7,56,1690,4.0,172
+778000.0,Peugeot,2018,117207.0,Otomatik,Dizel,Hatchback/5,Beyaz,1560,122,Önden Çekiş,3.5,53,1766,4.0,195
+627000.0,Peugeot,2020,74387.0,Düz,Dizel,Sedan,Beyaz,1499,102,Önden Çekiş,3.9,50,1565,4.0,168
+722000.0,Fiat,2019,126483.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,3.9,45,1762,4.0,197
+905000.0,Skoda,2020,61381.0,Yarı Otomatik,Dizel,Hatchback/5,Gri,1598,115,Önden Çekiş,4.1,50,1945,4.0,202
+475000.0,Ford,2009,225000.0,Düz,Dizel,Hatchback/5,Siyah,1399,70,Önden Çekiş,4.3,45,1765,4.0,184
+825000.0,Hyundai,2020,34116.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1368,100,Önden Çekiş,6.1,40,1920,4.0,217
+719000.0,Opel,2018,102000.0,Düz,Dizel,Sedan,Siyah,1598,136,Önden Çekiş,4.2,56,1548,4.0,180
+542000.0,Renault,2014,165000.0,Düz,LPG & Benzin,Sedan,Gri,1149,75,Önden Çekiş,6.0,50,1945,4.0,190
+1285000.0,Renault,2018,28500.0,Yarı Otomatik,Dizel,Sedan,Gri (titanyum),1461,110,Önden Çekiş,3.8,49,1670,4.0,190
+425000.0,Opel,2003,194000.0,Düz,LPG & Benzin,Sedan,Gri,1598,100,Önden Çekiş,7.5,61,1771,4.0,173
+699000.0,Fiat,2020,12100.0,Düz,Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1785,4.0,185
+545000.0,Seat,2015,143000.0,Düz,Benzin,Hatchback/5,Kırmızı,1390,85,Önden Çekiş,5.9,45,1870,4.0,201
+340000.0,Renault,2004,325000.0,Düz,Dizel,Sedan,Diğer,1461,65,Önden Çekiş,4.7,50,1841,4.0,187
+790000.0,Renault,2018,74000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri,1461,90,Önden Çekiş,3.7,45,1675,4.0,186
+810000.0,Volkswagen,2013,100300.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1197,105,Önden Çekiş,4.8,50,1870,4.0,206
+510000.0,Hyundai,2007,153500.0,Otomatik,LPG & Benzin,Hatchback/5,Gri,1399,97,Önden Çekiş,6.7,45,1703,4.0,165
+410000.0,Renault,2005,113120.0,Düz,Benzin,Sedan,Gri (Gümüş),1390,75,Önden Çekiş,7.1,50,1770,4.0,216
+830000.0,Ford,2016,121000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1499,120,Önden Çekiş,4.2,55,1770,4.0,216
+850000.0,Volkswagen,2005,220000.0,Düz,LPG & Benzin,Bilinmiyor,Siyah,1595,102,Önden Çekiş,7.7,55,1590,4.0,164
+890000.0,Mercedes - Benz,2013,215000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,109,Önden Çekiş,4.0,50,2155,4.0,200
+500000.0,Ford,2005,200000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1399,68,Önden Çekiş,4.4,45,2000,3.0,210
+2095000.0,BMW,2020,90641.0,Otomatik,Benzin,Sedan,Gri (metalik),1597,170,Arkadan İtiş,6.0,59,2190,6.0,214
+725000.0,Renault,2016,157000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,3.8,49,1555,4.0,173
+420000.0,Opel,2003,290000.0,Düz,LPG & Benzin,Hatchback/5,Mavi,1598,100,Önden Çekiş,7.1,52,1684,4.0,192
+815000.0,Volkswagen,2015,210000.0,Yarı Otomatik,Dizel,Hatchback/5,Mavi,1598,110,Önden Çekiş,3.9,50,1650,4.0,190
+480000.0,Chevrolet,2011,131000.0,Otomatik,LPG & Benzin,Sedan,Siyah,1598,124,Önden Çekiş,7.4,60,1645,4.0,176
+720000.0,Hyundai,2014,47500.0,Otomatik,Benzin,Hatchback/5,Bordo,1396,100,Önden Çekiş,6.0,45,1705,4.0,191
+435000.0,Fiat,2009,65000.0,Düz,Benzin,Sedan,Kırmızı,1368,77,Önden Çekiş,6.2,48,1761,4.0,190
+655000.0,Opel,2013,194200.0,Otomatik,Benzin,Sedan,Füme,1364,140,Önden Çekiş,6.7,56,1570,3.0,170
+700000.0,Renault,2013,235000.0,Düz,Dizel,Sedan,Gri,1461,90,Önden Çekiş,4.4,60,2020,4.0,225
+375000.0,Opel,2003,144500.0,Düz,Benzin,Hatchback/5,Kırmızı,1389,90,Önden Çekiş,7.2,44,1761,4.0,190
+420000.0,Nissan,2005,186000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1240,80,Önden Çekiş,6.6,46,1651,4.0,168
+1715000.0,Volkswagen,2018,109000.0,Yarı Otomatik,Dizel,Sedan,Gri,1598,120,Önden Çekiş,4.0,66,1370,4.0,166
+390000.0,Renault,2011,248000.0,Yarı Otomatik,Dizel,Sedan,Gri (metalik),1461,110,Önden Çekiş,4.4,60,1609,4.0,196
+415000.0,Renault,2008,181000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1598,110,Önden Çekiş,6.8,60,1675,4.0,185
+535000.0,Fiat,2016,111000.0,Düz,LPG & Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1720,4.0,215
+495000.0,Renault,2015,155470.0,Düz,Dizel,Hatchback/5,Beyaz,1461,75,Önden Çekiş,3.6,45,2230,6.0,225
+310000.0,Renault,2000,151500.0,Düz,Benzin,Hatchback/3,Gri,1598,90,Önden Çekiş,7.2,50,1710,4.0,173
+979000.0,Volkswagen,2016,175000.0,Yarı Otomatik,Dizel,Sedan,Gri (metalik),1598,120,Önden Çekiş,4.0,66,1645,3.0,193
+1000000.0,Honda,2020,47000.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1597,125,Önden Çekiş,6.3,46,1980,4.0,223
+579000.0,Opel,2012,185000.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1248,90,Önden Çekiş,5.0,52,1680,3.0,187
+400000.0,Peugeot,2011,239000.0,Düz,Dizel,Hatchback/5,Gri,1398,71,Önden Çekiş,4.2,50,1910,4.0,218
+279000.0,Fiat,2004,292000.0,Düz,Dizel,Sedan,Beyaz,1248,70,Önden Çekiş,4.7,48,1762,4.0,197
+520000.0,Fiat,2012,127000.0,Düz,Dizel,Sedan,Beyaz,1248,90,Önden Çekiş,4.9,45,1600,4.0,167
+395000.0,Volvo,2004,220000.0,Düz,LPG & Benzin,Sedan,Yeşil,1587,109,Önden Çekiş,7.7,60,1408,3.0,155
+829000.0,Opel,2016,112000.0,Otomatik,Benzin,Hatchback/5,Mavi,1399,150,Önden Çekiş,5.5,52,1535,4.0,164
+195750.0,Tofaş,1999,275000.0,Düz,LPG & Benzin,Sedan,Beyaz,1372,71,Arkadan İtiş,6.6,52,1350,3.0,165
+700000.0,Fiat,2021,41000.0,Düz,Benzin,Sedan,Gri (Gümüş),1368,95,Önden Çekiş,6.4,45,1546,3.0,178
+850000.0,Ford,2019,75000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1499,120,Önden Çekiş,4.2,55,2030,4.0,220
+720000.0,Opel,2017,129870.0,Düz,LPG & Benzin,Sedan,Kahverengi,1598,115,Önden Çekiş,6.5,56,1905,4.0,205
+410000.0,Peugeot,2010,165000.0,Düz,LPG & Benzin,Sedan,Gri,1360,76,Önden Çekiş,6.5,50,1800,4.0,195
+1130000.0,Toyota,2020,38100.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1598,132,Önden Çekiş,5.5,50,1900,4.0,192
+575000.0,Fiat,2016,157700.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1630,4.0,195
+760000.0,Opel,2011,168000.0,Düz,Dizel,Sedan,Beyaz,1248,90,Önden Çekiş,5.1,52,1550,4.0,195
+365000.0,Opel,2001,256000.0,Düz,Benzin,Hatchback/3,Siyah,1389,90,Önden Çekiş,7.2,44,1663,4.0,170
+490000.0,Hyundai,2013,254000.0,Düz,Dizel,Hatchback/5,Beyaz,1396,90,Önden Çekiş,4.3,45,1814,4.0,185
+387000.0,Renault,2013,348000.0,Düz,Dizel,Sedan,Beyaz,1461,75,Önden Çekiş,3.9,50,1570,4.0,179
+330000.0,Fiat,2009,220000.0,Düz,Dizel,Hatchback/5,Beyaz,1248,70,Önden Çekiş,4.6,51,1940,6.0,215
+520000.0,Toyota,2005,282000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1598,110,Önden Çekiş,7.2,60,1645,4.0,183
+509000.0,Renault,2012,191000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,4.4,60,2155,4.0,200
+1045000.0,Audi,2016,185000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,110,Önden Çekiş,3.9,50,1675,4.0,185
+1450000.0,BMW,2014,57000.0,Otomatik,Benzin,Sedan,Beyaz,1598,136,Arkadan İtiş,5.8,60,1693,4.0,192
+680000.0,Renault,2015,189000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,4.5,60,1578,4.0,175
+680000.0,Opel,2016,202000.0,Otomatik,Dizel,Sedan,Gri,1598,136,Önden Çekiş,5.1,56,1845,4.0,200
+1062000.0,BMW,2015,119000.0,Otomatik,Benzin,MPV,Siyah,1499,136,Önden Çekiş,5.2,51,1545,4.0,163
+650000.0,Toyota,2009,262000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1364,90,Önden Çekiş,4.9,55,1545,4.0,163
+570000.0,Opel,2010,184500.0,Düz,Dizel,Sedan,Gri (metalik),1248,90,Önden Çekiş,5.1,52,1696,4.0,160
+850000.0,Volvo,2012,148000.0,Yarı Otomatik,Benzin,Sedan,Siyah,1595,180,Önden Çekiş,7.6,67,1693,4.0,192
+349000.0,Renault,2010,368000.0,Düz,Dizel,Sedan,Gri,1461,85,Önden Çekiş,4.5,50,1600,4.0,185
+477500.0,Honda,2007,125000.0,Otomatik,Benzin,Sedan,Gri (Gümüş),1339,83,Önden Çekiş,5.6,42,1550,4.0,175
+505000.0,Renault,2017,184000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,1654,4.0,184
+630000.0,Toyota,2012,140000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1364,90,Önden Çekiş,4.8,55,1654,4.0,184
+650000.0,Fiat,2020,117900.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1605,4.0,176
+815000.0,Toyota,2013,82500.0,Düz,Dizel,Sedan,Beyaz,1364,90,Önden Çekiş,4.1,55,1660,4.0,170
+648000.0,Volkswagen,2012,110500.0,Düz,Benzin,Hatchback/5,Siyah,1390,122,Önden Çekiş,6.2,55,1990,4.0,213
+950000.0,Audi,2009,240000.0,Otomatik,Benzin,Sedan,Beyaz,1798,120,Önden Çekiş,7.5,65,1820,4.0,196
+2320000.0,Mercedes - Benz,2017,74000.0,Otomatik,Benzin,Bilinmiyor,Diğer,1595,156,Arkadan İtiş,5.9,41,1590,4.0,190
+298000.0,Peugeot,2010,265000.0,Düz,Benzin,Sedan,Siyah,1360,76,Önden Çekiş,6.5,50,1820,4.0,200
+725000.0,Fiat,2021,18300.0,Düz,LPG & Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,6.4,45,1864,4.0,200
+410000.0,Renault,2005,293500.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1598,110,Önden Çekiş,7.4,68,1535,4.0,164
+865000.0,Honda,2014,129000.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1595,125,Önden Çekiş,6.7,50,1793,4.0,192
+399500.0,Toyota,2008,270000.0,Düz,Dizel,Hatchback/5,Siyah,1364,90,Önden Çekiş,5.0,55,2025,4.0,205
+505000.0,Peugeot,2016,117000.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.3,50,1524,4.0,156
+600000.0,Honda,2007,247000.0,Otomatik,LPG & Benzin,Sedan,Gri (metalik),1595,125,Önden Çekiş,7.1,50,1945,4.0,190
+750000.0,Nissan,2015,65000.0,Otomatik,Benzin,Hatchback/5,Yeşil,1198,80,Önden Çekiş,5.4,41,1900,4.0,192
+915000.0,Toyota,2015,93025.0,Otomatik,Benzin,Sedan,Beyaz,1598,132,Önden Çekiş,6.1,55,1900,4.0,192
+840000.0,BMW,2011,212000.0,Otomatik,Benzin,Sedan,Siyah,1596,116,Arkadan İtiş,7.9,63,1675,4.0,185
+575000.0,Fiat,2017,267000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,3.9,45,1555,4.0,175
+300000.0,Peugeot,2012,229000.0,Düz,Dizel,Hatchback/5,Füme,1398,71,Önden Çekiş,4.2,50,1500,4.0,153
+1280000.0,Honda,2021,13600.0,Otomatik,Benzin,Sedan,Beyaz,1498,182,Önden Çekiş,6.7,47,1526,4.0,177
+440000.0,Peugeot,2013,126750.0,Düz,Dizel,Hatchback/5,Gri,1398,71,Önden Çekiş,4.2,50,1500,4.0,162
+430000.0,Peugeot,2006,161000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1360,89,Önden Çekiş,6.5,60,1725,4.0,182
+355000.0,Renault,2005,342000.0,Düz,Dizel,Sedan,Bej,1461,80,Önden Çekiş,4.6,60,1595,4.0,195
+580000.0,Ford,2011,163095.0,Düz,Dizel,Sedan,Gri (metalik),1560,110,Önden Çekiş,4.8,55,1540,4.0,167
+760000.0,Ford,2015,163000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1499,120,Önden Çekiş,4.2,55,1490,3.0,151
+395000.0,Daihatsu,2003,209000.0,Otomatik,Benzin,Hatchback/5,Lacivert,1298,102,Önden Çekiş,6.3,40,1490,3.0,151
+470000.0,Honda,2009,167000.0,Düz,LPG & Benzin,Sedan,Gri,1339,100,Önden Çekiş,6.4,42,1975,4.0,193
+620000.0,Opel,2011,219000.0,Otomatik,LPG & Benzin,Hatchback/5,Siyah,1598,115,Önden Çekiş,7.1,56,1975,4.0,193
+860000.0,Volkswagen,2015,122000.0,Düz,Dizel,Sedan,Beyaz,1598,105,Önden Çekiş,4.5,55,1740,4.0,179
+1015000.0,Volvo,2015,135000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1560,115,Önden Çekiş,4.1,67,1960,4.0,190
+470000.0,Ford,2012,175000.0,Düz,Dizel,Hatchback/5,Gri,1398,70,Önden Çekiş,4.2,45,1535,4.0,164
+630000.0,Seat,2013,133000.0,Düz,Benzin,Hatchback/5,Füme,1390,85,Önden Çekiş,5.9,45,1640,4.0,158
+840000.0,Peugeot,2015,145000.0,Otomatik,Dizel,Hatchback/5,Gri (titanyum),1560,122,Önden Çekiş,3.5,53,1945,4.0,190
+930000.0,Skoda,2017,150000.0,Yarı Otomatik,Dizel,Station wagon,Beyaz,1598,115,Önden Çekiş,3.9,50,1650,4.0,188
+750000.0,Volkswagen,2014,67600.0,Düz,Benzin,Hatchback/5,Beyaz,1390,85,Önden Çekiş,5.9,45,1895,4.0,206
+1285000.0,Mercedes - Benz,2014,99500.0,Otomatik,Benzin,Bilinmiyor,Beyaz,1597,156,Arkadan İtiş,6.7,59,1250,3.0,145
+529000.0,Hyundai,2012,222000.0,Düz,LPG & Benzin,Sedan,Beyaz,1399,97,Önden Çekiş,6.5,45,1820,4.0,195
+599000.0,Kia,2012,224000.0,Otomatik,Dizel,Station wagon,Beyaz,1582,128,Önden Çekiş,4.4,53,1813,4.0,185
+422000.0,Opel,2005,179000.0,Yarı Otomatik,Benzin,Hatchback/5,Kırmızı,1229,80,Önden Çekiş,6.0,44,1420,4.0,162
+615000.0,Toyota,2010,113000.0,Düz,Benzin,Sedan,Bej,1598,124,Önden Çekiş,6.9,55,1771,4.0,180
+605000.0,Renault,2010,300000.0,Düz,Dizel,Bilinmiyor,Diğer,1461,105,Önden Çekiş,4.5,60,1525,4.0,180
+265000.0,Fiat,2004,258000.0,Düz,Dizel,Hatchback/3,Mavi (metalik),1248,70,Önden Çekiş,4.6,51,1475,4.0,145
+410000.0,Renault,2004,202000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1598,115,Önden Çekiş,6.9,60,2073,4.0,206
+605000.0,Volkswagen,2009,230460.0,Yarı Otomatik,Benzin,Hatchback/5,Gri,1390,140,Önden Çekiş,7.1,55,1540,4.0,167
+450000.0,Honda,2002,220000.0,Otomatik,LPG & Benzin,Sedan,Bej,1590,110,Önden Çekiş,7.0,50,1675,4.0,185
+660000.0,Volkswagen,2013,282000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,105,Önden Çekiş,3.9,50,1651,4.0,168
+398000.0,Fiat,2012,190000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1651,4.0,168
+559900.0,Honda,2008,188500.0,Yarı Otomatik,LPG & Benzin,Hatchback/5,Kahverengi,1799,140,Önden Çekiş,6.8,50,1515,4.0,181
+460000.0,Ford,2005,191000.0,Otomatik,LPG & Benzin,Hatchback/5,Gri,1596,100,Önden Çekiş,7.5,55,2073,4.0,206
+739900.0,Renault,2018,183000.0,Yarı Otomatik,Dizel,Station wagon,Beyaz,1461,90,Önden Çekiş,3.7,45,1975,4.0,193
+799750.0,Toyota,2014,99000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1598,132,Önden Çekiş,5.7,50,1805,4.0,171
+915000.0,Volkswagen,2015,115000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1395,125,Önden Çekiş,5.0,50,1476,4.0,166
+345000.0,Volkswagen,1999,355000.0,Düz,LPG & Benzin,Sedan,Lacivert,1595,101,Önden Çekiş,7.7,55,1750,4.0,190
+300000.0,Ford,2003,330000.0,Düz,Dizel,Hatchback/5,Lacivert,1399,68,Önden Çekiş,4.3,45,1450,4.0,170
+920000.0,Audi,2013,170000.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1395,140,Önden Çekiş,4.7,50,1820,4.0,210
+770000.0,Renault,2016,122000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.7,49,1675,4.0,186
+530000.0,Ford,2010,123712.0,Düz,LPG & Benzin,Hatchback/5,Füme,1596,100,Önden Çekiş,6.7,55,1975,4.0,193
+275000.0,Renault,1998,350000.0,Düz,LPG & Benzin,Sedan,Gri,1598,90,Önden Çekiş,7.2,60,1476,4.0,170
+585000.0,Audi,2006,230000.0,Düz,Benzin,Hatchback/5,Beyaz,1595,115,Önden Çekiş,6.5,55,1730,4.0,172
+789750.0,Toyota,2015,161000.0,Düz,Dizel,MPV,Beyaz,1598,112,Önden Çekiş,4.5,55,1609,4.0,164
+960000.0,Hyundai,2018,97500.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1582,136,Önden Çekiş,4.1,50,1330,4.0,164
+268000.0,Opel,1997,270000.0,Düz,LPG & Benzin,Hatchback/5,Turuncu,1389,90,Önden Çekiş,7.4,42,1814,4.0,185
+380000.0,Hyundai,2006,147765.0,Düz,LPG & Benzin,Sedan,Beyaz,1341,86,Önden Çekiş,6.7,45,1840,4.0,203
+945000.0,Toyota,2021,39600.0,Otomatik,Benzin,Sedan,Beyaz,1490,125,Önden Çekiş,5.8,50,1980,4.0,210
+515000.0,Toyota,2007,144600.0,Düz,LPG & Benzin,Sedan,Füme,1598,110,Önden Çekiş,6.5,55,1980,4.0,210
+429999.0,Renault,2007,231000.0,Düz,LPG & Benzin,Sedan,Kahverengi,1598,110,Önden Çekiş,6.9,60,1771,4.0,180
+395000.0,Chevrolet,2009,136000.0,Düz,LPG & Benzin,Sedan,Siyah,1399,100,Önden Çekiş,6.1,45,2072,4.0,200
+494950.0,Renault,2008,165000.0,Düz,LPG & Benzin,Hatchback/5,Gri,1598,115,Önden Çekiş,7.4,68,1910,3.0,205
+670000.0,Volkswagen,2011,184400.0,Düz,Benzin,Hatchback/5,Füme,1390,122,Önden Çekiş,6.2,55,1766,4.0,175
+1530000.0,DS Automobiles,2022,36000.0,Otomatik,Dizel,Hatchback/5,Bej,1499,132,Önden Çekiş,3.8,53,1730,4.0,172
+900000.0,Volkswagen,2017,81000.0,Düz,Benzin,Sedan,Beyaz,1197,105,Önden Çekiş,5.0,55,2165,4.0,222
+425000.0,Fiat,2012,191000.0,Düz,Dizel,Sedan,Beyaz,1248,90,Önden Çekiş,4.9,45,1609,4.0,167
+643000.0,Hyundai,2014,178807.0,Otomatik,Dizel,Sedan,Beyaz,1582,128,Önden Çekiş,5.6,43,1609,4.0,167
+520000.0,Toyota,2007,163000.0,Düz,Dizel,Sedan,Gri,1364,90,Önden Çekiş,4.9,55,1730,4.0,183
+287500.0,Tofaş,1997,175000.0,Düz,LPG & Benzin,Sedan,Gri (metalik),1581,96,Arkadan İtiş,6.6,45,1510,4.0,180
+375000.0,Toyota,2001,288000.0,Düz,LPG & Benzin,Sedan,Yeşil,1598,110,Önden Çekiş,7.0,55,2005,4.0,200
+285000.0,Toyota,2000,286500.0,Düz,LPG & Benzin,Sedan,Beyaz,1332,86,Önden Çekiş,6.9,50,1476,4.0,170
+471000.0,Hyundai,2005,201800.0,Düz,LPG & Benzin,Hatchback/5,Mavi (metalik),1341,82,Önden Çekiş,6.2,45,1675,4.0,186
+275000.0,Renault,2005,330000.0,Düz,Dizel,Hatchback/5,Gri,1461,80,Önden Çekiş,4.8,55,1835,4.0,197
+1595000.0,BMW,2016,139800.0,Otomatik,Benzin,Sedan,Siyah,1592,170,Arkadan İtiş,6.7,70,1835,4.0,197
+3740000.0,BMW,2023,6001.0,Otomatik,Benzin,Bilinmiyor,Diğer,1597,170,Arkadan İtiş,6.1,59,1850,4.0,190
+1135000.0,Volkswagen,2019,53598.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,4.0,59,1693,4.0,192
+475000.0,Opel,2011,210000.0,Düz,Dizel,Hatchback/5,Beyaz,1248,90,Önden Çekiş,4.9,52,1728,4.0,175
+499000.0,Fiat,2011,155000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1368,77,Önden Çekiş,5.9,45,1548,4.0,180
+459000.0,Fiat,2011,146000.0,Düz,LPG & Benzin,Hatchback/5,Gri,1368,77,Önden Çekiş,5.9,45,1693,4.0,192
+660000.0,Ford,2013,109000.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1596,100,Önden Çekiş,6.7,55,1425,3.0,161
+1399850.0,BMW,2015,190000.0,Otomatik,Benzin,Sedan,Beyaz,1598,170,Arkadan İtiş,5.3,60,1770,4.0,190
+860000.0,Opel,2016,143000.0,Otomatik,Dizel,Sedan,Füme,1598,136,Önden Çekiş,5.0,70,1860,4.0,203
+994850.0,Skoda,2015,195000.0,Yarı Otomatik,Dizel,Sedan,Bej,1598,105,Önden Çekiş,4.6,60,1820,4.0,200
+168000.0,Tata,2006,270000.0,Düz,Dizel,Hatchback/5,Gri,1405,70,Önden Çekiş,8.0,37,1476,4.0,166
+285000.0,Opel,1997,188500.0,Düz,LPG & Benzin,Hatchback/5,Kırmızı,1389,90,Önden Çekiş,7.4,42,1476,4.0,166
+430000.0,Ford,2006,173000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1399,68,Önden Çekiş,4.3,45,1476,4.0,166
+378000.0,Peugeot,2002,131000.0,Düz,LPG & Benzin,Hatchback/5,Yeşil,1587,110,Önden Çekiş,6.4,50,1680,3.0,187
+495000.0,Volkswagen,2008,125000.0,Yarı Otomatik,LPG & Benzin,Hatchback/5,Füme,1595,102,Önden Çekiş,8.6,55,1650,4.0,172
+350000.0,Renault,2001,235000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1598,107,Önden Çekiş,7.0,60,1820,4.0,190
+729900.0,Renault,2016,122000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,4.4,60,1975,4.0,193
+540000.0,Hyundai,2010,148000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1399,97,Önden Çekiş,6.5,45,1895,4.0,200
+725000.0,Hyundai,2018,101000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1582,136,Önden Çekiş,4.6,43,1735,4.0,180
+865000.0,Volkswagen,2016,134000.0,Yarı Otomatik,Benzin,Sedan,Gri (Gümüş),1395,125,Önden Çekiş,5.0,55,1870,4.0,182
+599000.0,Opel,2012,89000.0,Düz,Benzin,Hatchback/5,Beyaz,1598,115,Önden Çekiş,6.6,56,2030,4.0,190
+670000.0,Renault,2016,58218.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.7,45,1579,4.0,162
+272500.0,Hyundai,2001,310000.0,Düz,LPG & Benzin,Sedan,Beyaz,1341,86,Önden Çekiş,6.7,45,1526,4.0,177
+860000.0,Volkswagen,2011,168000.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1390,122,Önden Çekiş,6.0,70,1450,4.0,170
+265000.0,Fiat,2000,252599.0,Düz,LPG & Benzin,Hatchback/5,Gri,1368,77,Önden Çekiş,6.1,51,1912,4.0,200
+210000.0,Hyundai,1998,312000.0,Düz,LPG & Benzin,Sedan,Gri,1341,75,Önden Çekiş,7.4,45,1550,4.0,177
+300000.0,Fiat,2005,225000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1248,70,Önden Çekiş,4.6,51,1985,4.0,225
+1020000.0,Skoda,2015,190000.0,Yarı Otomatik,Dizel,Sedan,Füme,1598,105,Önden Çekiş,4.6,60,1580,4.0,177
+685900.0,Renault,2012,194000.0,Yarı Otomatik,Dizel,Bilinmiyor,Beyaz,1461,110,Önden Çekiş,4.2,60,1642,4.0,195
+610000.0,Skoda,2011,330000.0,Düz,Dizel,Bilinmiyor,Diğer,1598,105,Önden Çekiş,5.0,60,1550,4.0,192
+465500.0,Dacia,2012,275000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1461,90,Önden Çekiş,4.0,50,1749,4.0,175
+865900.0,Toyota,2020,94000.0,Otomatik,Hibrit,Sedan,Beyaz,1798,98,Önden Çekiş,3.5,43,1748,4.0,195
+1430000.0,BMW,2013,129400.0,Otomatik,Benzin,Sedan,Beyaz,1592,170,Arkadan İtiş,6.7,70,1780,4.0,190
+350000.0,Renault,2012,346000.0,Düz,Dizel,Sedan,Siyah,1461,65,Önden Çekiş,4.5,50,1330,4.0,164
+440000.0,Hyundai,2005,155000.0,Otomatik,LPG & Benzin,Hatchback/5,Mavi,1341,82,Önden Çekiş,7.6,45,1750,4.0,193
+440000.0,Fiat,2012,190000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1750,4.0,193
+945000.0,BMW,2013,153000.0,Otomatik,Benzin,Sedan,Beyaz,1592,170,Arkadan İtiş,6.7,70,1680,3.0,187
+836000.0,Toyota,2020,89000.0,Otomatik,Hibrit,Sedan,Gri,1798,98,Önden Çekiş,3.5,43,1890,4.0,203
+430000.0,Citroen,2007,247000.0,Yarı Otomatik,Dizel,Hatchback/5,Füme,1560,111,Önden Çekiş,4.5,60,1890,4.0,203
+750000.0,Audi,2006,137500.0,Otomatik,LPG & Benzin,Hatchback/3,Gri (metalik),1595,102,Önden Çekiş,7.6,55,1550,4.0,192
+1055000.0,Honda,2019,28000.0,Yarı Otomatik,LPG & Benzin,Sedan,Füme,1597,125,Önden Çekiş,6.3,46,1660,4.0,170
+519750.0,Opel,2011,141000.0,Düz,LPG & Benzin,MPV,Beyaz,1364,140,Önden Çekiş,6.7,54,1755,4.0,172
+875000.0,Volkswagen,2014,134000.0,Düz,Benzin,Hatchback/5,Gri,1395,122,Önden Çekiş,5.2,50,2385,4.0,245
+775000.0,Renault,2017,96000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.7,45,1840,4.0,180
+2495000.0,Mercedes - Benz,2021,34247.0,Otomatik,Hibrit,Sedan,Gri (metalik),1496,204,4WD (Sürekli),6.6,50,1800,4.0,219
+947900.0,Citroen,2016,140000.0,Otomatik,Dizel,MPV,Gri,1560,122,Önden Çekiş,3.9,55,1945,4.0,176
+910000.0,Volkswagen,2013,220000.0,Yarı Otomatik,LPG & Benzin,Bilinmiyor,Diğer,1390,160,Önden Çekiş,6.1,70,1750,4.0,182
+875000.0,Opel,2016,158000.0,Otomatik,Dizel,Sedan,Beyaz,1598,136,Önden Çekiş,5.1,56,1665,4.0,187
+965000.0,Renault,2018,118000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,3.8,49,1645,4.0,184
+405000.0,Renault,2008,271000.0,Düz,Dizel,Sedan,Gri (Gümüş),1461,85,Önden Çekiş,4.6,60,1520,4.0,160
+328000.0,Fiat,2004,229000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1596,103,Önden Çekiş,8.1,63,1440,4.0,176
+470000.0,Volkswagen,2011,155000.0,Düz,Benzin,Hatchback/3,Siyah,1198,60,Önden Çekiş,5.5,45,1830,4.0,196
+750000.0,Volvo,2012,156500.0,Düz,Dizel,Sedan,Siyah,1560,115,Önden Çekiş,4.3,55,2310,4.0,185
+345000.0,Ford,2003,289000.0,Düz,Dizel,Hatchback/5,Bordo,1399,68,Önden Çekiş,4.3,45,1879,4.0,200
+725000.0,Ford,2013,77000.0,Yarı Otomatik,Benzin,MPV,Beyaz,1596,105,Önden Çekiş,6.2,48,1906,4.0,150
+345000.0,Renault,2007,217000.0,Düz,Dizel,Sedan,Füme,1461,65,Önden Çekiş,4.5,50,1395,4.0,180
+1125000.0,Hyundai,2021,38000.0,Otomatik,Benzin,Sedan,Füme,1598,123,Önden Çekiş,6.2,47,1395,4.0,180
+390000.0,Ford,1999,217000.0,Düz,LPG & Benzin,Sedan,Yeşil,1596,100,Önden Çekiş,6.9,55,1555,4.0,169
+300000.0,Volkswagen,1997,288000.0,Düz,LPG & Benzin,Hatchback/5,Kırmızı,1598,75,Önden Çekiş,6.9,45,1670,4.0,190
+636000.0,Nissan,2017,115000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1198,80,Önden Çekiş,5.4,41,1670,4.0,190
+370000.0,Peugeot,2005,306000.0,Düz,Dizel,Hatchback/5,Kırmızı,1398,71,Önden Çekiş,4.3,50,1540,4.0,175
+600000.0,Renault,2016,173000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.7,45,1241,4.0,200
+507500.0,Ford,2004,145500.0,Düz,LPG & Benzin,Sedan,Gri (metalik),1596,100,Önden Çekiş,6.8,55,2000,4.0,203
+500000.0,Kia,2010,226000.0,Düz,Dizel,Hatchback/5,Bordo,1582,90,Önden Çekiş,4.5,53,1767,3.0,198
+595000.0,Fiat,2018,60000.0,Düz,LPG & Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1767,3.0,198
+650000.0,Opel,2016,103000.0,Düz,Benzin,Sedan,Beyaz,1598,115,Önden Çekiş,6.5,56,2060,4.0,223
+682000.0,Toyota,2013,163000.0,Yarı Otomatik,Dizel,Hatchback/5,Füme,1364,90,Önden Çekiş,4.2,50,1850,4.0,194
+840000.0,Toyota,2018,42000.0,Düz,Benzin,Sedan,Beyaz,1598,132,Önden Çekiş,6.3,55,1660,4.0,170
+685000.0,Hyundai,2018,182000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1582,136,Önden Çekiş,4.6,43,1650,4.0,190
+800000.0,Volkswagen,2012,175000.0,Düz,Dizel,Hatchback/5,Beyaz,1598,105,Önden Çekiş,3.8,55,1650,4.0,190
+645000.0,Fiat,2019,75000.0,Düz,Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1450,4.0,180
+335000.0,Fiat,2007,346000.0,Düz,Dizel,Sedan,Bordo,1248,70,Önden Çekiş,4.7,48,1655,4.0,190
+950000.0,Toyota,2017,79000.0,Düz,Dizel,Sedan,Füme,1364,90,Önden Çekiş,4.1,55,1655,4.0,190
+258000.0,Opel,1997,318000.0,Düz,LPG & Benzin,Sedan,Bej,1598,100,Önden Çekiş,7.4,61,1629,4.0,171
+750000.0,Hyundai,2016,75000.0,Otomatik,LPG & Benzin,Hatchback/5,Beyaz,1368,100,Önden Çekiş,6.4,50,2300,4.0,226
+653000.0,Fiat,2018,160000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1970,4.0,230
+645000.0,Fiat,2015,115000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,2073,4.0,206
+490000.0,Fiat,2017,221000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1805,4.0,172
+789000.0,Volkswagen,2016,86000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1197,90,Önden Çekiş,4.7,45,1600,4.0,165
+860000.0,Fiat,2022,42000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1600,4.0,165
+790000.0,Seat,2016,110000.0,Yarı Otomatik,Benzin,Hatchback/5,Kırmızı,1197,110,Önden Çekiş,4.9,50,1940,4.0,230
+615000.0,Opel,2013,169500.0,Düz,LPG & Benzin,Hatchback/5,Gri,1598,115,Önden Çekiş,6.5,52,2155,4.0,200
+355550.0,Renault,2004,290000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1390,75,Önden Çekiş,7.1,50,2082,4.0,193
+530000.0,Ford,2010,206000.0,Düz,Dizel,Hatchback/5,Gri,1560,110,Önden Çekiş,4.5,55,1500,4.0,186
+820000.0,Kia,2020,30000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1368,100,Önden Çekiş,6.2,45,1395,4.0,180
+680000.0,Volkswagen,2012,128000.0,Düz,Benzin,Sedan,Beyaz,1197,105,Önden Çekiş,5.7,55,1535,4.0,164
+440000.0,Hyundai,2005,200000.0,Otomatik,LPG & Benzin,Hatchback/5,Gri (Gümüş),1341,82,Önden Çekiş,7.6,45,1588,4.0,198
+465000.0,Opel,2006,252000.0,Düz,LPG & Benzin,Sedan,Diğer,1598,105,Önden Çekiş,6.9,61,1950,4.0,177
+633000.0,Opel,2015,143000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1398,90,Önden Çekiş,6.0,45,1950,4.0,177
+850000.0,Ford,2016,92000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1596,125,Önden Çekiş,5.9,55,1630,4.0,195
+455000.0,Toyota,2011,252000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1364,90,Önden Çekiş,4.7,55,1580,4.0,177
+330000.0,Citroen,2006,263000.0,Düz,Dizel,Hatchback/5,Füme,1560,111,Önden Çekiş,4.8,60,1695,4.0,190
+265000.0,Opel,1998,344000.0,Düz,LPG & Benzin,Hatchback/5,Lacivert,1598,100,Önden Çekiş,7.4,52,1695,4.0,190
+295000.0,Volkswagen,2000,234000.0,Düz,LPG & Benzin,Hatchback/5,Mavi,1390,100,Önden Çekiş,6.7,45,1870,4.0,206
+310000.0,Fiat,2004,255000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1596,103,Önden Çekiş,8.1,63,1450,4.0,170
+710000.0,Opel,2016,48000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1398,90,Önden Çekiş,6.0,45,1708,4.0,176
+345000.0,Ford,2008,340000.0,Düz,Dizel,Hatchback/3,Beyaz,1560,110,Önden Çekiş,4.8,55,1555,4.0,169
+815000.0,Renault,2020,37900.0,Yarı Otomatik,Benzin,Hatchback/5,Mavi (metalik),1332,130,Önden Çekiş,5.2,42,1985,6.0,226
+465000.0,Citroen,2016,183000.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.3,48,1255,4.0,169
+345000.0,Renault,2005,220000.0,Düz,LPG & Benzin,Sedan,Gri,1390,75,Önden Çekiş,7.1,50,1870,4.0,203
+315000.0,Ford,2004,336000.0,Düz,Dizel,MPV,Mavi,1560,110,Önden Çekiş,4.9,55,2080,4.0,189
+440000.0,Hyundai,2004,230000.0,Düz,LPG & Benzin,Sedan,Yeşil (metalik),1599,105,Önden Çekiş,7.0,55,1600,4.0,167
+315000.0,Fiat,2003,204000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1242,74,Önden Çekiş,7.2,51,1535,4.0,160
+879900.0,Opel,2018,95000.0,Otomatik,Benzin,Hatchback/5,Bordo,1399,150,Önden Çekiş,5.5,52,1660,4.0,170
+450000.0,Volkswagen,2002,243500.0,Otomatik,LPG & Benzin,Sedan,Gri (Gümüş),1595,102,Önden Çekiş,8.1,55,2300,4.0,226
+670000.0,Ford,2012,181000.0,Düz,Dizel,Hatchback/3,Gri (Gümüş),1560,110,Önden Çekiş,4.8,55,1800,4.0,192
+790000.0,Opel,2014,81000.0,Otomatik,Benzin,Hatchback/5,Mavi,1364,140,Önden Çekiş,6.8,56,1820,4.0,183
+359900.0,Ford,2007,215000.0,Düz,Dizel,Hatchback/5,Kırmızı,1399,68,Önden Çekiş,4.3,45,1810,4.0,188
+740000.0,Fiat,2022,18000.0,Düz,Benzin,Sedan,Gri,1368,95,Önden Çekiş,6.4,45,2075,4.0,237
+285000.0,Opel,1994,230000.0,Düz,LPG & Benzin,Hatchback/3,Beyaz,1388,60,Önden Çekiş,7.7,52,1940,4.0,196
+460000.0,Hyundai,2006,142000.0,Otomatik,LPG & Benzin,Sedan,Gri (Gümüş),1399,97,Önden Çekiş,7.6,45,2325,4.0,246
+460000.0,Opel,2008,211000.0,Düz,Dizel,Hatchback/5,Siyah,1248,90,Önden Çekiş,4.8,52,1703,4.0,203
+455000.0,Renault,2011,214000.0,Düz,Dizel,Bilinmiyor,Diğer,1461,65,Önden Çekiş,4.5,50,1708,4.0,176
+1000000.0,Volkswagen,2013,193000.0,Yarı Otomatik,Dizel,Sedan,Gri (Gümüş),1598,105,Önden Çekiş,4.7,70,1708,4.0,176
+610000.0,Ford,2012,147000.0,Düz,Dizel,Hatchback/5,Beyaz,1398,70,Önden Çekiş,4.2,45,2320,4.0,241
+635000.0,Fiat,2017,249500.0,Düz,Dizel,Station wagon,Beyaz,1598,120,Önden Çekiş,3.7,50,2205,4.0,188
+378000.0,Renault,2012,300000.0,Düz,Dizel,Sedan,Gri (Gümüş),1461,85,Önden Çekiş,4.5,60,2065,4.0,222
+355000.0,Volkswagen,1999,367000.0,Düz,LPG & Benzin,Sedan,Mavi,1781,150,Önden Çekiş,7.9,62,2072,4.0,200
+510000.0,Opel,2010,147700.0,Yarı Otomatik,Benzin,Hatchback/5,Mavi (metalik),1229,80,Önden Çekiş,5.7,45,1945,4.0,190
+1094000.0,Peugeot,2021,42634.0,Otomatik,Benzin,Hatchback/5,Sarı,1199,132,Önden Çekiş,4.5,44,1725,4.0,171
+425000.0,Renault,2005,198000.0,Düz,LPG & Benzin,Sedan,Gri (metalik),1390,75,Önden Çekiş,7.1,50,1730,4.0,187
+650000.0,Opel,2014,205000.0,Düz,Dizel,Sedan,Beyaz,1598,110,Önden Çekiş,4.0,56,1550,3.0,157
+555000.0,Renault,2010,171000.0,Otomatik,LPG & Benzin,Sedan,Siyah,1598,105,Önden Çekiş,7.7,60,1595,4.0,195
+500000.0,Toyota,2007,164000.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1598,124,Önden Çekiş,7.1,55,1475,4.0,145
+650000.0,Nissan,2013,70300.0,Otomatik,Benzin,Hatchback/5,Mavi,1198,80,Önden Çekiş,5.4,41,1450,4.0,170
+765000.0,Honda,2012,221000.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1595,125,Önden Çekiş,6.7,50,1880,4.0,195
+945000.0,Opel,2016,103000.0,Otomatik,Dizel,Sedan,Beyaz,1598,136,Önden Çekiş,5.0,70,1535,4.0,164
+650000.0,Citroen,2014,96000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1199,83,Önden Çekiş,4.3,50,1780,4.0,180
+799500.0,Toyota,2016,38000.0,Otomatik,Benzin,Hatchback/5,Füme,1329,98,Önden Çekiş,5.1,42,1535,4.0,160
+995000.0,Honda,2017,100000.0,Yarı Otomatik,LPG & Benzin,Sedan,Beyaz,1597,125,Önden Çekiş,6.7,47,1480,4.0,180
+495000.0,Fiat,2015,180500.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1325,4.0,172
+845000.0,Opel,2017,33000.0,Düz,Benzin,Hatchback/5,Siyah,1399,100,Önden Çekiş,5.5,48,1425,3.0,161
+280000.0,Hyundai,2004,271000.0,Düz,Dizel,Sedan,Füme,1493,82,Önden Çekiş,5.5,45,1565,4.0,168
+538500.0,BMW,2011,210000.0,Otomatik,LPG & Benzin,Hatchback/5,Beyaz,1598,136,Arkadan İtiş,5.6,52,1720,4.0,215
+800000.0,Hyundai,2017,55000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1368,100,Önden Çekiş,6.7,50,1708,4.0,176
+675000.0,Volkswagen,2013,202000.0,Düz,Dizel,Hatchback/5,Beyaz,1598,90,Önden Çekiş,3.8,50,1590,4.0,185
+335500.0,Opel,2001,298300.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1388,90,Önden Çekiş,8.1,52,1860,4.0,172
+450000.0,Renault,2010,262000.0,Düz,Dizel,Sedan,Beyaz,1461,85,Önden Çekiş,4.3,50,1730,4.0,180
+952000.0,Honda,2017,34000.0,Düz,LPG & Benzin,Sedan,Beyaz,1597,125,Önden Çekiş,7.0,47,1770,4.0,200
+189500.0,Volkswagen,1998,295400.0,Düz,Benzin,Sedan,Kırmızı,1598,75,Önden Çekiş,7.1,45,1750,4.0,190
+1025000.0,Hyundai,2021,27000.0,Otomatik,Benzin,Sedan,Kırmızı,1598,123,Önden Çekiş,6.2,47,1535,3.0,168
+835000.0,Renault,2018,95000.0,Düz,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,3.9,49,1634,4.0,170
+479000.0,Skoda,2011,144000.0,Düz,Benzin,Hatchback/5,Beyaz,1198,70,Önden Çekiş,5.5,45,1200,3.0,160
+760000.0,Opel,2017,49000.0,Düz,LPG & Benzin,Sedan,Beyaz,1598,115,Önden Çekiş,6.5,56,1675,4.0,185
+410000.0,Volkswagen,2003,320000.0,Düz,LPG & Benzin,Sedan,Beyaz,1595,105,Önden Çekiş,6.9,55,1485,4.0,160
+430000.0,Fiat,2006,88000.0,Düz,Benzin,Sedan,Gri,1242,80,Önden Çekiş,7.0,47,1780,4.0,180
+590000.0,Ford,2013,154000.0,Düz,Dizel,Hatchback/5,Füme,1498,75,Önden Çekiş,3.7,42,1780,4.0,180
+450000.0,Hyundai,2010,290000.0,Otomatik,Dizel,Sedan,Beyaz,1493,110,Önden Çekiş,5.9,45,1780,4.0,180
+845000.0,Renault,2018,87000.0,Düz,LPG & Benzin,Sedan,Beyaz,1598,115,Önden Çekiş,6.3,49,1710,4.0,188
+980000.0,Audi,2014,223000.0,Yarı Otomatik,Dizel,Hatchback/5,Kırmızı,1598,110,Önden Çekiş,3.8,50,1634,4.0,170
+415000.0,Seat,2006,267000.0,Düz,Benzin,Hatchback/5,Siyah,1595,102,Önden Çekiş,7.7,55,1975,4.0,180
+280000.0,Fiat,2004,317000.0,Düz,Dizel,Hatchback/5,Yeşil,1248,70,Önden Çekiş,4.6,51,1727,4.0,184
+1100000.0,Volvo,2014,279000.0,Yarı Otomatik,Dizel,Sedan,Lacivert,1560,115,Önden Çekiş,4.1,67,1730,4.0,183
+820000.0,Seat,2016,104000.0,Düz,Benzin,Hatchback/5,Beyaz,1197,110,Önden Çekiş,4.9,50,1730,4.0,183
+400000.0,Renault,2011,226000.0,Düz,Dizel,Hatchback/5,Bej,1461,85,Önden Çekiş,4.4,60,1730,4.0,191
+470000.0,Ford,2008,148450.0,Düz,Benzin,Hatchback/5,Siyah,1388,80,Önden Çekiş,6.2,45,1740,4.0,191
+430000.0,Hyundai,2004,190300.0,Düz,LPG & Benzin,Sedan,Gri,1599,112,Önden Çekiş,8.0,45,1460,4.0,170
+630000.0,Opel,2011,208000.0,Otomatik,LPG & Benzin,Hatchback/5,Siyah,1364,140,Önden Çekiş,7.0,56,1800,4.0,190
+460000.0,Toyota,2006,260000.0,Düz,Dizel,Hatchback/3,Gri (Gümüş),1364,75,Önden Çekiş,4.2,45,1530,4.0,161
+500000.0,Hyundai,2013,223555.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1248,85,Önden Çekiş,4.9,45,1870,4.0,194
+760000.0,Renault,2017,125000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.7,49,1625,4.0,170
+485000.0,Fiat,2011,215000.0,Düz,Dizel,Sedan,Beyaz,1248,90,Önden Çekiş,4.9,45,1900,4.0,192
+615000.0,Volkswagen,2011,132000.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1390,85,Önden Çekiş,5.9,45,1900,4.0,192
+478500.0,Fiat,2016,110000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1745,4.0,175
+1025000.0,Renault,2020,36000.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1332,140,Önden Çekiş,5.7,50,1745,4.0,175
+299000.0,Hyundai,2000,205000.0,Düz,LPG & Benzin,Sedan,Gri,1341,86,Önden Çekiş,6.1,45,1800,4.0,192
+390000.0,Hyundai,2006,226000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1341,86,Önden Çekiş,6.7,45,1610,4.0,188
+569000.0,Kia,2010,122000.0,Düz,Dizel,Sedan,Gri (Gümüş),1493,110,Önden Çekiş,4.7,45,1500,4.0,188
+425000.0,Volkswagen,2008,210000.0,Düz,Benzin,Hatchback/5,Beyaz,1390,80,Önden Çekiş,6.3,45,1625,4.0,170
+785000.0,Renault,2015,118000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,4.4,60,1790,4.0,188
+460000.0,Ford,2005,144000.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1388,80,Önden Çekiş,6.4,45,1790,4.0,188
+419000.0,Fiat,2010,144000.0,Düz,LPG & Benzin,Sedan,Bordo,1368,77,Önden Çekiş,6.3,45,1555,4.0,180
+560000.0,Ford,2013,198000.0,Düz,Dizel,Hatchback/5,Kırmızı,1498,75,Önden Çekiş,3.7,42,1651,4.0,168
+160000.0,Fiat,2006,190000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1596,103,Önden Çekiş,8.3,47,2257,4.0,210
+440000.0,Renault,2010,320900.0,Düz,Dizel,Sedan,Gri,1461,105,Önden Çekiş,4.9,60,1563,4.0,164
+549000.0,Volkswagen,2005,153000.0,Düz,Benzin,Hatchback/3,Mavi,1598,115,Önden Çekiş,6.6,55,1460,4.0,170
+588000.0,Hyundai,2012,283000.0,Düz,Dizel,Hatchback/5,Siyah,1582,128,Önden Çekiş,4.0,53,1638,4.0,167
+735000.0,Peugeot,2014,103000.0,Düz,Benzin,Hatchback/5,Kırmızı,1199,83,Önden Çekiş,5.0,53,1920,4.0,185
+545000.0,Citroen,2013,97500.0,Düz,LPG & Benzin,Sedan,Beyaz,1199,73,Önden Çekiş,5.3,50,1770,4.0,192
+615000.0,Volkswagen,2008,176000.0,Düz,Benzin,Sedan,Gri,1390,122,Önden Çekiş,6.4,55,1563,4.0,164
+380000.0,Citroen,2014,200000.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.3,48,1470,4.0,161
+849500.0,Skoda,2016,174000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,110,Önden Çekiş,3.7,50,1780,4.0,190
+365000.0,Peugeot,2003,194000.0,Düz,Dizel,Hatchback/5,Beyaz,1398,69,Önden Çekiş,4.5,60,1535,4.0,164
+375000.0,Volkswagen,2002,187000.0,Düz,LPG & Benzin,Hatchback/5,Mavi,1390,75,Önden Çekiş,6.2,45,1730,4.0,192
+495000.0,Chevrolet,2012,203000.0,Düz,LPG & Benzin,Sedan,Beyaz,1398,100,Önden Çekiş,5.9,46,1675,4.0,186
+565000.0,Hyundai,2012,140000.0,Otomatik,Dizel,Sedan,Beyaz,1582,128,Önden Çekiş,5.6,43,1455,4.0,160
+208000.0,Hyundai,1997,305000.0,Düz,LPG & Benzin,Sedan,Yeşil,1341,75,Önden Çekiş,7.4,45,1945,4.0,190
+630000.0,Toyota,2014,182000.0,Düz,Benzin,Hatchback/5,Gri (metalik),1329,99,Önden Çekiş,5.5,50,1805,3.0,220
+410000.0,Peugeot,2004,253000.0,Düz,LPG & Benzin,Hatchback/5,Mavi,1587,110,Önden Çekiş,7.2,60,1705,4.0,174
+465000.0,Ford,2008,232000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1399,68,Önden Çekiş,4.3,45,1705,4.0,174
+712000.0,Hyundai,2021,77812.0,Otomatik,Benzin,Hatchback/5,Beyaz,1368,100,Önden Çekiş,6.2,50,1535,4.0,160
+1395000.0,BMW,2014,123000.0,Otomatik,Benzin,Sedan,Beyaz,1598,136,Arkadan İtiş,5.8,60,2119,4.0,193
+668000.0,Opel,2017,245000.0,Otomatik,Dizel,Station wagon,Beyaz,1598,136,Önden Çekiş,4.6,48,2119,4.0,193
+434000.0,Hyundai,2009,216500.0,Düz,Dizel,Sedan,Gri (Gümüş),1493,110,Önden Çekiş,4.6,45,1579,4.0,162
+1145000.0,Renault,2016,128600.0,Yarı Otomatik,Dizel,Sedan,Kırmızı,1461,110,Önden Çekiş,3.8,49,1771,4.0,175
+1280000.0,Volkswagen,2020,112000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1598,120,Önden Çekiş,4.0,66,1830,4.0,223
+765000.0,Honda,2011,102000.0,Otomatik,Benzin,Sedan,Beyaz,1595,125,Önden Çekiş,7.1,50,1565,4.0,168
+599000.0,Fiat,2017,165000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,2025,4.0,184
+480000.0,Renault,2014,180000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,1674,4.0,168
+480000.0,Renault,2014,180000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,1815,4.0,180
+295000.0,Peugeot,2002,290500.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1360,76,Önden Çekiş,6.6,50,1425,3.0,161
+830000.0,Seat,2016,104000.0,Düz,Benzin,Hatchback/5,Beyaz,1197,110,Önden Çekiş,4.9,50,1693,4.0,192
+178500.0,Lada,2001,216000.0,Düz,LPG & Benzin,Hatchback/5,Mavi,1500,78,Önden Çekiş,7.3,43,2155,4.0,200
+1250000.0,BMW,2014,150000.0,Otomatik,Benzin,Sedan,Beyaz,1598,136,Arkadan İtiş,5.8,60,1511,3.0,174
+570000.0,Renault,2008,177000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1461,110,Önden Çekiş,4.9,66,1560,4.0,175
+845000.0,Ford,2014,80000.0,Düz,Dizel,Sedan,Beyaz,1560,95,Önden Çekiş,4.5,53,1825,4.0,174
+545000.0,Fiat,2013,150000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1660,4.0,170
+495000.0,Hyundai,2011,120000.0,Düz,Dizel,Sedan,Gri (Gümüş),1493,110,Önden Çekiş,4.6,45,1760,4.0,185
+297500.0,Fiat,2004,235000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1596,103,Önden Çekiş,8.1,63,1555,4.0,175
+375000.0,Volkswagen,1999,390000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1781,150,Önden Çekiş,7.9,62,1840,4.0,210
+440000.0,Renault,2004,170000.0,Düz,LPG & Benzin,MPV,Gri,1598,115,Önden Çekiş,7.2,60,1650,4.0,162
+620000.0,Opel,2012,143000.0,Otomatik,LPG & Benzin,Hatchback/5,Mavi (metalik),1364,100,Önden Çekiş,5.9,45,1660,4.0,168
+449000.0,Fiat,2010,177900.0,Düz,Dizel,Sedan,Gri (Gümüş),1248,90,Önden Çekiş,4.9,45,1660,4.0,168
+515000.0,Honda,2010,183500.0,Yarı Otomatik,LPG & Benzin,Hatchback/5,Siyah,1339,100,Önden Çekiş,5.4,42,1730,4.0,172
+1215000.0,Volkswagen,2016,190000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1598,120,Önden Çekiş,4.0,66,1730,4.0,172
+445000.0,Ford,2012,242000.0,Düz,Dizel,Hatchback/5,Gri (metalik),1398,70,Önden Çekiş,4.2,45,1535,4.0,177
+520000.0,Toyota,2004,238000.0,Düz,LPG & Benzin,Sedan,Bordo,1598,110,Önden Çekiş,6.5,55,1720,4.0,215
+810000.0,Toyota,2013,72000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1364,90,Önden Çekiş,4.2,50,1485,4.0,170
+550000.0,Opel,2013,100500.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1248,75,Önden Çekiş,4.2,45,1800,4.0,192
+345000.0,Peugeot,2011,140500.0,Düz,Benzin,Hatchback/5,Gri (Gümüş),1360,76,Önden Çekiş,6.3,50,1945,4.0,190
+527500.0,Toyota,2007,246000.0,Yarı Otomatik,Dizel,Sedan,Gri (Gümüş),1364,90,Önden Çekiş,4.9,55,1520,3.0,163
+590000.0,Ford,2011,138000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1596,100,Önden Çekiş,6.7,55,1730,4.0,192
+710000.0,Renault,2016,150000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.6,45,1730,4.0,192
+1885000.0,Volkswagen,2021,6450.0,Yarı Otomatik,Benzin,Sedan,Siyah,1498,150,Önden Çekiş,5.3,66,1575,4.0,167
+410000.0,Fiat,2011,192000.0,Düz,Dizel,Sedan,Beyaz,1248,90,Önden Çekiş,4.9,45,1872,4.0,190
+420000.0,Fiat,2012,220000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1845,4.0,200
+420000.0,Renault,2010,250000.0,Düz,Dizel,Sedan,Gri (Gümüş),1461,65,Önden Çekiş,4.5,50,1745,4.0,193
+400000.0,Volkswagen,2006,300000.0,Düz,Benzin,Hatchback/5,Mavi (metalik),1598,115,Önden Çekiş,7.1,55,1944,4.0,181
+627500.0,Honda,2008,106000.0,Otomatik,Benzin,Sedan,Bej,1339,83,Önden Çekiş,5.7,42,1944,4.0,181
+520000.0,Ford,2008,230000.0,Düz,Dizel,Hatchback/5,Gri (titanyum),1560,110,Önden Çekiş,4.8,55,1330,4.0,164
+865500.0,Ford,2016,129000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1499,120,Önden Çekiş,4.2,55,2030,4.0,190
+720000.0,Fiat,2022,27000.0,Düz,Benzin,Sedan,Gri (Gümüş),1368,95,Önden Çekiş,6.4,45,1761,4.0,175
+709700.0,Toyota,2016,56000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1329,99,Önden Çekiş,5.1,42,1515,4.0,167
+444000.0,Fiat,2007,188000.0,Yarı Otomatik,LPG & Benzin,Hatchback/5,Siyah,1368,77,Önden Çekiş,6.1,45,1966,4.0,204
+350000.0,Opel,1998,189000.0,Düz,LPG & Benzin,Hatchback/5,Mavi (metalik),1389,90,Önden Çekiş,7.4,42,1420,4.0,162
+304500.0,Peugeot,2001,230000.0,Düz,Benzin,Hatchback/3,Mavi,1587,110,Önden Çekiş,6.8,50,1870,4.0,200
+940000.0,Seat,2016,130000.0,Düz,Benzin,Hatchback/5,Gri,1395,125,Önden Çekiş,5.2,50,1475,4.0,168
+439750.0,Fiat,2015,147000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1945,4.0,176
+302000.0,Fiat,2000,175000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1368,77,Önden Çekiş,6.1,51,1550,4.0,177
+355000.0,Renault,2011,320000.0,Düz,Dizel,Sedan,Gri (Gümüş),1461,65,Önden Çekiş,4.5,50,1660,4.0,170
+615000.0,Ford,2013,207000.0,Düz,Dizel,Sedan,Beyaz,1560,95,Önden Çekiş,4.2,53,1932,4.0,205
+1530000.0,Mercedes - Benz,2015,79000.0,Otomatik,Benzin,Bilinmiyor,Diğer,1595,156,Önden Çekiş,5.1,50,1480,4.0,169
+1050000.0,Opel,2018,50500.0,Otomatik,Benzin,Hatchback/5,Beyaz,1399,150,Önden Çekiş,5.5,52,1555,4.0,169
+515000.0,Renault,2010,217000.0,Düz,Dizel,Sedan,Siyah,1461,105,Önden Çekiş,4.5,60,1630,4.0,176
+590000.0,Toyota,2012,106000.0,Düz,Benzin,Hatchback/5,Beyaz,1329,99,Önden Çekiş,6.0,55,1630,4.0,176
+630000.0,Opel,2011,137000.0,Düz,Benzin,Hatchback/5,Beyaz,1364,140,Önden Çekiş,5.9,56,1705,4.0,174
+364000.0,Ford,2004,258000.0,Düz,Benzin,Hatchback/5,Beyaz,1388,80,Önden Çekiş,6.4,45,1578,4.0,175
+742500.0,Renault,2018,135000.0,Yarı Otomatik,Dizel,Sedan,Gri,1461,110,Önden Çekiş,3.8,49,1814,4.0,185
+385000.0,Peugeot,2008,104000.0,Düz,Benzin,Sedan,Kırmızı,1360,76,Önden Çekiş,6.5,50,1515,4.0,167
+825000.0,Volkswagen,2013,152000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1197,105,Önden Çekiş,4.8,50,1730,4.0,192
+370000.0,Renault,2001,295000.0,Düz,LPG & Benzin,Bilinmiyor,Diğer,1598,107,Önden Çekiş,6.9,60,1585,4.0,165
+472500.0,Fiat,2009,126000.0,Düz,LPG & Benzin,Hatchback/5,Kırmızı,1368,77,Önden Çekiş,5.9,45,1575,4.0,167
+665000.0,Ford,2013,176500.0,Yarı Otomatik,LPG & Benzin,Sedan,Gri,1596,125,Önden Çekiş,6.0,55,1440,4.0,162
+638750.0,Opel,2016,92000.0,Otomatik,LPG & Benzin,Hatchback/5,Gri,1364,100,Önden Çekiş,5.7,45,1900,4.0,192
+499000.0,Renault,2017,216000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,1460,4.0,180
+325000.0,Renault,2008,275000.0,Düz,Dizel,Sedan,Gri (metalik),1461,65,Önden Çekiş,4.5,50,1770,4.0,192
+720000.0,Renault,2012,209000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,4.4,60,1920,4.0,197
+415000.0,Dacia,2011,235000.0,Düz,Dizel,Hatchback/5,Siyah,1461,70,Önden Çekiş,4.5,50,1670,3.0,172
+610000.0,Renault,2016,215000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,1830,4.0,193
+690000.0,Ford,2016,208000.0,Düz,Dizel,Sedan,Beyaz,1560,95,Önden Çekiş,4.5,53,1485,3.0,160
+525000.0,Ford,2008,174.0,Düz,Dizel,Hatchback/5,Gri,1560,90,Önden Çekiş,4.5,45,1579,4.0,162
+969500.0,Hyundai,2020,12010.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1368,100,Önden Çekiş,6.1,40,2280,4.0,239
+935000.0,Honda,2021,35000.0,Yarı Otomatik,LPG & Benzin,Sedan,Füme,1597,125,Önden Çekiş,6.7,47,1895,4.0,199
+710000.0,Honda,2012,114000.0,Otomatik,LPG & Benzin,Hatchback/5,Beyaz,1339,100,Önden Çekiş,5.4,42,1555,4.0,180
+1000000.0,Seat,2016,144600.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1395,150,Önden Çekiş,4.9,50,1870,4.0,195
+545000.0,Fiat,2017,117000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,2035,6.0,226
+320000.0,Peugeot,2006,241000.0,Düz,Dizel,Sedan,Siyah,1560,112,Önden Çekiş,5.3,66,1696,4.0,160
+659000.0,Renault,2015,134500.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,4.4,60,1490,4.0,172
+330000.0,Fiat,2010,235000.0,Düz,Dizel,Sedan,Gri (Gümüş),1248,70,Önden Çekiş,4.7,48,1573,4.0,177
+185000.0,Hyundai,1997,275000.0,Düz,LPG & Benzin,Hatchback/5,Mavi,1341,75,Önden Çekiş,6.5,45,1650,4.0,190
+560000.0,Ford,2011,168000.0,Düz,Dizel,Hatchback/5,Gri (titanyum),1398,70,Önden Çekiş,4.2,45,1675,4.0,185
+530000.0,Opel,2014,157000.0,Düz,Dizel,Hatchback/5,Beyaz,1248,75,Önden Çekiş,4.2,45,1675,4.0,185
+545000.0,Peugeot,2011,252000.0,Düz,Dizel,Hatchback/5,Siyah,1560,91,Önden Çekiş,6.0,60,1650,4.0,175
+352500.0,Renault,2008,249000.0,Düz,Dizel,Sedan,Gri,1461,85,Önden Çekiş,4.3,50,1670,4.0,195
+410000.0,Fiat,2014,223000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1693,4.0,190
+655000.0,Volkswagen,2014,275000.0,Düz,Dizel,Hatchback/5,Beyaz,1598,90,Önden Çekiş,3.8,50,1535,4.0,164
+875000.0,Opel,2017,124000.0,Otomatik,Dizel,Sedan,Beyaz,1598,136,Önden Çekiş,5.1,56,1584,4.0,170
+495000.0,Toyota,2006,180000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1598,110,Önden Çekiş,7.0,55,1650,4.0,176
+595000.0,Opel,2012,177000.0,Düz,Dizel,Hatchback/5,Siyah,1248,90,Önden Çekiş,4.9,52,1945,4.0,190
+430000.0,Renault,2007,199750.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1390,98,Önden Çekiş,6.7,60,2073,4.0,206
+325000.0,Chevrolet,2007,214000.0,Düz,LPG & Benzin,Sedan,Beyaz,1399,94,Önden Çekiş,6.7,45,1565,4.0,163
+510000.0,Suzuki,2008,207000.0,Düz,Benzin,Hatchback/5,Turuncu,1328,93,4WD (Sürekli),6.5,40,1730,4.0,183
+689000.0,Opel,2012,63500.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1598,115,Önden Çekiş,6.5,52,1609,4.0,167
+525000.0,Renault,2016,186000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,1609,4.0,167
+730000.0,Citroen,2016,76000.0,Düz,Dizel,Hatchback/5,Beyaz,1560,93,Önden Çekiş,4.1,60,1470,4.0,170
+1025000.0,Seat,2015,126000.0,Düz,Benzin,Hatchback/5,Beyaz,1395,150,Önden Çekiş,4.9,50,1700,4.0,191
+800000.0,Volkswagen,2014,87000.0,Düz,Benzin,Hatchback/5,Beyaz,1197,105,Önden Çekiş,4.9,50,1375,4.0,160
+650000.0,Citroen,2014,97300.0,Düz,Benzin,Hatchback/5,Gri (Gümüş),1598,122,Önden Çekiş,6.2,60,1936,4.0,192
+315000.0,Fiat,2004,144000.0,Düz,Benzin,Hatchback/3,Mavi,1242,81,Önden Çekiş,7.2,51,1982,4.0,182
+475000.0,Chevrolet,2011,131000.0,Düz,Benzin,Hatchback/5,Beyaz,1399,100,Önden Çekiş,5.9,45,1660,4.0,170
+615000.0,Fiat,2018,120000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1650,4.0,176
+395000.0,Volkswagen,2004,220000.0,Düz,LPG & Benzin,Hatchback/5,Kırmızı,1390,75,Önden Çekiş,6.4,45,1730,4.0,187
+750000.0,Volkswagen,2013,267000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri,1598,105,Önden Çekiş,3.9,50,1830,4.0,223
+860000.0,Hyundai,2014,89000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1582,128,Önden Çekiş,5.5,53,1915,4.0,185
+890000.0,Toyota,2016,58000.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1598,132,Önden Çekiş,6.1,55,1915,4.0,185
+743000.0,Hyundai,2015,88000.0,Düz,Benzin,Hatchback/5,Beyaz,1248,84,Önden Çekiş,5.1,50,1565,4.0,172
+900000.0,Skoda,2016,111000.0,Yarı Otomatik,Benzin,Hatchback/5,Gri,1197,110,Önden Çekiş,4.9,50,1660,4.0,170
+680000.0,Opel,2015,98500.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1364,140,Önden Çekiş,5.9,56,1555,4.0,182
+880000.0,Honda,2013,125000.0,Otomatik,LPG & Benzin,Sedan,Gri (Gümüş),1595,125,Önden Çekiş,6.7,50,1579,4.0,162
+497000.0,Renault,2011,240000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,105,Önden Çekiş,4.5,60,2120,4.0,199
+910000.0,Renault,2019,37000.0,Düz,Benzin,Sedan,Beyaz,1598,115,Önden Çekiş,6.3,49,1670,4.0,190
+950000.0,Toyota,2016,85000.0,Otomatik,Benzin,Sedan,Beyaz,1598,132,Önden Çekiş,6.1,55,1745,4.0,180
+415000.0,Renault,2010,187000.0,Düz,Dizel,Hatchback/3,Beyaz,1461,85,Önden Çekiş,4.4,55,1475,4.0,168
+245000.0,Tata,2007,145000.0,Düz,Dizel,Sedan,Gri (Gümüş),1405,70,Önden Çekiş,9.1,42,1565,4.0,163
+805000.0,Toyota,2013,112000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1364,90,Önden Çekiş,4.1,55,1421,4.0,170
+475000.0,Chevrolet,2012,182000.0,Düz,Dizel,Sedan,Gri (metalik),1248,95,Önden Çekiş,4.1,46,1758,4.0,175
+400000.0,Fiat,2004,159000.0,Düz,Benzin,Sedan,Lacivert,1242,80,Önden Çekiş,7.0,47,1660,4.0,170
+530000.0,Volkswagen,2004,194000.0,Düz,Benzin,Hatchback/3,Mavi,1598,115,Önden Çekiş,6.6,55,1750,4.0,182
+825000.0,Skoda,2014,152000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,90,Önden Çekiş,4.5,55,1658,4.0,180
+400000.0,Volkswagen,2004,225000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1422,75,Önden Çekiş,4.5,45,1630,4.0,182
+420000.0,Ford,2012,251000.0,Düz,Dizel,Hatchback/5,Beyaz,1398,70,Önden Çekiş,4.2,45,1990,4.0,213
+685000.0,Nissan,2016,82000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1198,80,Önden Çekiş,5.4,41,1660,4.0,170
+703000.0,Opel,2017,90000.0,Düz,Benzin,Sedan,Beyaz,1598,115,Önden Çekiş,6.5,56,1535,4.0,160
+410000.0,Volkswagen,2000,250000.0,Otomatik,LPG & Benzin,Sedan,Mavi (metalik),1781,125,Önden Çekiş,9.0,62,1930,4.0,189
+490000.0,Renault,2011,157000.0,Düz,Dizel,Sedan,Gri,1461,85,Önden Çekiş,4.5,60,1795,4.0,190
+405000.0,Renault,2011,260000.0,Düz,Dizel,Sedan,Gri (Gümüş),1461,65,Önden Çekiş,4.5,50,1975,4.0,193
+630000.0,Seat,2010,220000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1390,125,Önden Çekiş,6.2,55,1964,3.0,172
+657750.0,Fiat,2020,140000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1675,4.0,186
+730000.0,Renault,2017,73000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.6,45,1560,4.0,175
+1035000.0,Skoda,2016,93654.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,105,Önden Çekiş,3.9,50,1710,4.0,188
+625000.0,Dacia,2013,97668.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1461,90,Önden Çekiş,4.0,50,1710,4.0,188
+300000.0,Chevrolet,2008,350000.0,Düz,LPG & Benzin,Sedan,Gri,1399,94,Önden Çekiş,6.4,45,1600,4.0,165
+290000.0,Fiat,2000,190000.0,Düz,LPG & Benzin,Sedan,Beyaz,1596,103,Önden Çekiş,8.1,63,1395,4.0,180
+521999.0,Renault,2012,190000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,4.5,60,1553,4.0,196
+639000.0,Toyota,2014,268000.0,Düz,Dizel,Sedan,Beyaz,1364,90,Önden Çekiş,4.1,55,1553,4.0,196
+435000.0,Kia,2011,395000.0,Düz,Dizel,Hatchback/5,Siyah,1582,90,Önden Çekiş,3.9,53,1660,4.0,170
+425000.0,Citroen,2007,159000.0,Otomatik,Benzin,Hatchback/5,Gri (Gümüş),1587,111,Önden Çekiş,7.0,47,1345,3.0,160
+437000.0,Opel,2006,219000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri (Gümüş),1248,70,Önden Çekiş,4.4,44,1255,4.0,169
+900000.0,Skoda,2016,140000.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1598,110,Önden Çekiş,3.7,50,1900,4.0,180
+1725000.0,Peugeot,2022,22000.0,Otomatik,Benzin,Sedan,Beyaz,1598,225,Önden Çekiş,5.7,62,1915,4.0,230
+668000.0,Ford,2013,285000.0,Düz,Dizel,Sedan,Beyaz,1560,95,Önden Çekiş,4.2,53,1780,4.0,186
+390000.0,Fiat,2008,173000.0,Düz,LPG & Benzin,Hatchback/5,Gri,1368,77,Önden Çekiş,6.1,51,1720,4.0,175
+310000.0,Mitsubishi,1999,169000.0,Düz,Benzin,Sedan,Beyaz,1834,125,Önden Çekiş,6.2,60,1870,4.0,205
+405000.0,Fiat,2011,214000.0,Düz,Dizel,Sedan,Beyaz,1248,90,Önden Çekiş,4.9,45,1515,4.0,167
+415000.0,Peugeot,2005,106000.0,Otomatik,LPG & Benzin,Hatchback/5,Gri (Gümüş),1360,76,Önden Çekiş,6.4,50,1945,4.0,190
+500000.0,Ford,2011,218000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1560,95,Önden Çekiş,4.2,53,1476,4.0,170
+639000.0,Opel,2014,152000.0,Düz,LPG & Benzin,Sedan,Beyaz,1598,115,Önden Çekiş,6.5,56,1505,4.0,198
+785000.0,Skoda,2016,147000.0,Düz,Dizel,Hatchback/5,Beyaz,1598,110,Önden Çekiş,3.8,50,1600,4.0,165
+640000.0,Hyundai,2008,93000.0,Düz,Dizel,Sedan,Gri,1493,110,Önden Çekiş,4.6,45,1825,4.0,196
+510000.0,Volkswagen,2010,325000.0,Düz,Dizel,Hatchback/5,Beyaz,1598,105,Önden Çekiş,4.5,55,1545,4.0,172
+365000.0,Opel,2001,328000.0,Düz,LPG & Benzin,Hatchback/5,Gri,1598,100,Önden Çekiş,7.1,52,1609,4.0,167
+1075000.0,Honda,2017,84100.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1597,125,Önden Çekiş,6.7,47,1915,4.0,198
+400000.0,Renault,2005,234000.0,Düz,Dizel,Sedan,Gri,1461,106,Önden Çekiş,4.7,60,1814,4.0,185
+535000.0,Dacia,2013,221650.0,Düz,Dizel,Hatchback/5,Mavi (metalik),1461,90,Önden Çekiş,5.0,50,1575,4.0,157
+1175000.0,Volkswagen,2017,113000.0,Düz,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,4.0,66,1609,4.0,167
+960000.0,Renault,2017,109000.0,Düz,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,3.9,49,1982,4.0,182
+449000.0,Renault,2014,220000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,1655,4.0,176
+465000.0,Ford,2004,199000.0,Otomatik,LPG & Benzin,Hatchback/5,Gri (Gümüş),1596,100,Önden Çekiş,7.8,55,1565,4.0,163
+739000.0,Ford,2015,196000.0,Düz,Dizel,Sedan,Beyaz,1560,95,Önden Çekiş,4.5,53,1630,4.0,182
+468000.0,Toyota,2003,246000.0,Düz,LPG & Benzin,Hatchback/5,Mavi,1598,110,Önden Çekiş,7.0,55,1250,3.0,145
+242750.0,Hyundai,2000,328000.0,Düz,LPG & Benzin,Sedan,Kırmızı,1341,86,Önden Çekiş,6.1,45,1555,4.0,182
+485000.0,Ford,2008,328000.0,Düz,Dizel,Sedan,Beyaz,1560,110,Önden Çekiş,4.8,55,1660,4.0,170
+457000.0,Renault,2008,132000.0,Yarı Otomatik,Benzin,Hatchback/5,Siyah,1149,80,Önden Çekiş,5.6,55,2020,4.0,192
+456000.0,Hyundai,2009,191000.0,Düz,LPG & Benzin,Hatchback/5,Mavi,1399,97,Önden Çekiş,6.0,45,1814,4.0,185
+769750.0,Ford,2015,211000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1499,120,Önden Çekiş,4.2,55,1814,4.0,185
+259000.0,Fiat,2004,365000.0,Düz,LPG & Benzin,Sedan,Altın,1596,103,Önden Çekiş,8.1,63,1485,4.0,160
+390000.0,Nissan,2001,297918.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1497,90,Önden Çekiş,6.6,60,1579,4.0,162
+920000.0,Toyota,2019,56700.0,Otomatik,Benzin,Sedan,Beyaz,1598,132,Önden Çekiş,5.5,50,1565,4.0,163
+879000.0,Opel,2021,98000.0,Otomatik,Benzin,Hatchback/5,Gri (titanyum),1199,100,Önden Çekiş,4.3,44,1510,4.0,170
+419000.0,Volkswagen,2004,300000.0,Otomatik,Benzin,Hatchback/5,Siyah,1598,115,Önden Çekiş,7.6,55,1535,4.0,177
+377750.0,Toyota,2004,390000.0,Düz,LPG & Benzin,Sedan,Bordo,1598,110,Önden Çekiş,6.5,55,1535,4.0,177
+468500.0,Renault,2013,173000.0,Düz,LPG & Benzin,Hatchback/5,Füme,1149,75,Önden Çekiş,5.5,45,1660,4.0,170
+850000.0,Renault,2019,36000.0,Düz,Benzin,Sedan,Gri,1598,115,Önden Çekiş,6.3,49,1760,4.0,185
+695000.0,Skoda,2017,160000.0,Düz,Dizel,Sedan,Beyaz,1596,115,Önden Çekiş,4.2,55,2072,4.0,200
+797000.0,Renault,2020,122470.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,115,Önden Çekiş,4.2,49,1530,4.0,161
+220000.0,Tata,2007,135000.0,Düz,Dizel,Sedan,Mavi,1405,70,Önden Çekiş,9.1,42,1545,4.0,190
+989000.0,Ford,2016,103000.0,Otomatik,Benzin,Sedan,Beyaz,1498,160,Önden Çekiş,6.3,62,1450,4.0,170
+549900.0,Renault,2010,123000.0,Düz,Benzin,Sedan,Füme,1598,110,Önden Çekiş,6.5,60,1805,4.0,172
+414900.0,Ford,2006,222000.0,Otomatik,LPG & Benzin,Sedan,Gri (Gümüş),1596,100,Önden Çekiş,7.5,55,1715,4.0,183
+985000.0,BMW,2012,175000.0,Otomatik,Benzin,Sedan,Beyaz,1598,136,Arkadan İtiş,5.8,60,1540,4.0,176
+565000.0,Ford,2010,280000.0,Düz,Dizel,Sedan,Beyaz,1560,90,Önden Çekiş,4.7,55,1540,4.0,176
+430000.0,Opel,2005,400000.0,Otomatik,Dizel,Sedan,Gri,1910,150,Önden Çekiş,5.8,60,1525,4.0,167
+695000.0,Renault,2017,192000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.7,45,1895,4.0,206
+635000.0,Fiat,2021,29000.0,Düz,LPG & Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,6.4,45,1740,4.0,191
+1250000.0,Audi,2019,95000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,110,Önden Çekiş,3.7,50,1609,4.0,167
+790000.0,Audi,2011,255000.0,Düz,Benzin,Sedan,Beyaz,1798,120,Önden Çekiş,7.1,65,1730,4.0,215
+1140000.0,Ford,2017,89000.0,Yarı Otomatik,Dizel,Sedan,Gri (metalik),1499,120,Önden Çekiş,4.2,55,1691,4.0,192
+335000.0,Fiat,1999,138000.0,Düz,LPG & Benzin,Hatchback/5,Kahverengi,1368,77,Önden Çekiş,6.1,51,1691,4.0,192
+630000.0,Ford,2013,165000.0,Düz,Dizel,Sedan,Beyaz,1560,95,Önden Çekiş,4.2,53,1765,4.0,193
+302000.0,Hyundai,2001,334000.0,Düz,LPG & Benzin,Sedan,Kırmızı,1341,86,Önden Çekiş,6.7,45,1370,4.0,166
+245000.0,Peugeot,1997,240000.0,Düz,LPG & Benzin,Hatchback/5,Kırmızı,1587,90,Önden Çekiş,7.7,60,1485,4.0,160
+865000.0,Kia,2016,194000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1582,136,Önden Çekiş,4.2,53,1560,4.0,172
+880000.0,Peugeot,2017,71000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1560,122,Önden Çekiş,3.9,53,1475,4.0,170
+420000.0,Volkswagen,1998,360000.0,Düz,LPG & Benzin,Sedan,Yeşil,1781,150,Önden Çekiş,7.9,62,1793,4.0,192
+415000.0,Opel,2010,224000.0,Otomatik,LPG & Benzin,Hatchback/5,Siyah,1364,100,Önden Çekiş,5.5,45,1940,4.0,190
+420000.0,Skoda,2012,138000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1390,85,Önden Çekiş,5.9,45,1770,4.0,190
+515000.0,Renault,2012,173000.0,Düz,Benzin,Sedan,Gri (titanyum),1149,75,Önden Çekiş,5.9,50,1585,4.0,170
+410000.0,Hyundai,2008,160000.0,Düz,Benzin,Hatchback/5,Gri (Gümüş),1086,66,Önden Çekiş,5.5,35,1805,4.0,196
+675000.0,Fiat,2020,41000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1368,95,Önden Çekiş,5.7,45,1925,4.0,202
+307000.0,Fiat,2006,203000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1368,77,Önden Çekiş,6.1,45,2020,4.0,192
+700000.0,Opel,2013,125000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1598,115,Önden Çekiş,6.6,56,1609,4.0,164
+360000.0,Renault,2005,386000.0,Düz,LPG & Benzin,Sedan,Kırmızı,1390,98,Önden Çekiş,6.7,60,1761,4.0,190
+835000.0,Volvo,2015,265000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1560,115,Önden Çekiş,4.1,67,1770,4.0,190
+885000.0,Volkswagen,2014,151000.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1390,160,Önden Çekiş,6.0,55,1645,4.0,174
+315000.0,Fiat,2005,288400.0,Düz,LPG & Benzin,Sedan,Gri,1596,103,Önden Çekiş,8.1,63,1780,4.0,180
+440000.0,Volkswagen,2002,290000.0,Düz,Benzin,Hatchback/3,Beyaz,1390,75,Önden Çekiş,6.4,45,1685,4.0,174
+708000.0,Hyundai,2018,89000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1368,100,Önden Çekiş,6.4,50,1770,4.0,192
+890000.0,Volkswagen,2017,63455.0,Düz,Benzin,Bilinmiyor,Diğer,1197,105,Önden Çekiş,5.0,55,1725,4.0,184
+1800000.0,Volkswagen,2022,48000.0,Yarı Otomatik,Benzin,Station wagon,Gri,1498,150,Önden Çekiş,5.3,66,1579,4.0,162
+525000.0,Skoda,2005,280000.0,Düz,LPG & Benzin,Hatchback/5,Altın,1595,102,Önden Çekiş,7.1,55,1555,4.0,175
+790000.0,Seat,2016,110467.0,Düz,Benzin,Bilinmiyor,Diğer,1197,110,Önden Çekiş,4.9,50,1845,4.0,201
+280000.0,Hyundai,2000,255000.0,Düz,LPG & Benzin,Sedan,Beyaz,1495,92,Önden Çekiş,6.7,45,1600,4.0,165
+570000.0,Peugeot,2019,129300.0,Düz,Benzin,Sedan,Beyaz,1199,83,Önden Çekiş,4.9,50,1771,4.0,175
+325000.0,Peugeot,2004,271000.0,Otomatik,LPG & Benzin,Hatchback/5,Kırmızı,1360,76,Önden Çekiş,6.4,50,1535,4.0,160
+535000.0,Opel,2013,192000.0,Düz,Dizel,Sedan,Mavi,1248,95,Önden Çekiş,4.2,56,1819,4.0,197
+650000.0,Volkswagen,2012,239000.0,Düz,Dizel,Sedan,Gri (Gümüş),1598,105,Önden Çekiş,4.5,55,1730,4.0,183
+872000.0,Renault,2021,67452.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1332,140,Önden Çekiş,5.3,50,1658,4.0,180
+405000.0,Opel,2004,254000.0,Düz,LPG & Benzin,Hatchback/5,Gri,1598,100,Önden Çekiş,7.5,61,1888,4.0,194
+509999.0,Renault,2007,224000.0,Düz,LPG & Benzin,Hatchback/5,Bej,1598,110,Önden Çekiş,6.8,60,1490,4.0,157
+425000.0,Opel,2005,160000.0,Yarı Otomatik,Benzin,Hatchback/5,Füme,1229,80,Önden Çekiş,6.0,44,1771,4.0,180
+900000.0,Honda,2015,148000.0,Otomatik,LPG & Benzin,Sedan,Siyah,1598,125,Önden Çekiş,6.7,50,1780,4.0,180
+1350000.0,Volkswagen,2019,98000.0,Yarı Otomatik,Dizel,Sedan,Gri (metalik),1598,120,Önden Çekiş,4.0,59,1490,3.0,151
+785000.0,Fiat,2023,6100.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,50,1820,4.0,172
+415000.0,Fiat,2012,229000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1597,4.0,189
+535000.0,Hyundai,2010,118000.0,Düz,Dizel,Sedan,Gri (Gümüş),1493,110,Önden Çekiş,4.6,45,1530,4.0,165
+430000.0,Renault,2012,135000.0,Düz,Benzin,Sedan,Beyaz,1149,75,Önden Çekiş,5.9,50,1530,4.0,165
+1155000.0,Honda,2019,25000.0,Yarı Otomatik,LPG & Benzin,Sedan,Füme,1597,125,Önden Çekiş,6.3,46,1870,4.0,195
+325000.0,Hyundai,2000,250000.0,Düz,LPG & Benzin,Sedan,Gri,1341,86,Önden Çekiş,6.1,45,2020,4.0,248
+880000.0,Skoda,2017,84200.0,Düz,Benzin,Hatchback/5,Beyaz,1197,86,Önden Çekiş,4.9,50,1704,3.0,178
+650000.0,Fiat,2016,67000.0,Düz,LPG & Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1704,3.0,178
+347000.0,Peugeot,2011,191000.0,Düz,Dizel,Hatchback/5,Gri,1398,71,Önden Çekiş,4.2,50,1900,4.0,180
+560000.0,Renault,2013,107500.0,Düz,Benzin,Hatchback/5,Mavi,1149,75,Önden Çekiş,5.5,45,1255,4.0,169
+590000.0,Ford,2013,158000.0,Düz,Dizel,Hatchback/5,Beyaz,1498,75,Önden Çekiş,3.7,42,1660,4.0,200
+230000.0,Fiat,1997,232000.0,Düz,LPG & Benzin,Station wagon,Gri,1581,75,Önden Çekiş,10.3,65,1660,4.0,170
+599000.0,Seat,2008,154000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1595,102,Önden Çekiş,7.6,55,1900,4.0,180
+760000.0,Renault,2017,55000.0,Düz,Benzin,Sedan,Gri,1598,115,Önden Çekiş,6.3,49,1840,4.0,189
+620000.0,Audi,2008,200000.0,Yarı Otomatik,LPG & Benzin,Hatchback/3,Siyah,1390,125,Önden Çekiş,5.7,55,1650,4.0,188
+350000.0,Renault,2006,228000.0,Düz,Dizel,Sedan,Gri,1461,80,Önden Çekiş,4.7,50,1480,4.0,175
+1200000.0,BMW,2015,180000.0,Otomatik,Benzin,Bilinmiyor,Diğer,1499,136,Arkadan İtiş,5.1,52,1770,4.0,186
+800000.0,Skoda,2016,179000.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1598,110,Önden Çekiş,3.7,50,1545,4.0,167
+620000.0,Opel,2011,169900.0,Düz,LPG & Benzin,Sedan,Gri (metalik),1598,115,Önden Çekiş,6.8,52,1945,4.0,190
+510000.0,Fiat,2015,203000.0,Düz,Dizel,Sedan,Gri,1248,95,Önden Çekiş,4.9,45,1609,4.0,167
+639000.0,Opel,2015,94000.0,Düz,LPG & Benzin,Hatchback/5,Füme,1598,115,Önden Çekiş,6.6,56,1600,4.0,173
+647000.0,Renault,2011,152000.0,Düz,Dizel,Station wagon,Beyaz,1461,105,Önden Çekiş,4.5,60,1640,4.0,180
+1130000.0,Honda,2018,65000.0,Yarı Otomatik,LPG & Benzin,Sedan,Beyaz,1597,125,Önden Çekiş,6.7,47,1982,4.0,182
+1100000.0,Seat,2020,84500.0,Yarı Otomatik,Benzin,Hatchback/5,Kırmızı,1498,150,Önden Çekiş,5.1,50,1480,4.0,169
+463000.0,Renault,2010,239000.0,Düz,Dizel,Station wagon,Gri,1461,85,Önden Çekiş,4.4,55,1810,4.0,188
+620000.0,Opel,2014,106000.0,Düz,Dizel,Hatchback/5,Beyaz,1248,75,Önden Çekiş,4.2,45,1554,4.0,163
+700000.0,Audi,2010,233000.0,Otomatik,Benzin,Sedan,Gri (Gümüş),1798,120,Önden Çekiş,7.5,65,1510,4.0,170
+630000.0,Seat,2014,110000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1390,85,Önden Çekiş,5.9,45,1975,4.0,193
+450000.0,Citroen,2011,200000.0,Düz,Dizel,Hatchback/5,Beyaz,1360,76,Önden Çekiş,6.3,50,1730,4.0,187
+198000.0,Tofaş,1998,55000.0,Düz,LPG & Benzin,Sedan,Bordo,1581,83,Arkadan İtiş,6.5,50,1710,4.0,173
+569750.0,Citroen,2016,209574.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.1,48,1645,3.0,192
+380000.0,Renault,2004,249000.0,Düz,LPG & Benzin,Sedan,Yeşil,1390,98,Önden Çekiş,7.0,50,1800,4.0,189
+320000.0,Fiat,2001,165500.0,Düz,LPG & Benzin,Hatchback/5,Bordo,1581,103,Önden Çekiş,7.8,50,1670,4.0,190
+680000.0,Fiat,2019,103000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1872,4.0,190
+445000.0,Renault,2009,257000.0,Düz,Dizel,Hatchback/5,Gri,1461,70,Önden Çekiş,4.5,55,2028,4.0,197
+520000.0,Opel,2013,110000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1598,115,Önden Çekiş,6.5,52,1490,4.0,160
+650000.0,Citroen,2011,203000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1560,114,Önden Çekiş,4.2,60,2190,4.0,214
+600000.0,Volkswagen,2010,245000.0,Yarı Otomatik,Benzin,Sedan,Gri (Gümüş),1390,122,Önden Çekiş,6.3,55,1895,4.0,183
+855000.0,Volkswagen,2013,160000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1598,105,Önden Çekiş,4.7,55,1775,4.0,172
+520000.0,Toyota,2009,136000.0,Yarı Otomatik,LPG & Benzin,Hatchback/5,Siyah,1329,101,Önden Çekiş,5.1,42,1775,4.0,172
+495000.0,Hyundai,2010,216000.0,Düz,Dizel,Sedan,Gri (Gümüş),1493,110,Önden Çekiş,4.6,45,1980,4.0,210
+580000.0,Fiat,2017,186000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1815,4.0,179
+488000.0,Renault,2008,260000.0,Düz,Dizel,Sedan,Füme,1461,100,Önden Çekiş,4.9,60,2105,4.0,217
+355000.0,Chevrolet,2009,269800.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1206,84,Önden Çekiş,5.5,45,1708,4.0,176
+440000.0,Volkswagen,2001,284500.0,Düz,LPG & Benzin,Hatchback/5,Gri,1595,105,Önden Çekiş,6.8,55,1675,4.0,186
+570000.0,Fiat,2019,217000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1975,4.0,193
+549000.0,Mazda,2009,202000.0,Düz,LPG & Benzin,Sedan,Siyah,1598,105,Önden Çekiş,6.9,55,1255,4.0,169
+380000.0,Kia,2009,169000.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1399,97,Önden Çekiş,6.2,45,1900,4.0,180
+350000.0,Peugeot,2005,222000.0,Otomatik,Benzin,Hatchback/5,Beyaz,1360,76,Önden Çekiş,6.9,50,1900,4.0,180
+560000.0,Ford,2016,173000.0,Düz,Dizel,Hatchback/5,Beyaz,1498,75,Önden Çekiş,3.7,42,1580,4.0,179
+1439000.0,Volkswagen,2019,86000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,4.0,66,1588,3.0,182
+549500.0,Volkswagen,2012,188000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1198,70,Önden Çekiş,5.5,45,1891,4.0,200
+330000.0,Renault,2000,342000.0,Otomatik,LPG & Benzin,MPV,Gri (Gümüş),1598,107,Önden Çekiş,7.9,60,1820,4.0,190
+915000.0,Seat,2017,43000.0,Yarı Otomatik,Benzin,Hatchback/5,Gri (Gümüş),1197,110,Önden Çekiş,4.9,50,1830,4.0,223
+1150000.0,MINI,2017,86500.0,Otomatik,Dizel,Hatchback/5,Gri (Gümüş),1496,116,Önden Çekiş,3.8,44,1565,4.0,180
+1639000.0,Mercedes - Benz,2014,52000.0,Otomatik,Benzin,Bilinmiyor,Kırmızı,1595,156,Önden Çekiş,5.1,50,1559,4.0,175
+290000.0,Opel,1997,278500.0,Otomatik,LPG & Benzin,Hatchback/5,Yeşil (metalik),1389,90,Önden Çekiş,8.2,42,1400,4.0,151
+495000.0,Citroen,2016,197000.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.3,48,1675,4.0,185
+450000.0,Chevrolet,2010,182662.0,Otomatik,Benzin,Sedan,Siyah,1598,113,Önden Çekiş,7.8,60,1440,4.0,165
+820000.0,Volkswagen,2012,155000.0,Yarı Otomatik,Dizel,Sedan,Gri (Gümüş),1598,105,Önden Çekiş,4.7,55,1440,4.0,165
+315000.0,Fiat,2000,223000.0,Düz,LPG & Benzin,Hatchback/5,Gri,1581,103,Önden Çekiş,7.8,50,1595,4.0,195
+770000.0,Opel,2018,80000.0,Otomatik,Benzin,Hatchback/5,Gri (Gümüş),1399,150,Önden Çekiş,5.5,52,1890,4.0,185
+770000.0,Opel,2017,92000.0,Düz,LPG & Benzin,Sedan,Beyaz,1598,115,Önden Çekiş,6.5,56,1740,4.0,185
+925000.0,Audi,2015,197000.0,Yarı Otomatik,Dizel,Hatchback/5,Siyah,1598,110,Önden Çekiş,3.9,50,2050,4.0,190
+383900.0,Ford,2008,290000.0,Düz,Dizel,Sedan,Gri (Gümüş),1560,110,Önden Çekiş,4.5,55,1920,4.0,221
+799000.0,Opel,2016,171000.0,Otomatik,Dizel,Sedan,Siyah,1598,136,Önden Çekiş,5.0,70,1920,4.0,221
+1575000.0,Volkswagen,2019,55000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,4.0,66,1730,4.0,187
+1225000.0,Mercedes - Benz,2011,128000.0,Otomatik,Benzin,Sedan,Siyah,1796,156,Arkadan İtiş,6.7,67,1560,4.0,172
+580000.0,Peugeot,2018,160000.0,Düz,Dizel,Sedan,Kahverengi,1560,102,Önden Çekiş,3.9,50,1550,4.0,188
+455000.0,Hyundai,2008,190000.0,Düz,Dizel,Sedan,Gri (Gümüş),1493,110,Önden Çekiş,4.6,45,1634,4.0,170
+1050000.0,Mercedes - Benz,2015,170000.0,Yarı Otomatik,Dizel,MPV,Beyaz,1461,109,Önden Çekiş,4.0,56,1850,4.0,194
+440000.0,Hyundai,2006,180000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1399,97,Önden Çekiş,6.0,45,2040,4.0,213
+365000.0,Volkswagen,1999,158000.0,Otomatik,Benzin,Hatchback/5,Bordo,1598,75,Önden Çekiş,8.6,45,1895,4.0,206
+465000.0,Fiat,2015,187000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1790,4.0,190
+915000.0,Volvo,2013,140000.0,Yarı Otomatik,Dizel,Station wagon,Kahverengi,1560,115,Önden Çekiş,3.8,52,1790,4.0,190
+375000.0,Hyundai,2005,240000.0,Düz,Benzin,Sedan,Beyaz,1341,86,Önden Çekiş,6.7,45,1825,4.0,212
+730000.0,Fiat,2023,7350.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,50,1440,4.0,176
+710000.0,Peugeot,2014,125000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1560,93,Önden Çekiş,3.8,50,1900,4.0,190
+557000.0,Peugeot,2015,158000.0,Düz,Dizel,Sedan,Gri,1560,93,Önden Çekiş,4.3,50,1932,4.0,205
+610000.0,Fiat,2017,116000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1900,4.0,192
+985000.0,Volkswagen,2016,62000.0,Düz,Benzin,Hatchback/5,Gri (metalik),1395,125,Önden Çekiş,5.2,50,2160,4.0,235
+870000.0,Skoda,2014,151000.0,Yarı Otomatik,Dizel,Station wagon,Beyaz,1598,105,Önden Çekiş,4.0,50,1725,4.0,192
+315000.0,Peugeot,2004,226000.0,Düz,Benzin,Hatchback/5,Beyaz,1360,76,Önden Çekiş,6.4,50,2073,4.0,206
+350000.0,Ford,2004,330000.0,Düz,Dizel,Hatchback/5,Gri,1399,68,Önden Çekiş,4.3,45,1765,4.0,184
+800000.0,Fiat,2022,6500.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,50,1660,4.0,170
+750000.0,Ford,2016,149500.0,Yarı Otomatik,Dizel,Sedan,Gri,1499,120,Önden Çekiş,4.2,55,1454,4.0,167
+350000.0,Renault,2000,130000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1390,75,Önden Çekiş,7.1,50,1480,4.0,169
+1655000.0,Mercedes - Benz,2018,93000.0,Otomatik,Dizel,Sedan,Beyaz,1598,136,Arkadan İtiş,4.2,41,1476,4.0,166
+765000.0,Skoda,2014,192500.0,Düz,Dizel,Sedan,Beyaz,1598,105,Önden Çekiş,4.0,55,1563,4.0,164
+610000.0,Opel,2016,190000.0,Otomatik,Dizel,Sedan,Beyaz,1598,136,Önden Çekiş,5.0,70,1575,4.0,167
+615000.0,Seat,2015,134000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1390,85,Önden Çekiş,5.9,45,1710,4.0,165
+315000.0,Fiat,2008,204000.0,Düz,Dizel,Sedan,Gri,1248,90,Önden Çekiş,4.9,45,1710,4.0,165
+499000.0,Fiat,2012,138000.0,Düz,Dizel,Sedan,Gri (Gümüş),1248,95,Önden Çekiş,4.9,45,1710,4.0,165
+659000.0,Kia,2017,28500.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1248,84,Önden Çekiş,5.4,35,1783,4.0,184
+720000.0,Fiat,2020,51500.0,Düz,Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1783,4.0,184
+365000.0,Hyundai,2007,231000.0,Düz,Dizel,Sedan,Gri (metalik),1493,110,Önden Çekiş,4.6,45,1610,4.0,162
+705000.0,Ford,2012,65404.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1388,96,Önden Çekiş,6.5,42,1755,4.0,185
+805000.0,Citroen,2017,35000.0,Otomatik,Benzin,Bilinmiyor,Diğer,1587,117,Önden Çekiş,6.8,45,1798,4.0,200
+669000.0,Volkswagen,2010,255000.0,Düz,LPG & Benzin,Sedan,Siyah,1595,102,Önden Çekiş,7.6,70,1870,3.0,210
+445000.0,Dacia,2011,103000.0,Düz,Benzin,Hatchback/5,Gri,1390,75,Önden Çekiş,7.0,50,1730,4.0,191
+315000.0,Seat,2006,374600.0,Düz,Dizel,Sedan,Gri (metalik),1422,75,Önden Çekiş,4.5,45,1886,4.0,190
+859000.0,Audi,2014,129000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,110,Önden Çekiş,3.9,50,1735,4.0,213
+370000.0,Peugeot,2007,256000.0,Düz,Dizel,Sedan,Siyah,1560,112,Önden Çekiş,5.5,66,1814,4.0,185
+425000.0,Peugeot,2011,165000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1360,76,Önden Çekiş,6.3,50,1690,4.0,174
+715000.0,Hyundai,2015,149000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1582,136,Önden Çekiş,4.6,43,2005,4.0,200
+455000.0,Opel,2001,153333.0,Düz,LPG & Benzin,Sedan,Gri,1598,100,Önden Çekiş,7.2,60,1526,4.0,177
+595000.0,Renault,2013,187000.0,Yarı Otomatik,Dizel,Sedan,Gri (Gümüş),1461,110,Önden Çekiş,4.4,60,1529,4.0,163
+1590000.0,BMW,2014,149500.0,Otomatik,Benzin,Sedan,Siyah,1592,170,Arkadan İtiş,6.7,70,1720,4.0,215
+855000.0,Volkswagen,2011,129000.0,Düz,Dizel,Bilinmiyor,Diğer,1598,105,Önden Çekiş,4.5,55,1450,4.0,170
+705000.0,Ford,2017,108500.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1596,105,Önden Çekiş,5.9,42,1500,4.0,186
+420000.0,Hyundai,2006,177500.0,Düz,Dizel,Hatchback/5,Siyah,1493,88,Önden Çekiş,4.5,45,1630,4.0,180
+325000.0,Fiat,2001,159308.0,Düz,LPG & Benzin,Bilinmiyor,Diğer,1581,103,Önden Çekiş,7.8,50,1730,4.0,183
+555000.0,Renault,2017,161000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,75,Önden Çekiş,3.6,45,1440,4.0,174
+285000.0,Renault,2001,256000.0,Düz,LPG & Benzin,Hatchback/5,Siyah,1390,75,Önden Çekiş,6.8,50,1645,4.0,162
+689900.0,Skoda,2014,154000.0,Düz,Benzin,Hatchback/5,Beyaz,1197,105,Önden Çekiş,4.9,50,1740,4.0,191
+1350000.0,BMW,2014,127000.0,Otomatik,Benzin,Sedan,Füme,1598,170,Arkadan İtiş,5.3,60,1740,4.0,191
+662000.0,Ford,2011,120000.0,Düz,Dizel,Hatchback/5,Beyaz,1560,115,Önden Çekiş,4.2,53,1825,4.0,190
+1699000.0,Volkswagen,2018,116000.0,Yarı Otomatik,Benzin,Hatchback/5,Kırmızı,1498,150,Önden Çekiş,6.0,66,1916,4.0,199
+390000.0,Fiat,2004,203724.0,Düz,LPG & Benzin,Sedan,Kırmızı,1242,80,Önden Çekiş,7.0,47,1650,4.0,176
+875000.0,Volkswagen,2013,110000.0,Düz,Benzin,Sedan,Siyah,1390,122,Önden Çekiş,5.9,70,1503,4.0,170
+643000.0,Renault,2015,200000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1461,110,Önden Çekiş,4.4,60,1684,4.0,192
+335000.0,Volkswagen,2000,234000.0,Düz,LPG & Benzin,Hatchback/5,Lacivert,1598,75,Önden Çekiş,6.9,45,1450,4.0,170
+745000.0,Nissan,2016,135000.0,Otomatik,Benzin,Hatchback/5,Gri (metalik),1197,115,Önden Çekiş,5.1,46,1675,4.0,197
+452500.0,Dacia,2012,217500.0,Düz,Dizel,Hatchback/5,Kırmızı,1461,90,Önden Çekiş,5.0,50,1675,4.0,197
+765000.0,Volkswagen,2012,290000.0,Düz,Dizel,Sedan,Beyaz,1598,105,Önden Çekiş,4.3,70,1710,4.0,185
+324000.0,Toyota,1999,250000.0,Düz,LPG & Benzin,Sedan,Siyah,1598,110,Önden Çekiş,7.0,50,1480,4.0,160
+270000.0,Fiat,2004,266000.0,Düz,LPG & Benzin,Sedan,Gri,1596,103,Önden Çekiş,8.1,63,1480,4.0,160
+560000.0,Hyundai,2014,96000.0,Düz,Benzin,Hatchback/5,Gri,1248,85,Önden Çekiş,4.9,45,1575,4.0,167
+648000.0,Renault,2019,105000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.6,45,1550,3.0,165
+330000.0,Ford,2005,236500.0,Düz,Benzin,Hatchback/5,Mavi (metalik),1388,80,Önden Çekiş,6.2,45,1715,4.0,194
+600000.0,Renault,2014,190000.0,Düz,Dizel,Sedan,Siyah,1461,90,Önden Çekiş,4.5,60,1735,3.0,202
+604500.0,Volkswagen,2015,117000.0,Düz,Dizel,Hatchback/5,Beyaz,1422,75,Önden Çekiş,3.6,45,1915,4.0,230
+400000.0,Renault,2006,264580.0,Düz,Dizel,Sedan,Gri,1461,80,Önden Çekiş,4.6,60,1555,4.0,180
+700000.0,Renault,2016,85000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.6,45,1813,4.0,180
+470000.0,Renault,2006,195000.0,Düz,Dizel,Sedan,Bej,1461,80,Önden Çekiş,4.6,60,1920,4.0,190
+698000.0,Seat,2014,85500.0,Yarı Otomatik,Benzin,Hatchback/5,Kırmızı,1197,105,Önden Çekiş,5.3,45,1630,4.0,180
+350000.0,Ford,2004,296000.0,Düz,LPG & Benzin,Sedan,Beyaz,1596,100,Önden Çekiş,6.8,55,1820,4.0,210
+760000.0,Peugeot,2016,107000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1560,122,Önden Çekiş,3.5,53,1655,4.0,180
+658000.0,Ford,2010,136000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1596,125,Önden Çekiş,7.4,70,1840,4.0,200
+265000.0,Dacia,2003,92000.0,Düz,Benzin,Sedan,Yeşil,1390,75,Önden Çekiş,6.7,50,1820,4.0,190
+1400000.0,Audi,2020,61000.0,Yarı Otomatik,Benzin,Sedan,Füme,1498,150,Önden Çekiş,5.1,50,2073,4.0,206
+600000.0,Volkswagen,2013,247000.0,Yarı Otomatik,Benzin,Bilinmiyor,Diğer,1390,160,Önden Çekiş,6.6,55,1585,4.0,183
+670000.0,Hyundai,2015,157000.0,Otomatik,LPG & Benzin,Hatchback/5,Beyaz,1368,100,Önden Çekiş,6.2,50,1650,4.0,190
+475000.0,Fiat,2014,175000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1360,4.0,167
+520000.0,Opel,2013,190000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1229,85,Önden Çekiş,5.3,45,1660,4.0,170
+430000.0,Opel,2005,300000.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1598,105,Önden Çekiş,6.6,52,1920,4.0,185
+1060000.0,Skoda,2018,120000.0,Yarı Otomatik,Dizel,Hatchback/5,Gri,1598,115,Önden Çekiş,3.9,50,2090,5.0,215
+540000.0,Volkswagen,2006,305000.0,Düz,Benzin,Sedan,Gri (metalik),1595,102,Önden Çekiş,7.4,55,2385,4.0,175
+540000.0,Hyundai,2012,80000.0,Otomatik,LPG & Benzin,Hatchback/5,Kırmızı,1397,100,Önden Çekiş,6.2,45,1765,4.0,184
+550000.0,Fiat,2012,116300.0,Düz,Dizel,Sedan,Beyaz,1248,90,Önden Çekiş,4.9,45,1550,4.0,170
+480000.0,Toyota,2008,318000.0,Yarı Otomatik,Dizel,Sedan,Siyah,1364,90,Önden Çekiş,4.9,55,1555,4.0,180
+300000.0,Fiat,2006,219000.0,Düz,Dizel,Sedan,Gri,1248,70,Önden Çekiş,4.7,48,1548,4.0,180
+1975000.0,Mercedes - Benz,2017,150000.0,Otomatik,Dizel,Bilinmiyor,Diğer,1598,136,Arkadan İtiş,4.2,41,1660,4.0,170
+330000.0,Renault,2010,243000.0,Düz,Dizel,Sedan,Gri,1461,65,Önden Çekiş,4.5,50,1730,4.0,204
+795000.0,Hyundai,2018,60500.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1582,136,Önden Çekiş,4.6,43,1900,4.0,205
+430000.0,Fiat,2013,178900.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1620,4.0,174
+350000.0,Mitsubishi,2005,291000.0,Otomatik,LPG & Benzin,Sedan,Siyah,1584,98,Önden Çekiş,7.9,50,1765,4.0,184
+520000.0,Hyundai,2010,211700.0,Düz,LPG & Benzin,Sedan,Şampanya,1599,112,Önden Çekiş,6.5,45,1975,4.0,193
+800000.0,Opel,2017,88000.0,Otomatik,Dizel,Hatchback/5,Kırmızı,1598,136,Önden Çekiş,4.6,52,1704,3.0,178
+760000.0,Opel,2016,132000.0,Otomatik,Dizel,Sedan,Beyaz,1598,136,Önden Çekiş,5.1,56,1485,4.0,160
+875000.0,Opel,2019,98000.0,Otomatik,Benzin,Sedan,Füme,1364,140,Önden Çekiş,6.7,56,1460,4.0,170
+690000.0,Renault,2011,204000.0,Düz,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,5.0,66,2160,4.0,210
+680000.0,Seat,2015,150000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1598,90,Önden Çekiş,4.5,55,2050,4.0,218
+910000.0,Hyundai,2015,120000.0,Yarı Otomatik,Dizel,Station wagon,Beyaz,1582,136,Önden Çekiş,4.4,53,1725,4.0,190
+915000.0,Opel,2016,148500.0,Otomatik,Dizel,Sedan,Beyaz,1598,136,Önden Çekiş,5.0,70,1526,4.0,177
+785000.0,Seat,2017,161000.0,Yarı Otomatik,Dizel,Hatchback/5,Kırmızı,1598,115,Önden Çekiş,4.1,50,1660,4.0,170
+840000.0,Toyota,2019,70000.0,Düz,LPG & Benzin,Sedan,Beyaz,1598,132,Önden Çekiş,5.8,50,1660,4.0,170
+325000.0,Hyundai,2000,276600.0,Düz,LPG & Benzin,Sedan,Gri,1341,86,Önden Çekiş,6.1,45,1400,4.0,161
+750000.0,Renault,2017,91000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1197,120,Önden Çekiş,5.2,45,1675,4.0,185
+510000.0,Renault,2012,148000.0,Düz,Dizel,Sedan,Beyaz,1461,65,Önden Çekiş,4.5,50,1548,4.0,180
+660000.0,Renault,2013,115000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.6,45,1525,4.0,166
+325000.0,Renault,2000,376500.0,Düz,LPG & Benzin,Sedan,Beyaz,1390,75,Önden Çekiş,7.1,50,1720,4.0,215
+840000.0,Fiat,2023,13000.0,Düz,Dizel,Sedan,Gri (metalik),1248,95,Önden Çekiş,4.1,50,1910,4.0,218
+420000.0,Opel,2006,282000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1248,90,Önden Çekiş,4.8,52,1670,4.0,188
+610000.0,BMW,2006,194000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1596,115,Arkadan İtiş,7.5,50,1793,4.0,190
+1480000.0,Volkswagen,2019,84000.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1498,150,Önden Çekiş,5.3,66,1955,4.0,200
+300000.0,Renault,2003,260000.0,Düz,Dizel,Sedan,Mavi (metalik),1461,65,Önden Çekiş,4.7,50,1470,4.0,161
+390000.0,Ford,2007,275000.0,Düz,LPG & Benzin,Hatchback/5,Beyaz,1388,80,Önden Çekiş,6.2,45,1470,4.0,161
+858000.0,Toyota,2015,101200.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1364,90,Önden Çekiş,4.1,55,1820,4.0,195
+600000.0,Peugeot,2013,174000.0,Düz,Dizel,Hatchback/5,Beyaz,1560,93,Önden Çekiş,4.2,60,1870,4.0,202
+770000.0,Fiat,2020,21000.0,Düz,Benzin,Sedan,Füme,1368,95,Önden Çekiş,5.7,45,1840,4.0,200
+715000.0,Volkswagen,2014,270000.0,Yarı Otomatik,Dizel,Bilinmiyor,Diğer,1598,105,Önden Çekiş,4.7,55,1421,4.0,170
+710000.0,Renault,2015,225000.0,Yarı Otomatik,Dizel,Bilinmiyor,Diğer,1461,110,Önden Çekiş,4.4,60,2220,6.0,238
+495000.0,Fiat,2015,182110.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.9,45,1695,4.0,190
+587000.0,Volkswagen,2011,111000.0,Yarı Otomatik,Benzin,Hatchback/5,Beyaz,1390,85,Önden Çekiş,5.8,45,1785,4.0,193
+950000.0,Volkswagen,2012,109000.0,Düz,Benzin,Station wagon,Beyaz,1390,122,Önden Çekiş,6.1,70,2300,4.0,226
+625000.0,Renault,2014,161000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,4.4,60,1900,4.0,190
+435000.0,Renault,2007,257000.0,Düz,Dizel,MPV,Kırmızı,1461,106,Önden Çekiş,5.2,60,2075,6.0,229
+705000.0,Opel,2013,150000.0,Düz,Dizel,Hatchback/5,Beyaz,1248,95,Önden Çekiş,4.1,56,2165,4.0,220
+558000.0,Kia,2010,222000.0,Düz,LPG & Benzin,Sedan,Kırmızı,1591,126,Önden Çekiş,6.7,52,2065,4.0,210
+1685000.0,Mercedes - Benz,2017,230000.0,Otomatik,Benzin,Sedan,Füme,1595,156,Arkadan İtiş,5.9,41,1630,4.0,180
+317500.0,Renault,2006,344000.0,Düz,Dizel,Sedan,Beyaz,1461,80,Önden Çekiş,4.7,50,1651,4.0,168
+450000.0,Volkswagen,2001,277000.0,Düz,LPG & Benzin,Sedan,Beyaz,1595,105,Önden Çekiş,6.9,55,1500,4.0,170
+770000.0,Fiat,2017,16639.0,Otomatik,Benzin,Sedan,Mavi,1598,110,Önden Çekiş,6.3,45,1783,4.0,196
+3075000.0,Mercedes - Benz,2022,52000.0,Otomatik,Dizel,Sedan,Siyah,1597,160,Arkadan İtiş,4.7,50,1940,4.0,230
+789000.0,Honda,2012,133000.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1595,125,Önden Çekiş,6.7,50,1900,4.0,193
+395000.0,Ford,2001,265000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1596,100,Önden Çekiş,6.8,55,2082,4.0,220
+635000.0,Ford,2013,180000.0,Düz,Dizel,Sedan,Gri (Gümüş),1560,95,Önden Çekiş,4.2,53,2480,6.0,238
+390000.0,Fiat,2011,215000.0,Yarı Otomatik,Dizel,Sedan,Gri (Gümüş),1248,90,Önden Çekiş,4.9,45,1440,4.0,162
+1120000.0,Volkswagen,2017,200000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,4.0,66,1814,4.0,185
+900000.0,Hyundai,2023,9385.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1368,100,Önden Çekiş,6.1,40,1325,4.0,172
+408000.0,Fiat,2010,284000.0,Düz,Dizel,Sedan,Gri,1598,105,Önden Çekiş,5.0,45,1723,4.0,185
+502500.0,Renault,2011,222000.0,Düz,Dizel,Hatchback/5,Gri,1461,85,Önden Çekiş,4.5,60,2000,4.0,195
+612000.0,Fiat,2017,110000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,2020,4.0,192
+460000.0,Hyundai,2011,257000.0,Düz,Dizel,Sedan,Gri,1493,110,Önden Çekiş,4.6,45,2020,4.0,192
+1690000.0,BMW,2018,117000.0,Otomatik,Benzin,Bilinmiyor,Lacivert,1499,136,Arkadan İtiş,5.2,60,1730,4.0,187
+2177900.0,BMW,2021,77000.0,Otomatik,Benzin,Sedan,Kırmızı,1597,170,Arkadan İtiş,6.0,59,1475,4.0,168
+2199000.0,BMW,2021,95000.0,Otomatik,Benzin,Sedan,Kırmızı,1597,170,Arkadan İtiş,6.0,59,1475,4.0,168
+950000.0,Toyota,2020,30000.0,Otomatik,LPG & Benzin,Sedan,Siyah,1598,132,Önden Çekiş,5.5,50,2050,4.0,248
+465000.0,Ford,2004,253000.0,Düz,LPG & Benzin,Hatchback/5,Gri (metalik),1596,100,Önden Çekiş,6.8,55,1658,4.0,180
+340000.0,Renault,1999,148000.0,Düz,LPG & Benzin,Sedan,Şampanya,1598,90,Önden Çekiş,7.2,60,1515,4.0,167
+590000.0,Toyota,2011,129000.0,Düz,LPG & Benzin,Hatchback/5,Bordo,1598,132,Önden Çekiş,6.6,55,1771,4.0,180
+630000.0,Toyota,2011,152000.0,Yarı Otomatik,Dizel,Sedan,Gri (Gümüş),1364,90,Önden Çekiş,4.8,55,1585,4.0,170
+365000.0,Peugeot,2006,153000.0,Düz,Dizel,Hatchback/5,Beyaz,1398,69,Önden Çekiş,4.3,50,1524,4.0,156
+478000.0,Hyundai,2011,189999.0,Düz,Dizel,Sedan,Beyaz,1493,110,Önden Çekiş,4.6,45,1658,4.0,180
+470000.0,Hyundai,2007,256000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1399,97,Önden Çekiş,6.5,45,1566,4.0,190
+700000.0,Toyota,2010,145000.0,Düz,LPG & Benzin,Sedan,Gri (Gümüş),1598,124,Önden Çekiş,7.0,55,1590,4.0,185
+500000.0,Mazda,2007,222150.0,Düz,LPG & Benzin,Bilinmiyor,Diğer,1598,105,Önden Çekiş,7.2,55,1585,4.0,166
+465000.0,Volkswagen,2003,290000.0,Otomatik,LPG & Benzin,Sedan,Gri,1781,150,Önden Çekiş,9.4,62,2139,4.0,195
+650000.0,Opel,2017,44000.0,Düz,Benzin,Hatchback/5,Füme,1229,70,Önden Çekiş,5.4,45,1960,4.0,212
+425000.0,Citroen,2008,305000.0,Yarı Otomatik,Dizel,Hatchback/5,Kırmızı,1560,111,Önden Çekiş,4.5,60,1800,4.0,224
+460000.0,Citroen,2011,172000.0,Düz,Dizel,Hatchback/5,Beyaz,1398,71,Önden Çekiş,4.3,48,1800,4.0,224
+289000.0,Hyundai,2006,249000.0,Düz,Dizel,Hatchback/5,Kırmızı,1493,110,Önden Çekiş,4.5,45,1625,4.0,170
+695000.0,Skoda,2016,215000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1422,90,Önden Çekiş,3.8,55,1625,4.0,170
+535000.0,Fiat,2014,117000.0,Düz,LPG & Benzin,Sedan,Beyaz,1368,77,Önden Çekiş,6.3,45,1584,4.0,170
+800000.0,Fiat,2020,120000.0,Düz,Dizel,Sedan,Füme,1248,95,Önden Çekiş,4.1,45,1900,4.0,205
+905000.0,Honda,2016,85500.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1598,125,Önden Çekiş,6.7,50,1660,4.0,170
+711000.0,Toyota,2016,87500.0,Düz,LPG & Benzin,Sedan,Beyaz,1329,99,Önden Çekiş,5.8,55,1565,4.0,172
+637500.0,Renault,2012,185000.0,Yarı Otomatik,Dizel,Sedan,Gri (Gümüş),1461,110,Önden Çekiş,4.4,60,1740,4.0,185
+953000.0,Volkswagen,2012,113000.0,Yarı Otomatik,Benzin,Sedan,Bej,1390,122,Önden Çekiş,6.0,70,1945,4.0,202
+355000.0,Renault,2007,266000.0,Düz,Dizel,Sedan,Gri (metalik),1461,85,Önden Çekiş,4.5,50,1758,4.0,175
+315000.0,Volkswagen,2001,280750.0,Düz,LPG & Benzin,Hatchback/5,Bordo,1390,75,Önden Çekiş,6.4,45,1579,4.0,162
+650000.0,Volkswagen,2010,200000.0,Düz,Dizel,Hatchback/5,Siyah,1598,105,Önden Çekiş,4.5,55,1700,4.0,180
+560000.0,Fiat,2013,178000.0,Düz,Dizel,MPV,Beyaz,1598,105,Önden Çekiş,4.7,50,1485,4.0,160
+460000.0,Nissan,2006,227000.0,Otomatik,Benzin,Bilinmiyor,Diğer,1240,80,Önden Çekiş,6.6,46,2050,4.0,218
+900000.0,Volkswagen,2013,106000.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1197,105,Önden Çekiş,5.4,55,1660,4.0,170
+410000.0,Renault,2004,260000.0,Düz,Dizel,Sedan,Beyaz,1461,65,Önden Çekiş,4.7,50,1660,4.0,170
+387500.0,Renault,2007,211000.0,Düz,LPG & Benzin,Sedan,Gri,1390,98,Önden Çekiş,7.3,50,1535,4.0,160
+390000.0,Kia,2004,240000.0,Otomatik,LPG & Benzin,Sedan,Siyah,1493,97,Önden Çekiş,7.1,45,1555,4.0,175
+780000.0,Fiat,2020,43000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,3.9,45,1695,4.0,190
+499000.0,Citroen,2017,293000.0,Düz,Dizel,Sedan,Beyaz,1560,93,Önden Çekiş,4.3,48,1695,4.0,190
+710000.0,Volkswagen,2012,265000.0,Yarı Otomatik,Dizel,Sedan,Gri,1598,105,Önden Çekiş,4.7,55,1660,4.0,170
+595000.0,Fiat,2017,140000.0,Düz,Dizel,Sedan,Kırmızı,1248,95,Önden Çekiş,4.1,45,1660,4.0,170
+760000.0,Fiat,2020,7400.0,Düz,Benzin,Sedan,Füme,1368,95,Önden Çekiş,5.7,45,1330,4.0,164
+1550000.0,BMW,2016,190000.0,Otomatik,Benzin,Sedan,Füme,1598,170,Arkadan İtiş,5.3,60,1770,4.0,176
+519900.0,Volkswagen,2004,139500.0,Otomatik,LPG & Benzin,Hatchback/5,Gri (Gümüş),1595,102,Önden Çekiş,8.0,55,1770,4.0,176
+807000.0,Toyota,2017,50000.0,Düz,Benzin,Sedan,Beyaz,1329,99,Önden Çekiş,5.8,55,1900,4.0,205
+660000.0,Hyundai,2014,201000.0,Otomatik,Dizel,Hatchback/5,Beyaz,1582,128,Önden Çekiş,5.5,53,2072,4.0,200
+400000.0,Renault,2009,256000.0,Düz,Dizel,Sedan,Gri (Gümüş),1461,85,Önden Çekiş,4.5,50,1580,4.0,170
+485000.0,BMW,2005,409000.0,Düz,LPG & Benzin,Hatchback/5,Gri (Gümüş),1596,115,Arkadan İtiş,7.5,50,2020,4.0,182
+1250000.0,BMW,2014,288000.0,Otomatik,Benzin,Sedan,Gri (titanyum),1592,170,Arkadan İtiş,6.7,70,1725,4.0,184
+365000.0,Renault,2004,173000.0,Düz,Dizel,Sedan,Gri (Gümüş),1461,65,Önden Çekiş,4.7,50,1980,4.0,200
+620000.0,Honda,2007,145000.0,Otomatik,Benzin,Hatchback/5,Kırmızı,1339,83,Önden Çekiş,5.9,42,1350,4.0,155
+1655000.0,BMW,2015,106000.0,Otomatik,Benzin,Sedan,Beyaz,1598,170,Arkadan İtiş,5.3,60,2155,4.0,200
+467500.0,Citroen,2012,157000.0,Düz,Dizel,Hatchback/5,Beyaz,1398,71,Önden Çekiş,4.1,50,1480,4.0,169
+985000.0,Toyota,2022,13000.0,Otomatik,Benzin,Sedan,Gri,1490,125,Önden Çekiş,5.8,50,1563,4.0,199
+511500.0,Volkswagen,2007,106000.0,Düz,Benzin,Hatchback/5,Beyaz,1390,80,Önden Çekiş,6.3,45,1660,4.0,170
+602750.0,Fiat,2022,54200.0,Düz,Benzin,Sedan,Gri,1368,95,Önden Çekiş,5.7,45,1535,4.0,160
+648750.0,Fiat,2021,49250.0,Düz,Benzin,Sedan,Beyaz,1368,95,Önden Çekiş,5.7,45,1658,4.0,181
+1030000.0,BMW,2012,193000.0,Otomatik,Benzin,Sedan,Beyaz,1598,136,Arkadan İtiş,5.8,60,1460,4.0,170
+540000.0,Chevrolet,2011,126000.0,Düz,LPG & Benzin,Sedan,Beyaz,1598,124,Önden Çekiş,6.5,60,1810,4.0,172
+755000.0,Renault,2019,100000.0,Yarı Otomatik,Dizel,Hatchback/5,Beyaz,1461,90,Önden Çekiş,3.7,45,1810,4.0,172
+795750.0,Mercedes - Benz,2013,233000.0,Düz,Dizel,Hatchback/5,Beyaz,1461,109,Önden Çekiş,4.0,50,1705,4.0,200
+1200000.0,Renault,2022,10235.0,Yarı Otomatik,Benzin,Sedan,Beyaz,1332,140,Önden Çekiş,5.7,50,1500,4.0,162
+740000.0,Nissan,2016,88735.0,Otomatik,Benzin,Hatchback/5,Kahverengi,1197,115,Önden Çekiş,5.1,46,1515,4.0,167
+445000.0,Peugeot,2008,250000.0,Düz,Dizel,Sedan,Gri,1560,112,Önden Çekiş,5.3,66,1515,4.0,167
+1075000.0,Honda,2018,93500.0,Otomatik,LPG & Benzin,Sedan,Beyaz,1597,125,Önden Çekiş,6.7,47,1550,4.0,170
+585000.0,Toyota,2011,167000.0,Düz,Benzin,Sedan,Beyaz,1329,99,Önden Çekiş,5.9,55,1780,4.0,180
+469000.0,Renault,2014,242000.0,Düz,Dizel,Sedan,Beyaz,1461,90,Önden Çekiş,3.9,50,1800,4.0,181
+620000.0,Renault,2014,187000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1461,110,Önden Çekiş,4.4,60,1920,4.0,190
+665000.0,Ford,2013,173200.0,Düz,Dizel,Sedan,Gri,1560,95,Önden Çekiş,4.2,53,1814,4.0,185
+390000.0,Citroen,2003,141500.0,Otomatik,Benzin,Hatchback/5,Yeşil,1360,76,Önden Çekiş,7.1,45,1660,4.0,170
+730000.0,Fiat,2019,73000.0,Düz,Dizel,Sedan,Beyaz,1248,95,Önden Çekiş,4.1,45,1670,4.0,187
+385000.0,Volkswagen,2003,306000.0,Otomatik,LPG & Benzin,Hatchback/5,Mavi (metalik),1595,102,Önden Çekiş,8.0,55,1814,4.0,185
+505000.0,Ford,2004,147000.0,Otomatik,LPG & Benzin,Hatchback/5,Mavi,1596,100,Önden Çekiş,7.8,55,2010,4.0,178
+465000.0,Ford,2013,305000.0,Düz,Dizel,Hatchback/5,Beyaz,1498,75,Önden Çekiş,3.7,42,1780,4.0,185
+630000.0,Toyota,2009,175000.0,Otomatik,LPG & Benzin,Sedan,Füme,1598,124,Önden Çekiş,7.2,55,1990,4.0,225
+538000.0,Hyundai,2005,166200.0,Düz,LPG & Benzin,Sedan,Yeşil (metalik),1599,105,Önden Çekiş,7.0,55,1500,4.0,162
+610000.0,Dacia,2013,120000.0,Düz,Dizel,Hatchback/5,Siyah,1461,90,Önden Çekiş,4.0,50,1730,4.0,192
+540000.0,Opel,2011,127000.0,Düz,Dizel,Hatchback/5,Beyaz,1248,95,Önden Çekiş,4.2,56,2345,4.0,226
+550000.0,Opel,2012,278000.0,Yarı Otomatik,LPG & Benzin,Hatchback/5,Gri,1598,115,Önden Çekiş,6.3,52,1590,4.0,185
+1599000.0,Mercedes - Benz,2015,161000.0,Otomatik,Dizel,Sedan,Beyaz,1598,136,Arkadan İtiş,4.2,41,1590,4.0,185
+1538000.0,Honda,2022,10528.0,Otomatik,Benzin,Sedan,Gri,1498,190,Önden Çekiş,7.3,56,1900,4.0,180
+825000.0,Volkswagen,2016,108000.0,Düz,Dizel,Hatchback/5,Beyaz,1598,90,Önden Çekiş,3.8,50,1870,4.0,215
+1534000.0,Cupra,2023,6400.0,Yarı Otomatik,Hibrit,Hatchback/5,Beyaz,1498,150,Önden Çekiş,5.0,50,1680,4.0,170
+915900.0,Mercedes - Benz,2012,136000.0,Yarı Otomatik,Benzin,MPV,Beyaz,1595,122,Önden Çekiş,5.9,56,2275,4.0,226
+258000.0,Fiat,2006,10000.0,Düz,LPG & Benzin,Hatchback/3,Beyaz,1242,81,Önden Çekiş,7.2,51,2344,4.0,247
+550000.0,Volkswagen,2013,146000.0,Düz,Dizel,Hatchback/5,Beyaz,1199,75,Önden Çekiş,3.4,45,2073,4.0,206
+635000.0,Opel,2013,179000.0,Düz,Dizel,Hatchback/5,Beyaz,1248,95,Önden Çekiş,4.1,56,1715,4.0,190
+515000.0,Hyundai,2011,253000.0,Otomatik,Dizel,Sedan,Beyaz,1493,110,Önden Çekiş,5.9,45,2065,4.0,227
+435000.0,Toyota,2008,278000.0,Yarı Otomatik,Dizel,Sedan,Gri,1364,90,Önden Çekiş,4.9,55,1630,4.0,182
+799999.0,Volkswagen,2016,108000.0,Düz,Benzin,Sedan,Beyaz,1197,105,Önden Çekiş,5.0,55,1743,4.0,175
+664000.0,Fiat,2017,135000.0,Yarı Otomatik,Dizel,Sedan,Beyaz,1598,120,Önden Çekiş,3.9,45,1730,4.0,183
+440000.0,Renault,2006,267000.0,Düz,Dizel,Sedan,Gri,1461,80,Önden Çekiş,4.6,60,1650,4.0,176
+675000.0,Volkswagen,2013,166000.0,Düz,Benzin,Hatchback/5,Gri (metalik),1395,122,Önden Çekiş,5.2,50,2050,4.0,232
+510000.0,Peugeot,2013,171000.0,Düz,LPG & Benzin,Sedan,Beyaz,1199,73,Önden Çekiş,5.3,50,1570,4.0,185
+550000.0,Renault,2010,115600.0,Düz,Benzin,Sedan,Diğer,1598,110,Önden Çekiş,6.5,60,1761,4.0,175
+528000.0,Toyota,2005,312000.0,Düz,LPG & Benzin,Sedan,Bej,1598,110,Önden Çekiş,7.2,60,1645,4.0,184
+325000.0,Honda,1997,250000.0,Düz,Benzin,Sedan,Beyaz,1595,160,Önden Çekiş,8.4,45,1750,4.0,195
+690000.0,Ford,2013,134000.0,Düz,Dizel,Sedan,Gri,1560,95,Önden Çekiş,4.2,53,1768,4.0,175
+495000.0,Opel,2013,315000.0,Düz,Dizel,Hatchback/5,Gri (Gümüş),1248,95,Önden Çekiş,4.1,56,1565,4.0,168
+470999.0,Renault,2013,256000.0,Düz,Benzin,Hatchback/5,Bordo,1149,75,Önden Çekiş,5.5,45,1450,4.0,170
+642000.0,BMW,2011,132000.0,Otomatik,LPG & Benzin,Hatchback/5,Beyaz,1596,116,Arkadan İtiş,7.5,53,1675,4.0,185
+430000.0,Peugeot,2007,285000.0,Düz,Dizel,Sedan,Siyah,1560,112,Önden Çekiş,5.3,66,1790,4.0,205
+788000.0,Volkswagen,2014,135000.0,Yarı Otomatik,Dizel,Sedan,Füme,1598,105,Önden Çekiş,4.7,55,1990,4.0,215
+405000.0,Fiat,2007,175000.0,Düz,LPG & Benzin,Hatchback/3,Gri,1368,77,Önden Çekiş,5.9,45,1605,4.0,162
